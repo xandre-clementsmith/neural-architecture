@@ -1,0 +1,2 @@
+- Visual Ventral Stream
+- https://www.helpthereisabraininmyhead.com/loc

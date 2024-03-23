@@ -1,0 +1,2 @@
+- ?? [[Ventral Amygdalofugal Pathway]] [[*Amygdala]] ->
+	- Medial dorsal nucleus of the thalamus, the hypothalamus, the basal forebrain, the brainstem, septal nuclei and nucleus accumbens

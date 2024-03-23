@@ -1,0 +1,2 @@
+- Part of Ventral Attention Network and Dorsal Auditory Pathway
+- Angular Gyrus

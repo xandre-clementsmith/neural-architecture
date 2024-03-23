@@ -1,0 +1,1 @@
+Components: Limitans Nucleus (Lim), Suprageniculate Nucleus (SGe)

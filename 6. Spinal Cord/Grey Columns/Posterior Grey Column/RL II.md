@@ -1,0 +1,3 @@
+- Names: Substantia Gelatinosa
+- Receives C-Tactile Afferent Fibers
+- ? Receives C-Fibers for nociception and temperature ?

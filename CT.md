@@ -1,0 +1,5 @@
+1. P functions engage a primarily pre-reward system. They are information gathering directed by Ji and Je. They fit the brain to the world in service of Ji and Je.
+	1. Pe utilizes attention mechanisms to take in sensory information. Pi utilizes memory mechanisms and blocks out sensory information (either covering eyes with eyelids or brows).
+2. J functions engage a primarily post-reward system. They act on information from Pi and Pe. They fit the world to the brain to maintain homeostasis.
+	1. Je bluntly utilizes the motor system to fit the world to the preferred (rewarding) state. Je acts swiftly to minimize necessity for internal perfection. Ji finely utilizes the motor system to fit the world to the preferred (rewarding) state. Ji ensures internal perfection to minimize necessity for action.
+3. Pe/Je (Attention/Executive) are tied closely to sensory and motor pathways. Pi/Ji (Default/Salience) are distal to sensory and motor pathways, and are named "limbic."

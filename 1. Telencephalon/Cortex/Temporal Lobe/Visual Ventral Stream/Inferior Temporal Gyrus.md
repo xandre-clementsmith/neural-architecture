@@ -1,0 +1,8 @@
+- BA20
+- https://www.helpthereisabraininmyhead.com/itl 
+- Either Inferior Temporal Gyrus or Fusiform Gyrus Includes:
+	- Fusiform Face Area (https://www.helpthereisabraininmyhead.com/ffa)
+	- Fusiform Body Area (https://www.helpthereisabraininmyhead.com/fba)
+	- Visual Word Form Area (https://www.helpthereisabraininmyhead.com/vwfa)
+	- Occipital Face Area (https://www.helpthereisabraininmyhead.com/ofa)
+- Identifies specialized objects

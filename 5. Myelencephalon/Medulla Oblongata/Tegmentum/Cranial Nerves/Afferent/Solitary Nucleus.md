@@ -1,0 +1,2 @@
+- Receives general and visceral from CN VII, CN IX, and CN X
+- Includes medulla gustatory nucleus

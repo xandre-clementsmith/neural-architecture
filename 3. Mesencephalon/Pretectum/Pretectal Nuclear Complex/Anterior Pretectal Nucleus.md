@@ -1,0 +1,1 @@
+- Compact and reticular divisions

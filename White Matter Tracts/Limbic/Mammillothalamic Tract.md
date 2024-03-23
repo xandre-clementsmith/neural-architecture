@@ -1,0 +1,2 @@
+- [[Mammillothalamic Tract]] : [[Mammillary]]
+	- Anterior [[*Thalamus]]

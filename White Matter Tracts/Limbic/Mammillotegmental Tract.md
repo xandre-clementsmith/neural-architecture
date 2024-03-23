@@ -1,0 +1,2 @@
+- [[Mammillotegmental Tract]] : [[Mammillary]] -> 
+	- Tegmentum (Midbrain and Potine Reticular)

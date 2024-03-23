@@ -1,0 +1,2 @@
+- Ventral Stream
+- https://www.helpthereisabraininmyhead.com/vo

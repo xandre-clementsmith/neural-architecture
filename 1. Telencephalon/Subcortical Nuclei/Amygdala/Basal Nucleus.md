@@ -1,0 +1,3 @@
+- Receives input from hippocampus and cortical association areas, such as inferotemporal cortex
+- Sends efferents to sensory association cortex and central nucleus
+- Acquisition of conditioned response

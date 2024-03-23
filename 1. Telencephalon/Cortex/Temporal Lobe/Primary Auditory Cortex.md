@@ -1,0 +1,4 @@
+- BA41, BA42
+- Transverse Temporal Gyrus
+- Internal from [[Primary Auditory Cortex]]
+- External from 

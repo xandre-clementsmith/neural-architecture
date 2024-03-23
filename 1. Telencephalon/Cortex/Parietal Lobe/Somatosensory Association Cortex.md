@@ -1,0 +1,4 @@
+- Supplementary Sensory Area
+- BA5
+- Locomotion/Navigation
+- Default Network

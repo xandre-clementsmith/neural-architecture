@@ -1,0 +1,6 @@
+- Direct thalamic afferents from sensory modalities
+	- Somesthetic?: Intralaminar Nuclei
+	- Vision?: Supregeniculate Nucleus
+	- Auditory: Medial Division of the Medial Geniculate Nucleus
+- Learn and express conditioned fear response
+- Sensory input to the amygdala

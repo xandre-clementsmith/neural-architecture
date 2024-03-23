@@ -1,0 +1,4 @@
+- BA38
+- https://www.helpthereisabraininmyhead.com/atl
+- Lexicon of objects/events/nouns
+- Combines autobiographical knowledge of objects/events and merges new knowledge

@@ -1,0 +1,1 @@
+Components: Centromedian Nucleus (CM), Parafascicular Nucleus (PF), Subparafascicular Nucleus (SPf)

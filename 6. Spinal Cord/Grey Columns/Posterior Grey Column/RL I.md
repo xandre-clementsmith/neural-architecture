@@ -1,0 +1,7 @@
+- Primarily interneurons for pain and temperature
+- Innervates:
+	- Caudal Ventrolateral Medulla (CVLM): Nociceptive and cardiovascular response
+	- Nucleus of the Solitary Tract (NTS): Cardio-respiratory inputs and noxious stimulation for reflex tachycardia
+	- Lateral Parabrachial Area (LPb): Projects to amygdala and hypothalamus for emotional response to pain
+	- Periaqueductal Grey Matter (PAG): Develops ways to deal with pain and main target for analgesics
+	- Thalamus: Sensory and motivational aspects of pain

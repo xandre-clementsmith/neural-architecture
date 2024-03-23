@@ -1,0 +1,3 @@
+- Names: Nucleus Proprius
+- Aβ Fibers (Mechanosensitive) Termination Site
+- C Fibers (Nociception, Temperature) Termination Site

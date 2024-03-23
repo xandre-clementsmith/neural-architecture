@@ -1,0 +1,3 @@
+- Emotion
+- https://www.helpthereisabraininmyhead.com/mpfc
+- Connection to medial place area

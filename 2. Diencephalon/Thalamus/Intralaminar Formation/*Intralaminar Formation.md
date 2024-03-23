@@ -1,0 +1,4 @@
+- CeM+Pf: Brainstem, Cerebellum, Subcortex, Visual and Frontal Cortices
+- CM: Subcortical motor system (Brainstem and Cerebellum)
+- CL: Superior Colliculus and Fornix
+- sPF: Basal Ganglia, Motor, Somatosensory, Parietal, and Insular

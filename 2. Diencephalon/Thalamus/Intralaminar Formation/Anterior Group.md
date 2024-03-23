@@ -1,0 +1,1 @@
+Components: Central Medial Nucleus (CeM), Central Lateral Nucleus (CeL), Paracentral Nucleus (PCe), Cucullar Nucleus (Cue), Fasciculuous Nucleus (Fa)

@@ -1,0 +1,1 @@
+- Output nuclei similar to [[Substantia Nigra pars reticular]]

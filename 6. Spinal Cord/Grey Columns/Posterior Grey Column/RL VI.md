@@ -1,0 +1,1 @@
+- Only found in cervical and lumbar regions

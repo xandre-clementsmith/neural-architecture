@@ -1,0 +1,1 @@
+- Primarily carries non-oculomotor cranial nerve information from motor cortex

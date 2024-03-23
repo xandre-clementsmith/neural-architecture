@@ -1,0 +1,1 @@
+- Connect LGN with visual cortex

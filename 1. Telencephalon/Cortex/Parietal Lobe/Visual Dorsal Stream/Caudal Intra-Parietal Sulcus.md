@@ -1,0 +1,2 @@
+- Object/tool perception
+- https://www.helpthereisabraininmyhead.com/cips

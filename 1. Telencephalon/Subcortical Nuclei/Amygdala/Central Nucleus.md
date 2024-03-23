@@ -1,0 +1,2 @@
+- Extra-amygdala efferents
+- Important connectivity with brainstem nuclei, such as periaqueductal gray and lateral hypothalamus
