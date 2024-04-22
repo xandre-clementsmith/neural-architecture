@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f292c2c8ffd1792c",
@@ -162,6 +161,9 @@
   },
   "active": "80602c89e9cadb88",
   "lastOpenFiles": [
+    "z_png/Pasted image 20240409231944.png",
+    "z_png/Pasted image 20240409231424.png",
+    "z_png/Pasted image 20240409230124.png",
     "Pasted image 20240409231944.png",
     "Pasted image 20240409231424.png",
     "4. Metencephalon/Pons/Pontine Nuclei.md",
@@ -195,9 +197,6 @@
     "z_png/Pasted image 20240329204208.png",
     "z_png/Pasted image 20240329203842.png",
     "z_png/Pasted image 20240328232308.png",
-    "z_png/Pasted image 20240328232254.png",
-    "z_png/Pasted image 20240328231925.png",
-    "z_png/Pasted image 20240328231942.png",
     "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation"
   ]
 }
