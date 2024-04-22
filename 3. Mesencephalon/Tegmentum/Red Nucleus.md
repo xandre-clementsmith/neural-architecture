@@ -3,7 +3,7 @@
 		- Rubrospinal System
 		- Quickly receives cerebellar processed somatosensory along with motor regions of cortex
 		- Afferents:
-			- [[*Interposed Nucleus]]: Spinal somatosensory (contextual mossy fibers) via [[Superior Cerebellar Peduncle]] and directly
+			- [['Interposed Nucleus]]: Spinal somatosensory (contextual mossy fibers) via [[Superior Cerebellar Peduncle]] and directly
 			- Cortical via VA and VL nuclei of Thalamus
 		- Efferents: 
 			- [[Rubrospinal Tract]] 

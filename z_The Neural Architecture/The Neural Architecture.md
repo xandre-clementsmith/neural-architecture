@@ -8,7 +8,7 @@ Geometric Constraints: [https://www.nature.com/articles/s41586-023-06098-1](http
 
 ### Homeostasis? - Brainstem
 
-### Relay - [[*Thalamus]]
+### Relay - [['Thalamus]]
 - Hippocampal->Cingulate: Anterodorsal
 - ->Vision/Auditory: Metathalamus
 - BG->Motor: Ventroanterior/Ventrolateral
@@ -24,7 +24,7 @@ Geometric Constraints: [https://www.nature.com/articles/s41586-023-06098-1](http
 
 ### Cortical Reward-Based System - Frontal Lobe
 
-### [[*Large-Scale Brain Networks]]
+### [['Large-Scale Brain Networks]]
 
 ### [[Outputs]]
 

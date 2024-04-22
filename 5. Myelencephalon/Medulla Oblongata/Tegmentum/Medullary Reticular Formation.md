@@ -1,7 +1,7 @@
-See [[*Reticular Formation]] for more information 
+See [['Reticular Formation]] for more information 
 
 - Includes nucleus ambiguus
-	- Innervates soft palate, pharynx, and larynx for speech and swallowing via [[CN X]] and [[CN IX]]
+	- Innervates soft palate, pharynx, and larynx for speech and swallowing via [[CN X]] and [[5. Myelencephalon/Medulla Oblongata/Tegmentum/Cranial Nerves/Efferent/CN IX]]
 	- Innervates heart
 	- Receives innervation via the [[Corticobulbar Tracts]]
 

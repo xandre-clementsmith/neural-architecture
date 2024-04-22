@@ -1,4 +1,4 @@
-- Ventral/Tectal [[*Pons]]
+- Ventral/Tectal [['Pons]]
 - Receives cortex-wide [[Corticopontine Fibers]]
 - Significant projections to [[Middle Cerebellar Peduncle]]
 

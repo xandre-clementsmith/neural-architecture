@@ -9,7 +9,7 @@
 	- Defensive
 - Cortical Projections
 	- Isocortex (Excitatory)
-		- Glutamate projection to the brainstem ([[Internal Capsule]]) and spinal cord motor system ([[*Corticospinal Tract]])
+		- Glutamate projection to the brainstem ([[Internal Capsule]]) and spinal cord motor system ([['Corticospinal Tract]])
 		- Glutamate collateral to the striatum (Corticostriatal)
 	- Striatum (Inhibitory)
 		- GABA projection to the brainstem motor system

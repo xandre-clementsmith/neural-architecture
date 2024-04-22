@@ -18,21 +18,21 @@
 		- [[Ventral Tegmental Area]]
 		- [[Substantia Nigra pars reticular]]
 		- [[Subthalamic Nucleus]]
-		- Lateral [[*Hypothalamus]]
+		- Lateral [['Hypothalamus]]
 		- [[Ventral Pallidum]]
-		- [[*Amygdala]]
+		- [['Amygdala]]
 		- [[Septal Nuclei]]
 	- Ascending Dorsal Pathway
 		- [[Superior Colliculus]]
 		- [[Inferior Colliculus]]
 		- [[Parainterfascicular Nucleus]]
-		- Reticular [[*Thalamus]]
-		- Anterior [[*Thalamus]]
-		- Motor, Sensory, Associative, and Limbic [[*Thalamus]]
-		- Striatum of the [[*Basal Ganglia]]]
+		- Reticular [['Thalamus]]
+		- Anterior [['Thalamus]]
+		- Motor, Sensory, Associative, and Limbic [['Thalamus]]
+		- Striatum of the [['Basal Ganglia]]]
 	- Descending Pathway
 		- Rostral and Caudal [[Pontine Nuclei]] (Cerebellum)
-		- Gigantocellular [[*Reticular Formation]] ([[Reticulospinal Tracts]])
+		- Gigantocellular [['Reticular Formation]] ([[Reticulospinal Tracts]])
 		- Spinal Cord via [[Reticulospinal Tracts]]
 - Afferents
 

@@ -32,18 +32,18 @@ Brainstem/Spinal
 
 ### Limbic
 - [[Fornix]] : [[Hippocampus Proper]] -> 
-	- Posterior: [[*Hypothalamus]], [[Mammillary]], Anterior [[*Thalamus]]
+	- Posterior: [['Hypothalamus]], [[Mammillary]], Anterior [['Thalamus]]
 	- Anterior: [[Septal Nuclei]], [[Nucleus Accumbens]]
 - [[Mammillotegmental Tract]] : [[Mammillary]] -> 
 	- Tegmentum (Midbrain and Potine Reticular)
 - [[Mammillothalamic Tract]] : [[Mammillary]]
-	- Anterior [[*Thalamus]]
+	- Anterior [['Thalamus]]
 - ?? [[Medial Forebrain Bundle]] : Basal Olfactory Regions, Periamygdaloid Cortex, [[Septal Nuclei]], (NAcc?) <->
 	- VTA (Mesolimbic), Nigrostriatal
-- [[Stria Terminalis]] : [[*Amygdala]] ->
+- [[Stria Terminalis]] : [['Amygdala]] ->
 	- [[Ventromedial]] Hypothalamus
 	- Includes [[Bed Nucleus of the Stria Terminalis]]
-- ?? [[Ventral Amygdalofugal Pathway]] [[*Amygdala]] ->
+- ?? [[Ventral Amygdalofugal Pathway]] [['Amygdala]] ->
 	- Medial dorsal nucleus of the thalamus, the hypothalamus, the basal forebrain, the brainstem, septal nuclei and nucleus accumbens
 
 

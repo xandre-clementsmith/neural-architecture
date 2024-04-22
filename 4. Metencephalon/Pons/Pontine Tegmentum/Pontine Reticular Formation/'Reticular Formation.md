@@ -7,14 +7,14 @@
 
 General Connectivity
 - Efferents
-	- [[*Intralaminar Formation]] of the Thalamus
+	- [['Intralaminar Formation]] of the Thalamus
 	- [[Reticulospinal Tracts]] for both [[Somatic System]] and [[Autonomic System]]
-	- [[*Cerebellum]]: Includes both [[Inferior Cerebellar Peduncle]] (errors) and [[Middle Cerebellar Peduncle]] (parallel fibers)
+	- [['Cerebellum]]: Includes both [[Inferior Cerebellar Peduncle]] (errors) and [[Middle Cerebellar Peduncle]] (parallel fibers)
 - Afferents
 	- [[Spinoreticular Tract]]
 	- [[Corticobulbar Tracts]]
 	- [[Fastigial Nucleus]] via [[Superior Cerebellar Peduncle]]
-	- [[*Hypothalamus]]
+	- [['Hypothalamus]]
 - Short local connections to cranial nerve reflexes, central pattern generators (brainstem), cerebellum input & output, and gaze centers within the brainstem
 - Long connections
 	- Mesencephalic and rostral pontine RF modulates forebrain activity

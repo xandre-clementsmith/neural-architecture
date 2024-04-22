@@ -6,7 +6,7 @@
 ### Direct Sensation Pathways
 ##### General Somatic (GSA): 
 External Pain, Touch, Temperature via
-- [[*Spinothalamic Tract]] (STT): Nociception, Temperature, Crude Touch, Pressure, C-Tactile Afferent
+- [['Spinothalamic Tract]] (STT): Nociception, Temperature, Crude Touch, Pressure, C-Tactile Afferent
 - [[Spinoreticular Tract]]: Alertness and Arousal
 - [[Spinotectal Tract]]: Orients head and eyes towards stimulus. Terminates in [[Superior Colliculus]] and [[Inferior Colliculus]]
 - Dorsal Column-Medial Lemniscus Pathway (DCML): Fine Touch, Vibration, Two-Point Discrimination, Proprioception
@@ -16,7 +16,7 @@ External Pain, Touch, Temperature via
 	- Only the insula and the secondary somatosensory cortex generate pain when stimulated (https://pubmed.ncbi.nlm.nih.gov/19665303/)
 ##### General Visceral (GVA): 
 Internal Pain, Reflex Sensations via [[Spinal Trigeminal Nucleus]] and CN X
-- Visceral Pathways -> Thalamus -> [[*Insular Lobe]]
+- Visceral Pathways -> Thalamus -> [['Insular Lobe]]
 - CN X:
 	- Nodose vagus cell bodies -> Nucleus Tractus Solitarii -> Parabrachial Nucleus -> Ventroposteromedial Nucleus of the Thalamus -> Insular Cortex
 	- Aortic, cardiac, pulmonary, and Gastrointestinal receptors
@@ -36,7 +36,7 @@ Internal Pain, Reflex Sensations via [[Spinal Trigeminal Nucleus]] and CN X
 ### Sensory Cortices
 - [[Primary Visual Cortex (V1)]]
 - [[Primary Auditory Cortex]]
-- [[*Primary Somatosensory Cortex]]
+- [['Primary Somatosensory Cortex]]
 - [[Secondary-Somatosensory Cortex (S2)]]
 - [[Primary Gustatory Cortex]]
 - [[Insular Viscero-Sensory Cortex]]
