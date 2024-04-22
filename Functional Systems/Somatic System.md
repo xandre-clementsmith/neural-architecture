@@ -12,7 +12,7 @@ Extrapyramidal
 	- [[*Cerebellum]] Efferents Project via Rubrospinal (maybe Reticulospinal?) {x}
 	- Receives rapid somatosensory directly and pre-processed via cerebellum
 - [[Reticulospinal Tracts]] {}
-	- <- [[Pontine Reticular Formation]] and [[Medullary Reticular Formation]]
+	- <- [[*Reticular Formation]] and [[Medullary Reticular Formation]]
 	- Includes sympathetic component of autonomic
 - [[Tectospinal Tract]] {x}
 	- <- Superior Colliculi (Visual / Auditory Reflex)
@@ -24,3 +24,4 @@ Extrapyramidal
 ![[Pasted image 20240227224331.png]]
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4844028/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8226017/

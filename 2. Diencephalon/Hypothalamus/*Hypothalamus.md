@@ -85,4 +85,6 @@ Hypothalamic Divisions
 
 ![[Pasted image 20240215023312.png]]
 
-![[Pasted image 20240215023528.png]]
+![[Pasted image 20240215023528.png]]![[Pasted image 20240328204330.png]]
+- Rostral (Red): Circuits regulating the three basic classes of goal-oriented behavior common to all animals: ingestive, reproductive, and defensive
+- Caudal (Black): Plays a critical role in circuits underlying the expression of exploratory or foraging behavior

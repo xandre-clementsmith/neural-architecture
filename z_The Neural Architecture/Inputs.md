@@ -6,7 +6,9 @@
 ### Direct Sensation Pathways
 ##### General Somatic (GSA): 
 External Pain, Touch, Temperature via
-- [[Spinothalamic Tract]] (STT): Nociception, Temperature, Crude Touch, Pressure, C-Tactile Afferent
+- [[*Spinothalamic Tract]] (STT): Nociception, Temperature, Crude Touch, Pressure, C-Tactile Afferent
+- [[Spinoreticular Tract]]: Alertness and Arousal
+- [[Spinotectal Tract]]: Orients head and eyes towards stimulus. Terminates in [[Superior Colliculus]] and [[Inferior Colliculus]]
 - Dorsal Column-Medial Lemniscus Pathway (DCML): Fine Touch, Vibration, Two-Point Discrimination, Proprioception
 - Spinocerebellar Tract, Spino-Olivary Tract: Proprioception
 - [[CN X]]: Communication with Enteric Nervous System
@@ -18,7 +20,7 @@ Internal Pain, Reflex Sensations via [[Spinal Trigeminal Nucleus]] and CN X
 - CN X:
 	- Nodose vagus cell bodies -> Nucleus Tractus Solitarii -> Parabrachial Nucleus -> Ventroposteromedial Nucleus of the Thalamus -> Insular Cortex
 	- Aortic, cardiac, pulmonary, and Gastrointestinal receptors
-- CN IX: Cardiovascular and larynx project to the nucleus ambiguus (main sensory ganglion of the glossopharyngeal nerve)
+- [[5. Myelencephalon/Medulla Oblongata/Tegmentum/Cranial Nerves/Efferent/CN IX]]: Cardiovascular and larynx project to the nucleus ambiguus (main sensory ganglion of the glossopharyngeal nerve)
 	- Petrosal ganglia glossopharyngeal cell bodies -> Nucleus Tractus Solitarii -> Parabrachial Nucleus -> Ventroposteromedial Nucleus of the Thalamus -> Insular Cortex
 	- Baroreceptors, chemoreceptors, and carotid sinus
 - Spinal Cord: Thoracolumbar Sympathetic and Sacral Parasympathetic Nerve Trunks -> Viscerosomatic Neurons in the Dorsal Horn and Intermediate Grey Matter -> Spinothalamic and spinoreticular pathways for visceral pain and sexual sensation & Dorsal column for micturition, defecation, and gastric distention

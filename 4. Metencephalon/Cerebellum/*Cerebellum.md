@@ -13,7 +13,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6056176/
 	- Tectocerebellar Fibers
 	- Noradrenergic Fibers
 - [[Middle Cerebellar Peduncle]]
-	- Cerebral and pons inputs via majority of "contextual" mossy fibers (40 million axons)
+	- Cerebral and pons inputs via [[Pontine Nuclei]] project majority of "contextual" mossy fibers (40 million axons)
 - [[Inferior Cerebellar Peduncle]] {x}
 	- [[Inferior Olive]] errors via climbing fibers
 		- Spinal somatosensory, Vestibular/Optokinetic, Superior Colliculus

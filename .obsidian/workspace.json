@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "62cb6099d1469e7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0e408e3c9ff9a76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80602c89e9cadb88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Pedunculopontine Nucleus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec3937f880d708b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/*Reticular Formation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bdb66ea6f7aa1fc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae43eebc70bfa378",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6b0df8f28bb6d31",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc96a12231adb4a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "pedunculopontine",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b26448be7a53ad03",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "f292c2c8ffd1792c",
+    "type": "split",
+    "children": [
+      {
+        "id": "888e791a8bf170d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cea8a7e74338bf9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Pedunculopontine Nucleus.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "677288d4e046cdb7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Pedunculopontine Nucleus.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7122036d984932bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3960802712c65dcc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Pedunculopontine Nucleus.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "80602c89e9cadb88",
+  "lastOpenFiles": [
+    "Pasted image 20240409231944.png",
+    "Pasted image 20240409231424.png",
+    "4. Metencephalon/Pons/Pontine Nuclei.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Pedunculopontine Nucleus.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/*Reticular Formation.md",
+    "Pasted image 20240409230124.png",
+    "6. Spinal Cord/Efferent Pathways/Extrapyramidal Tracts/Reticulospinal Tracts.md",
+    "1. Telencephalon/Subcortical Nuclei/Basal Ganglia/Pallidal Structures/Ventral Pallidum.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Pedunculopontine Nucleus.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Dorsal Tegmental Nucleus.md",
+    "z_The Neural Architecture/The Neural Architecture.md",
+    "TODO.md",
+    "Tools.md",
+    "z_The Neural Architecture/Inputs.md",
+    "CT.md",
+    "README.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Locus Coeruleus.md",
+    "5. Myelencephalon/Medulla Oblongata/Tegmentum/Raphe Nuclei.md",
+    "5. Myelencephalon/Medulla Oblongata/Tegmentum/Precerebellar Nuclei/Inferior Olive.md",
+    "Functional Systems/Somatic System.md",
+    "z_The Neural Architecture/Outputs.md",
+    "Functional Systems/Autonomic System.md",
+    "5. Myelencephalon/Medulla Oblongata/Tegmentum/Cranial Nerves/Efferent/CN VII.md",
+    "5. Myelencephalon/Medulla Oblongata/Tegmentum/Cranial Nerves/Efferent/CN IX.md",
+    "5. Myelencephalon/Medulla Oblongata/Tegmentum/Cranial Nerves/Afferent/Spinal Trigeminal Nucleus.md",
+    "5. Myelencephalon/Medulla Oblongata/Tegmentum/Cranial Nerves/Afferent/Solitary Nucleus.md",
+    "5. Myelencephalon/Medulla Oblongata/Tegmentum/Cranial Nerves/Afferent/CN VIII.md",
+    "5. Myelencephalon/Medulla Oblongata/Tegmentum/Cranial Nerves/Afferent/*CN IX.md",
+    "z_png/Pasted image 20240329222730.png",
+    "z_png/Pasted image 20240329200024.png",
+    "z_png/Pasted image 20240329204208.png",
+    "z_png/Pasted image 20240329203842.png",
+    "z_png/Pasted image 20240328232308.png",
+    "z_png/Pasted image 20240328232254.png",
+    "z_png/Pasted image 20240328231925.png",
+    "z_png/Pasted image 20240328231942.png",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation"
+  ]
+}

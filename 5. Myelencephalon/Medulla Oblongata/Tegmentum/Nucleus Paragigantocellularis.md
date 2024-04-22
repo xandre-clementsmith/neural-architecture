@@ -1,0 +1,2 @@
+- Sympathetic cardiovascular and respiratory
+- Efferents to [[Solitary Nucleus]] and [[Locus Coeruleus]]

@@ -8,3 +8,10 @@
 - Made of medial/pontine and lateral/medullary tracts
 - Includes Sympathetic Component of [[Autonomic System]]
 - Does not appear to directly receive cerebellar inputs
+
+
+
+References: 
+Cerebral hemisphere regulation of motivated behavior
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4844028/
+https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2017.00581/full

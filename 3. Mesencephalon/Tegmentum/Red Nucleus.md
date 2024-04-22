@@ -11,7 +11,7 @@
 		- Rubro-Olivo-Cerebellar System / Part of Cerebellar Error System ([[Inferior Olive]])
 		- Afferents:
 			- Motor Cortical: [[Motor Cortex (M1)]], [[Supplementary Eye Field]], and [[Frontal Eye Field]]
-			- [[Dentate Nucleus|Dentate Nucleus]]
+			- [[Dentate Nucleus|Dentate Nucleus]] / [[Superior Cerebellar Peduncle]]
 		- Efferents
 			- [[Inferior Olive]] via Rubro-Olivary Pathway
 				- Cerebellar Cortex

@@ -55,7 +55,7 @@ Geometric Constraints: [https://www.nature.com/articles/s41586-023-06098-1](http
 - Backprop
 
 
-TBD
+
 ![[Pasted image 20240308182222.png]]
 ![[Pasted image 20240320225324.png]]
 http://larrywswanson.com/wp-content/uploads/2015/06/1993-TINS-poster-reflex.jpg 
