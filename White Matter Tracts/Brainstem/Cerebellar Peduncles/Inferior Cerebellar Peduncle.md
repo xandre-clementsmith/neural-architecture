@@ -1,4 +1,5 @@
 - Connects spinal cord and medulla to cerebellum
+- Provides error information
 - Afferents
 	- Dorsal spinocerebellar tract 
 	- [[Inferior Olive]] Nucleus Axons (Error Information)

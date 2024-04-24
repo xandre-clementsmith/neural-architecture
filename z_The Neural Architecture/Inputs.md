@@ -20,10 +20,11 @@ Internal Pain, Reflex Sensations via [[Spinal Trigeminal Nucleus]] and CN X
 - CN X:
 	- Nodose vagus cell bodies -> Nucleus Tractus Solitarii -> Parabrachial Nucleus -> Ventroposteromedial Nucleus of the Thalamus -> Insular Cortex
 	- Aortic, cardiac, pulmonary, and Gastrointestinal receptors
-- [[5. Myelencephalon/Medulla Oblongata/Tegmentum/Cranial Nerves/Efferent/CN IX]]: Cardiovascular and larynx project to the nucleus ambiguus (main sensory ganglion of the glossopharyngeal nerve)
+- [[5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Efferent/CN IX]]: Cardiovascular and larynx project to the nucleus ambiguus (main sensory ganglion of the glossopharyngeal nerve)
 	- Petrosal ganglia glossopharyngeal cell bodies -> Nucleus Tractus Solitarii -> Parabrachial Nucleus -> Ventroposteromedial Nucleus of the Thalamus -> Insular Cortex
 	- Baroreceptors, chemoreceptors, and carotid sinus
 - Spinal Cord: Thoracolumbar Sympathetic and Sacral Parasympathetic Nerve Trunks -> Viscerosomatic Neurons in the Dorsal Horn and Intermediate Grey Matter -> Spinothalamic and spinoreticular pathways for visceral pain and sexual sensation & Dorsal column for micturition, defecation, and gastric distention
+- Circumventricular Organs: Blood-brain sensory transduction via the subfornical organ, [[Area Postrema]], vascular organ of lamina terminalis, median eminence, pituitary neural lobe, and pineal gland.
 ##### Special Visceral (SVA):
 - Smell via CN I
 - Taste via VII, IX, and X

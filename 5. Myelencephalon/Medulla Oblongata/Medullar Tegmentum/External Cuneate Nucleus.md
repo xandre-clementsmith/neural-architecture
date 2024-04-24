@@ -1,0 +1,1 @@
+- Sensory input about position and movement from upper limb, projecting to the [['Cerebellum]] via cuneocerebellar fibers ([[Inferior Cerebellar Peduncle]])

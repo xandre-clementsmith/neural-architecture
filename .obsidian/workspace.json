@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e0e408e3c9ff9a76",
+        "id": "f4d59252db974e18",
         "type": "tabs",
         "children": [
           {
-            "id": "80602c89e9cadb88",
+            "id": "a8c7645b90982a2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "White Matter Tracts/'White Matter Tracts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec3937f880d708b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'Reticular Formation.md",
+                "file": "White Matter Tracts/Brainstem/Cerebellar Peduncles/Inferior Cerebellar Peduncle.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pedunculopontine",
+                "query": "inferior oliv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "White Matter Tracts/'White Matter Tracts.md",
+                "file": "White Matter Tracts/Brainstem/Cerebellar Peduncles/Inferior Cerebellar Peduncle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "White Matter Tracts/'White Matter Tracts.md",
+                "file": "White Matter Tracts/Brainstem/Cerebellar Peduncles/Inferior Cerebellar Peduncle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "White Matter Tracts/'White Matter Tracts.md"
+                "file": "White Matter Tracts/Brainstem/Cerebellar Peduncles/Inferior Cerebellar Peduncle.md"
               }
             }
           }
@@ -158,34 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6b0df8f28bb6d31",
+  "active": "a8c7645b90982a2f",
   "lastOpenFiles": [
-    "Functional Systems/Large-Scale Brain Networks/'Large-Scale Brain Networks.md",
-    "6. Spinal Cord/'Spinal Cord.md",
-    "6. Spinal Cord/Efferent Pathways/Pyramidal Tracts/Lateral Corticospinal Tract/'Lateral Corticospinal Tract.md",
-    "6. Spinal Cord/Efferent Pathways/Pyramidal Tracts/'Corticospinal Tract.md",
-    "6. Spinal Cord/Afferent Pathways/Anterolateral System/'Spinothalamic Tract.md",
-    "6. Spinal Cord/Afferent Pathways/Anterolateral System/Lateral Spinothalamic Tract/'Lateral Spinothalamic Tract.md",
-    "5. Myelencephalon/Medulla Oblongata/'Medulla Oblongata.md",
-    "5. Myelencephalon/Medulla Oblongata/Tegmentum/Cranial Nerves/Afferent/CN VIII.md",
-    "5. Myelencephalon/Medulla Oblongata/Tegmentum/Cranial Nerves/Afferent/CN IX.md",
+    "White Matter Tracts/Brainstem/Cerebellar Peduncles/Middle Cerebellar Peduncle.md",
+    "White Matter Tracts/Brainstem/Cerebellar Peduncles/Superior Cerebellar Peduncle.md",
+    "TODO.md",
+    "Functional Systems/Gut-Brain Circuits.md",
+    "Functional Systems/Papez Circuit.md",
+    "Functional Systems/Somatic System.md",
+    "Functional Systems/Vision.md",
+    "Functional Systems/Thirst.md",
+    "Functional Systems/Satiety Network.md",
+    "Functional Systems/Neurotransmission.md",
+    "Functional Systems/Autonomic System.md",
+    "Functional Systems/Endocrine.md",
+    "Functional Systems/Hypothalamus-Pituitary-Adrenal.md",
+    "Functional Systems/Motivated Behavior System (Swanson).md",
     "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'Reticular Formation.md",
-    "4. Metencephalon/Pons/'Pons.md",
-    "4. Metencephalon/Cerebellum/'Cerebellum.md",
-    "4. Metencephalon/Cerebellum/Deep Cerebellar Nuclei/Interposed Nucleus/'Interposed Nucleus.md",
-    "3. Mesencephalon/'Midbrain.md",
-    "2. Diencephalon/Thalamus/'Thalamus.md",
-    "2. Diencephalon/Thalamus/Posterior Region/Pulvinar Nuclei.md",
-    "2. Diencephalon/Thalamus/Midline Nuclei and Periventricular Formation/'Midline Nuclei.md",
-    "2. Diencephalon/Thalamus/Midline Nuclei and Periventricular Formation/'Periventricular Formation.md",
-    "2. Diencephalon/Thalamus/Lateral Region/'Lateral Region.md",
-    "2. Diencephalon/Thalamus/Intralaminar Formation/'Intralaminar Formation.md",
-    "2. Diencephalon/Thalamus/Anterodorsal Region/'Anterodorsal Region.md",
-    "2. Diencephalon/Prethalamus/'Prethalamus.md",
-    "2. Diencephalon/Hypothalamus/'Hypothalamus.md",
-    "2. Diencephalon/Hypothalamus/Visceromotor Network/'Visceromotor Network.md",
-    "2. Diencephalon/Hypothalamus/Periventricular Region/'Periventricular Region.md",
-    "2. Diencephalon/Hypothalamus/Neuroendocrine Motor Zone/'Neuroendocrine Motor Zone.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Nuclei.md",
+    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Area Postrema.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Parabrachial Nucleus.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Laterodorsal Tegmental Nucleus.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Dorsal Tegmental Nucleus.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Ventral Tegmental Nucleus.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Noradrenergic Neurons.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Auditory Relay Nuclei/Superior Olive.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Auditory Relay Nuclei.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Auditory Relay Nuclei",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Auditory Relay Nuclei/Nucleus of the Lateral Lemniscus.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Auditory Relay Nuclei/Nucleus of the Trapezoid Body.md",
     "z_png/Pasted image 20240409231944.png",
     "z_png/Pasted image 20240409231424.png",
     "z_png/Pasted image 20240409230124.png",

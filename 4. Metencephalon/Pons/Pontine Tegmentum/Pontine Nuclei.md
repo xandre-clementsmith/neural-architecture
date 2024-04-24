@@ -10,3 +10,7 @@
 - Paramedian
 - Peduncular
 - Reticulotegmental
+
+- Otherwise known as pontine gray
+
+- Includes dorsal tegmental nucleus

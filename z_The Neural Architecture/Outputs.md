@@ -6,4 +6,4 @@ Systems
 - Neuroendocrine System
 
 Additional Information
-- [[Motivated Behavior System]]
+- [[Motivated Behavior System (Swanson)]]

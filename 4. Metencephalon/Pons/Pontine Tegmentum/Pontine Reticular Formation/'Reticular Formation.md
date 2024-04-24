@@ -21,7 +21,7 @@ General Connectivity
 	- Medullary and caudal pontine RF modulates somatic and visceral motor activity ([[Reticulospinal Tracts]])
 
 Divisions
-- [[5. Myelencephalon/Medulla Oblongata/Tegmentum/Raphe Nuclei|Raphe Nuclei]]
+- [[5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Raphe Nuclei|Raphe Nuclei]]
 - Medial magnocellular column: Motor Coordination
 	- Very large neurons
 	- Efferents: [[Reticulospinal Tracts]] (Pontospinal and Bulbospinal), Thalamus, Cerebellum

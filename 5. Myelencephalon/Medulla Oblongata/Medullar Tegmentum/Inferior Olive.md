@@ -13,7 +13,7 @@ Synapses with 1-10 Purkinje cells
 ##### Afferents
 - Somatosensory via [[Spino-Olivary Tract]] {x}
 	- MAOc, DAO
-- Vestibular/Optokinetic via Optic Tract, Paramedian [['Reticular Formation]] (Saccades), the dorsal group Y (Eye Movements), Nucleus Prepositus Hypoglossi, and Vestibular Nerve of [[5. Myelencephalon/Medulla Oblongata/Tegmentum/Cranial Nerves/Afferent/CN VIII|CN VIII]] {x}
+- Vestibular/Optokinetic via Optic Tract, Paramedian [['Reticular Formation]] (Saccades), the dorsal group Y (Eye Movements), Nucleus Prepositus Hypoglossi, and Vestibular Nerve of [[5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/CN VIII|CN VIII]] {x}
 	- DC/VLO/Group Beta
 - Visual via [[Superior Colliculus]] {x}
 	- MAOc
@@ -23,6 +23,7 @@ Synapses with 1-10 Purkinje cells
 	- [[Medial Tegmental Tract]]
 		- Nuclei surrounding the Fasciculus Retroflexus (FR) to MAOr
 	- Jointly inputs originate from [[Motor Cortex (M1)]], [[Supplementary Eye Field]], and [[Frontal Eye Field]]
+- [[Cuneate Nucleus]] and [[Gracile Nucleus]]
 - Potentially include other reticulo-olivo-cerebellar inputs
 
 ![[Pasted image 20240320231437.png]]

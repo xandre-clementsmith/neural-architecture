@@ -1,1 +1,0 @@
-[[5. Myelencephalon/Medulla Oblongata/Tegmentum/Cranial Nerves/Efferent/CN IX]]

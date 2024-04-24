@@ -1,0 +1,2 @@
+- Sympathetic cardiovascular and respiratory
+- Efferents to [[5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/Solitary Nucleus]] and [[Locus Coeruleus]]
