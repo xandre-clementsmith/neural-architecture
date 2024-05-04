@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "White Matter Tracts/Brainstem/Cerebellar Peduncles/Inferior Cerebellar Peduncle.md",
+                "file": "neural-architecture/Functional Systems/Neurotransmission.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inferior oliv",
+                "query": "neurotransmi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "White Matter Tracts/Brainstem/Cerebellar Peduncles/Inferior Cerebellar Peduncle.md",
+                "file": "neural-architecture/Functional Systems/Neurotransmission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "White Matter Tracts/Brainstem/Cerebellar Peduncles/Inferior Cerebellar Peduncle.md",
+                "file": "neural-architecture/Functional Systems/Neurotransmission.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "White Matter Tracts/Brainstem/Cerebellar Peduncles/Inferior Cerebellar Peduncle.md"
+                "file": "neural-architecture/Functional Systems/Neurotransmission.md"
               }
             }
           }
@@ -148,43 +149,51 @@
   },
   "active": "a8c7645b90982a2f",
   "lastOpenFiles": [
-    "White Matter Tracts/Brainstem/Cerebellar Peduncles/Middle Cerebellar Peduncle.md",
-    "White Matter Tracts/Brainstem/Cerebellar Peduncles/Superior Cerebellar Peduncle.md",
-    "TODO.md",
-    "Functional Systems/Gut-Brain Circuits.md",
-    "Functional Systems/Papez Circuit.md",
-    "Functional Systems/Somatic System.md",
-    "Functional Systems/Vision.md",
-    "Functional Systems/Thirst.md",
-    "Functional Systems/Satiety Network.md",
-    "Functional Systems/Neurotransmission.md",
-    "Functional Systems/Autonomic System.md",
-    "Functional Systems/Endocrine.md",
-    "Functional Systems/Hypothalamus-Pituitary-Adrenal.md",
-    "Functional Systems/Motivated Behavior System (Swanson).md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'Reticular Formation.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Nuclei.md",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Area Postrema.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Parabrachial Nucleus.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Pedunculopontine Nucleus.md",
     "4. Metencephalon/Pons/Pontine Tegmentum/Laterodorsal Tegmental Nucleus.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Dorsal Tegmental Nucleus.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Ventral Tegmental Nucleus.md",
     "4. Metencephalon/Pons/Pontine Tegmentum/Noradrenergic Neurons.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Auditory Relay Nuclei/Superior Olive.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Auditory Relay Nuclei.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Auditory Relay Nuclei",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Auditory Relay Nuclei/Nucleus of the Lateral Lemniscus.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Auditory Relay Nuclei/Nucleus of the Trapezoid Body.md",
-    "z_png/Pasted image 20240409231944.png",
-    "z_png/Pasted image 20240409231424.png",
-    "z_png/Pasted image 20240409230124.png",
-    "Pasted image 20240409231944.png",
-    "Pasted image 20240409231424.png",
-    "Pasted image 20240409230124.png",
-    "z_png/Pasted image 20240329222730.png",
-    "z_png/Pasted image 20240329200024.png",
-    "z_png/Pasted image 20240329204208.png",
-    "z_png/Pasted image 20240329203842.png",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation"
+    "4. Metencephalon/Pons/Pontine Tegmentum/Parabrachial Nucleus.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Nuclei.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Ventral Tegmental Nucleus.md",
+    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/External Cuneate Nucleus.md",
+    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Inferior Olive.md",
+    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Nucleus Z.md",
+    "White Matter Tracts/Brainstem/Cerebellar Peduncles/Inferior Cerebellar Peduncle.md",
+    "neural-architecture/z_png/Pasted image 20240409231944.png",
+    "neural-architecture/z_png/Pasted image 20240409231424.png",
+    "neural-architecture/z_png/Pasted image 20240409230124.png",
+    "neural-architecture/z_png/Pasted image 20240329222730.png",
+    "neural-architecture/z_png/Pasted image 20240329204208.png",
+    "neural-architecture/z_png/Pasted image 20240329203842.png",
+    "neural-architecture/z_png/Pasted image 20240329200024.png",
+    "neural-architecture/z_png/Pasted image 20240328232308.png",
+    "neural-architecture/z_png/Pasted image 20240328232254.png",
+    "neural-architecture/z_png/Pasted image 20240328231942.png",
+    "neural-architecture/z_png/Pasted image 20240210091021.png.md",
+    "neural-architecture/z_png",
+    "neural-architecture/z_The Neural Architecture/The Neural Architecture.md",
+    "neural-architecture/z_The Neural Architecture/Outputs.md",
+    "neural-architecture/z_The Neural Architecture/Inputs.md",
+    "neural-architecture/z_The Neural Architecture",
+    "neural-architecture/White Matter Tracts/Brainstem/Cerebellar Peduncles/Superior Cerebellar Peduncle.md",
+    "neural-architecture/White Matter Tracts/Brainstem/Cerebellar Peduncles/Middle Cerebellar Peduncle.md",
+    "neural-architecture/White Matter Tracts/Brainstem/Cerebellar Peduncles/Inferior Cerebellar Peduncle.md",
+    "neural-architecture/White Matter Tracts/Limbic/Ventral Amygdalofugal Pathway.md",
+    "neural-architecture/White Matter Tracts/Limbic/Uncinate Fasciculus.md",
+    "neural-architecture/White Matter Tracts/Limbic/Stria Terminalis.md",
+    "neural-architecture/White Matter Tracts/Limbic/Medial Forebrain Bundle.md",
+    "neural-architecture/White Matter Tracts/Limbic/Mammillothalamic Tract.md",
+    "neural-architecture/White Matter Tracts/Limbic/Mammillotegmental Tract.md",
+    "neural-architecture/White Matter Tracts/Limbic/Fornix.md",
+    "neural-architecture/White Matter Tracts/Limbic/Cingulum Bundle.md",
+    "neural-architecture/White Matter Tracts/Cortical/Ventral Occipital Fasciculus.md",
+    "neural-architecture/White Matter Tracts/Brainstem/Cerebellar Peduncles",
+    "neural-architecture/White Matter Tracts/Limbic",
+    "neural-architecture/White Matter Tracts/Cortical",
+    "neural-architecture/White Matter Tracts/Brainstem",
+    "neural-architecture/White Matter Tracts",
+    "neural-architecture/Theoretical & ML",
+    "neural-architecture/Functional Systems/Large-Scale Brain Networks",
+    "neural-architecture/Functional Systems"
   ]
 }
