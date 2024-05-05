@@ -32,11 +32,11 @@ Brainstem/Spinal
 
 ### Limbic
 - [[Fornix]] : [[Hippocampus Proper]] -> 
-	- Posterior: [['Hypothalamus]], [[Mammillary]], Anterior [['Thalamus]]
+	- Posterior: [['Hypothalamus]], [[Mammillary Bodies]], Anterior [['Thalamus]]
 	- Anterior: [[Septal Nuclei]], [[Nucleus Accumbens]]
-- [[Mammillotegmental Tract]] : [[Mammillary]] -> 
+- [[Mammillotegmental Tract]] : [[Mammillary Bodies]] -> 
 	- Tegmentum (Midbrain and Potine Reticular)
-- [[Mammillothalamic Tract]] : [[Mammillary]]
+- [[Mammillothalamic Tract]] : [[Mammillary Bodies]]
 	- Anterior [['Thalamus]]
 - ?? [[Medial Forebrain Bundle]] : Basal Olfactory Regions, Periamygdaloid Cortex, [[Septal Nuclei]], (NAcc?) <->
 	- VTA (Mesolimbic), Nigrostriatal

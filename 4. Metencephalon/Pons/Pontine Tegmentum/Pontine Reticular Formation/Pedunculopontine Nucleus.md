@@ -37,7 +37,7 @@
 		- [[Substantia Nigra pars compacta]]
 		- [[Ventral Tegmental Area]]
 		- [[Substantia Nigra pars reticular]]
-		- [[Subthalamic Nucleus]]
+		- [[Subthalamic Nuclei]]
 		- Lateral [['Hypothalamus]]
 		- [[Ventral Pallidum]]
 		- [['Amygdala]]
