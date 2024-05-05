@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f4d59252db974e18",
+        "id": "9810dd39b7600ade",
         "type": "tabs",
         "children": [
           {
-            "id": "a8c7645b90982a2f",
+            "id": "f5dc84e3af1b1609",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neural-architecture/Functional Systems/Neurotransmission.md",
+                "file": "'The Neural Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "neurotransmi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neural-architecture/Functional Systems/Neurotransmission.md",
+                "file": "'The Neural Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neural-architecture/Functional Systems/Neurotransmission.md",
+                "file": "'The Neural Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neural-architecture/Functional Systems/Neurotransmission.md"
+                "file": "'The Neural Architecture.md"
               }
             }
           }
@@ -147,18 +146,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8c7645b90982a2f",
+  "active": "e6b0df8f28bb6d31",
   "lastOpenFiles": [
     "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Pedunculopontine Nucleus.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Laterodorsal Tegmental Nucleus.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Noradrenergic Neurons.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Parabrachial Nucleus.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Nuclei.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Ventral Tegmental Nucleus.md",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/External Cuneate Nucleus.md",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Inferior Olive.md",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Nucleus Z.md",
-    "White Matter Tracts/Brainstem/Cerebellar Peduncles/Inferior Cerebellar Peduncle.md",
+    "Functional Systems/Output Systems/Somatic Systems/Reticular Activating System.md",
+    "Functional Systems/Output Systems/'Output Systems.md",
+    "3. Mesencephalon/Tegmentum/Interpeduncular Nucleus.md",
+    "3. Mesencephalon/Tectum/Additional Gray Matter/Cuneiform Nucleus.md",
+    "3. Mesencephalon/Tectum/Additional Gray Matter/Nucleus Brachium Inferior Colliculus.md",
+    "3. Mesencephalon/Tectum/Additional Gray Matter/Nucleus Sagulum.md",
+    "3. Mesencephalon/Tectum/Additional Gray Matter/Parabigeminal Nucleus.md",
+    "README.md",
+    "Functional Systems/Output Systems/Somatic Systems/'Somatic Systems.md",
+    "'The Neural Architecture.md",
+    "Functional Systems/Output Systems/Pyramidal Motor System.md",
+    "Functional Systems/Output Systems/Endocrine System.md",
+    "Functional Systems/Output Systems/Autonomic System.md",
+    "Functional Systems/Output Systems/Somatic Systems",
+    "Tools.md",
+    "TODO.md",
+    "CT.md",
+    "3. Mesencephalon/Tegmentum/Substantia Nigra/Substantia Nigra pars reticular.md",
+    "3. Mesencephalon/Tegmentum/Substantia Nigra/Substantia Nigra pars compacta.md",
+    "3. Mesencephalon/Tegmentum/Ventral Tegmental Area.md",
+    "3. Mesencephalon/Tegmentum/Mesencephalic Reticular Nucleus.md",
+    "3. Mesencephalon/Tegmentum/Laterodorsal Tegmental Nucleus.md",
+    "3. Mesencephalon/Tegmentum/Craniel Nerves/Afferent Nuclei/Accessory Optic System.md",
+    "3. Mesencephalon/Tegmentum/Craniel Nerves/Afferent Nuclei/Mesencephalic Nucleus Trigeminal.md",
+    "3. Mesencephalon/Tectum/Superior Colliculus.md",
+    "3. Mesencephalon/Tectum/Inferior Colliculus.md",
+    "Functional Systems/Limbic Systems",
+    "Functional Systems/Output Systems",
+    "Functional Systems/Input Systems",
+    "3. Mesencephalon/Tegmentum/Rubrospinal System",
+    "3. Mesencephalon/Tegmentum/Raphe Nuclei",
     "neural-architecture/z_png/Pasted image 20240409231944.png",
     "neural-architecture/z_png/Pasted image 20240409231424.png",
     "neural-architecture/z_png/Pasted image 20240409230124.png",
@@ -169,31 +190,9 @@
     "neural-architecture/z_png/Pasted image 20240328232308.png",
     "neural-architecture/z_png/Pasted image 20240328232254.png",
     "neural-architecture/z_png/Pasted image 20240328231942.png",
-    "neural-architecture/z_png/Pasted image 20240210091021.png.md",
     "neural-architecture/z_png",
-    "neural-architecture/z_The Neural Architecture/The Neural Architecture.md",
-    "neural-architecture/z_The Neural Architecture/Outputs.md",
-    "neural-architecture/z_The Neural Architecture/Inputs.md",
     "neural-architecture/z_The Neural Architecture",
-    "neural-architecture/White Matter Tracts/Brainstem/Cerebellar Peduncles/Superior Cerebellar Peduncle.md",
-    "neural-architecture/White Matter Tracts/Brainstem/Cerebellar Peduncles/Middle Cerebellar Peduncle.md",
-    "neural-architecture/White Matter Tracts/Brainstem/Cerebellar Peduncles/Inferior Cerebellar Peduncle.md",
-    "neural-architecture/White Matter Tracts/Limbic/Ventral Amygdalofugal Pathway.md",
-    "neural-architecture/White Matter Tracts/Limbic/Uncinate Fasciculus.md",
-    "neural-architecture/White Matter Tracts/Limbic/Stria Terminalis.md",
-    "neural-architecture/White Matter Tracts/Limbic/Medial Forebrain Bundle.md",
-    "neural-architecture/White Matter Tracts/Limbic/Mammillothalamic Tract.md",
-    "neural-architecture/White Matter Tracts/Limbic/Mammillotegmental Tract.md",
-    "neural-architecture/White Matter Tracts/Limbic/Fornix.md",
-    "neural-architecture/White Matter Tracts/Limbic/Cingulum Bundle.md",
-    "neural-architecture/White Matter Tracts/Cortical/Ventral Occipital Fasciculus.md",
     "neural-architecture/White Matter Tracts/Brainstem/Cerebellar Peduncles",
-    "neural-architecture/White Matter Tracts/Limbic",
-    "neural-architecture/White Matter Tracts/Cortical",
-    "neural-architecture/White Matter Tracts/Brainstem",
-    "neural-architecture/White Matter Tracts",
-    "neural-architecture/Theoretical & ML",
-    "neural-architecture/Functional Systems/Large-Scale Brain Networks",
-    "neural-architecture/Functional Systems"
+    "neural-architecture/White Matter Tracts/Limbic"
   ]
 }

@@ -8,7 +8,7 @@
 General Connectivity
 - Efferents
 	- [['Intralaminar Formation]] of the Thalamus
-	- [[Reticulospinal Tracts]] for both [[Somatic System]] and [[Autonomic System]]
+	- [[Reticulospinal Tracts]] for both [['Somatic Systems]] and [[Autonomic System]]
 	- [['Cerebellum]]: Includes both [[Inferior Cerebellar Peduncle]] (errors) and [[Middle Cerebellar Peduncle]] (parallel fibers)
 - Afferents
 	- [[Spinoreticular Tract]]
