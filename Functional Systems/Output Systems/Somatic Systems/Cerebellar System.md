@@ -1,4 +1,3 @@
-
 ##### Regions
 - [[Anterior Spinocerebellar Tract]], [[Posterior Spinocerebellar Tract]] - Spinal inputs
 - [[Pontine Nuclei]] - Cerebral Input to Middle Cerebellar Peduncle via cortical-wide inputs
