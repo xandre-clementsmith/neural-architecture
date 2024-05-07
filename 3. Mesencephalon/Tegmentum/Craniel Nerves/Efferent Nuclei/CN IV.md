@@ -1,2 +1,0 @@
-- Trochlear Nucleus
-- Supratrochlear Nucleus

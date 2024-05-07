@@ -1,6 +1,6 @@
 
 ##### Regions
-- [[Anterior Spinocerebellar Tract]], [[Posterior Spinocerebellar Tract]] - Spinal inputs
+- [[Ventral Spinocerebellar Tract]], [[Dorsal Spinocerebellar Tract]] - Spinal inputs
 - [[Pontine Nuclei]] - Cerebral Input to Middle Cerebellar Peduncle via cortical-wide inputs
 - [[Red Nucleus]] (parvocellular) - Error Input to Inferior Cerebellar Peduncle, including M1, FEF, SEF and cerebellar outputs
 - [[Inferior Olive]] - Error Input to Inferior Cerebellar Peduncle

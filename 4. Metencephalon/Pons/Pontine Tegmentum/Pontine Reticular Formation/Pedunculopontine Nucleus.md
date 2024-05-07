@@ -19,7 +19,7 @@
 ##### Motor System
 - Potentially part of the Mesencephalic Locomotor Region (MLR), but spinally projecting non-cholinergic neurons surrounding PPN may be mostly responsible for inducing locomotion
 - Includes cholinergic and putative glutamatergic components
-- Innervate Rostral/Oral and Caudal Pontine [['Reticular Formation]] (Medial Group: Motor Coordination), Gigantocellular Nucleus (Medial Group: Motor Coordination), and [['Spinal Cord]]
+- Innervate Rostral/Oral and Caudal Pontine [['(Pontine) Reticular Formation]] (Medial Group: Motor Coordination), Gigantocellular Nucleus (Medial Group: Motor Coordination), and [['Spinal Cord]]
 - Only a small proportion of PPN neurons have descending projections, and these are mainly non-cholinergic
 - Cholinergic output inhibits movement and reduces muscle tone, whereas glutamatergic induces movement and increases muscle tone
 
@@ -52,7 +52,7 @@
 		- Striatum of the [['Basal Ganglia]]]
 	- Descending Pathway
 		- Rostral and Caudal [[Pontine Nuclei]] (Cerebellum)
-		- Gigantocellular [['Reticular Formation]] ([[Reticulospinal Tracts]])
+		- Gigantocellular [['(Pontine) Reticular Formation]] ([[Reticulospinal Tracts]])
 		- Spinal Cord via [[Reticulospinal Tracts]]
 - Afferents
 

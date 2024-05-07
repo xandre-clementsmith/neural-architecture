@@ -1,0 +1,1 @@
+- How do the [['Dorsal Column-Medial Lemniscus System]] and [['Spinothalamic Tract]] project to [['Primary Somatosensory Cortex (S1)]] and [[Secondary-Somatosensory Cortex (S2)]]

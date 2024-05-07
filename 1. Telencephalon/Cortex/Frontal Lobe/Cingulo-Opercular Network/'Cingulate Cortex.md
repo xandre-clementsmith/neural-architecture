@@ -1,0 +1,2 @@
+- Alt Name: Cingulate Gyrus
+- Distributed between Frontal Lobe and Parietal

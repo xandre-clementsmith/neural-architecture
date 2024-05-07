@@ -19,7 +19,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6056176/
 		- Spinal somatosensory, Vestibular/Optokinetic, Superior Colliculus
 		- pRN ([[Red Nucleus]]) and Fasciculus Retroflexus surrounding nuclei
 			- Afferents from M1, SEF, and FEF
-	- [[Posterior Spinocerebellar Tract]] tract via mossy fibers
+	- [[Dorsal Spinocerebellar Tract]] tract via mossy fibers
 
 ##### Efferents
 - [[Superior Cerebellar Peduncle]]

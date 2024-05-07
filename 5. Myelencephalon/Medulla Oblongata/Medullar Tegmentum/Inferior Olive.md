@@ -11,19 +11,21 @@ Synapses with 1-10 Purkinje cells
 - Dorsal Accessory Olive (DAO)
 
 ##### Afferents
-- Somatosensory via [[Spino-Olivary Tract]] {x}
-	- MAOc, DAO
-- Vestibular/Optokinetic via Optic Tract, Paramedian [['Reticular Formation]] (Saccades), the dorsal group Y (Eye Movements), Nucleus Prepositus Hypoglossi, and Vestibular Nerve of [[5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/CN VIII|CN VIII]] {x}
-	- DC/VLO/Group Beta
-- Visual via [[Superior Colliculus]] {x}
-	- MAOc
-- Motor / Cortical {x}
-	- [[Central Tegmental Tract]]
-		- Parvocellular [[Red Nucleus]] (pRN) to PO
-	- [[Medial Tegmental Tract]]
-		- Nuclei surrounding the Fasciculus Retroflexus (FR) to MAOr
-	- Jointly inputs originate from [[Motor Cortex (M1)]], [[Supplementary Eye Field]], and [[Frontal Eye Field]]
-- [[Cuneate Nucleus]] and [[Gracile Nucleus]]
-- Potentially include other reticulo-olivo-cerebellar inputs
+- [[Spino-Olivary Tract]] - Somatosensory
+- [[Vestibular Nuclei]] - Vestibular
+- [[Optic Tract]] - Vestibular/Optokinetic
+- [['(Pontine) Reticular Formation]]
+- [[Superior Colliculus]] - Visual
+- [[Hypoglossal Nucleus]] - Motor
+- [[Central Tegmental Tract]] - Motor/Cortical
+- [[Motor Cortex (M1)]] - Motor
+- [[Supplementary Eye Field]] - Motor
+- [[Frontal Eye Field]] - Motor
+- [[Cuneate Nucleus]] and [[Gracile Nucleus]] ([['Dorsal Column-Medial Lemniscus System]]) - Motor
 
 ![[Pasted image 20240320231437.png]]
+
+### Efferents
+- [[Cerebellar Hemisphere]] - PO
+- [[Vermis]], [[Flocculonodular Lobe]], [[Cerebellar Hemisphere]] - MAO
+- [[Vermis]] - DAO

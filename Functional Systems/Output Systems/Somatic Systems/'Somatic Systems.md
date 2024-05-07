@@ -2,7 +2,7 @@
 ##### Descending Motor Pathways
 Pyramidal / [['Corticospinal Tract]] {x}
 - [['Lateral Corticospinal Tract]] (Extremities)
-	- <- [[Motor Cortex (M1)]] + [[Dorsal Premotor Cortex]] + [[Ventral Premotor Cortex]] + [[Supplementary Motor Area]] / (Motor Areas) + [['Primary Somatosensory Cortex]] 
+	- <- [[Motor Cortex (M1)]] + [[Dorsal Premotor Cortex]] + [[Ventral Premotor Cortex]] + [[Supplementary Motor Area]] / (Motor Areas) + [['Primary Somatosensory Cortex (S1)]] 
 - [[Anterior Corticospinal Tract]] (Axial)
 	- <- Motor Areas + S1
 
@@ -12,7 +12,7 @@ Extrapyramidal
 	- [['Cerebellum]] Efferents Project via Rubrospinal (maybe Reticulospinal?) {x}
 	- Receives rapid somatosensory directly and pre-processed via cerebellum
 - [[Reticulospinal Tracts]] {}
-	- <- [['Reticular Formation]] and [[Medullary Reticular Formation]]
+	- <- [['(Pontine) Reticular Formation]] and [[Medullary Reticular Formation]]
 	- Includes sympathetic component of autonomic
 - [[Tectospinal Tract]] {x}
 	- <- Superior Colliculi (Visual / Auditory Reflex)
