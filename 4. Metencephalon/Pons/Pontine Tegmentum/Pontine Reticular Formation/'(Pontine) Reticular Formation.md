@@ -21,6 +21,7 @@ General Connectivity
 - Long connections
 	- Mesencephalic and rostral pontine RF modulates forebrain activity
 	- Medullary and caudal pontine RF modulates somatic and visceral motor activity ([[Reticulospinal Tracts]])
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3387430/
 
 Divisions
 - [[5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Raphe Nuclei|Raphe Nuclei]]
@@ -41,52 +42,3 @@ Divisions
 https://meds371s.uchc.edu/Oliver%20reticular%20formation%20slides.pdf
 http://ahuman.org/svn/ahengine/research/articles/Biological/2011-Reticular-Formation-Shaaravy.pdf
 https://www.frontiersin.org/articles/10.3389/fnana.2013.00007/full
-
-
-
-
-
-http://ahuman.org/svn/ahengine/research/articles/Biological/2011-Reticular-Formation-Shaaravy.pdf
-The median column extends throughout the medulla,
-pons and midbrain occupying the paramedian zones.
-Collectively they constitute the raphe nuclei and many
-neurons are serotoninergic. It consists of the following
-nuclei:
-• Nuclei raphes pallidus and obscurus: lie in the
-upper 2/3 of the medulla crossing the ponto-
-medullary junction.
-• Nucleus raphe magnus: lies partly overlapping the
-above two nuclei and ascending into the pons.
-• Pontine raphe nucleus: lies in the pons above the
-raphe magnus nucleus.
-• Central Superior raphe nucleus: located in the pons.
-• Dorsal mesencephalic raphe nucleus: extends
-throughout the midbrain, expanding cranially and
-narrowing caudally. (Williams et al; 1999).
-The medial column consists of the following nuclei:
-• Central nucleus of medulla oblongata: a thin
-lamina lateral to raphe nuclei in the lower medulla.
-• Gigantocellular nucleus: consists of medullary and
-pontine parts.
-• Caudal and oral pontine tegmental reticular nuclei:
-lie within the tegmentum of pons.
-• Cuneiform and subcuneiform nuclei: lie in the
-midbrain tegmentum.
-The lateral column consists of the following nuclei:
-• Parvocellular reticular area: lies in the upper
-medulla and lower lateral pontine tegmentum.
-• Superficial ventrolateral reticular area: lying in
-both medulla and pons.
-• Lateral pontine tegmental reticular area: forming
-the medial and lateral parabranchial nuclei.
-• Noradrenergic cell groups: the most important one
-is the locus ceruleus which lies in the tegmentum
-of the pons and it functions as an attention centre
-focusing neural functions to the prevailing needs of
-the alert person.
-• Adrenergic cell groups: lying rostral to
-noradrenergic group and it function as centre of
-vasomotor control.
-• Cholinergic cell group: lying in the
-pedunculopontine tegmental nucleus of the
-mesencephalic tegmental reticular zone.

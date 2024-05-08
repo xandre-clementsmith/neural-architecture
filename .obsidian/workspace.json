@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9da50c47d3abcdc0",
+        "id": "c11d5b891e249273",
         "type": "tabs",
         "children": [
           {
-            "id": "f17abd418fceb54a",
+            "id": "18fe464baf051802",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/Glossopharyngeal/CN IX.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97877df41b5721a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/Solitary Nucleus.md",
+                "file": "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'(Pontine) Reticular Formation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ventral posteromedial",
+                "query": "gustatory",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/Solitary Nucleus.md",
+                "file": "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'(Pontine) Reticular Formation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/Solitary Nucleus.md",
+                "file": "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'(Pontine) Reticular Formation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/Solitary Nucleus.md"
+                "file": "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'(Pontine) Reticular Formation.md"
               }
             }
           }
@@ -159,44 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97877df41b5721a1",
+  "active": "18fe464baf051802",
   "lastOpenFiles": [
+    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Nucleus Prepositus.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Ventral Tegmental Nucleus.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Nuclei.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Pedunculopontine Nucleus.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'Raphe Nuclei.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'(Pontine) Reticular Formation.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Auditory Relay Nuclei/Trapezoid Body.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Auditory Relay Nuclei/Lateral Lemniscus.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Auditory Relay Nuclei/Superior Olive.md",
+    "Pasted image 20240508183338.png",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Afferent Nuclei/Vestibulocochlear/Cochlear Nuclei.md",
+    "3. Mesencephalon/Tectum/Inferior Colliculus.md",
     "4. Metencephalon/Pons/Pontine Tegmentum/Parabrachial Nucleus.md",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/Solitary Nucleus.md",
-    "Pasted image 20240507191645.png",
-    "Pasted image 20240507191551.png",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Efferent/Nucleus Ambiguus.md",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Efferent/Vagus/Dorsal Motor Nucleus of the Vagus Nerve.md",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Efferent/Vagus/'CN X.md",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Efferent/Hypoglossal/CN XII.md",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Efferent/Glossopharyngeal/'CN IX.md",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/Trigeminal Nuclei.md",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/Glossopharyngeal/CN IX.md",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/Trigeminal/CN V.md",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/Vagus/CN X.md",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/Vestibulocochlear/CN VIII.md",
-    "Pasted image 20240507184748.png",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/Vestibulocochlear/Cochlear Nuclei.md",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/Vestibulocochlear/Vestibular Nuclei.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Afferent Nuclei/Vestibulocochlear/'CN VIII.md",
-    "Pasted image 20240507183132.png",
-    "Pasted image 20240507182559.png",
-    "Pasted image 20240507182545.png",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/Trigeminal/Spinal Trigeminal Nucleus.md",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Efferent/Glossopharyngeal/Inferior Salivatory Nucleus.md",
-    "Pasted image 20240507182048.png",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Efferent/Hypoglossal/Hypoglossal Nucleus.md",
-    "Pasted image 20240507182045.png",
-    "Pasted image 20240507182042.png",
-    "Pasted image 20240507182039.png",
-    "White Matter Tracts/Brainstem/Central Tegmental Tract.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Laterodorsal Tegmental Nucleus.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Dorsal Tegmental Nucleus.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Noradrenergic Neurons.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Locus Coeruleus.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Trigeminal Sensory Nuclei.md",
+    "1. Telencephalon/Cortex/Insular Lobe/Primary Gustatory Cortex.md",
+    "Functional Systems/Input Systems/'Input Systems.md",
     "2. Diencephalon/Thalamus/Lateral Region/Sensory Thalamus/Ventroposterior Nucleus.md",
-    "2. Diencephalon/Thalamus/'Thalamus.md",
-    "2. Diencephalon/Thalamus/Posterior Region/Pulvinar Nuclei.md",
-    "2. Diencephalon/Thalamus/Midline Nuclei and Periventricular Formation/'Midline Nuclei.md",
-    "2. Diencephalon/Thalamus/Medial Region/Mediodorsal Nucleus.md",
-    "2. Diencephalon/Thalamus/Anterodorsal Region/'Anterodorsal Region.md",
-    "2. Diencephalon/Thalamus/Intralaminar Formation/'Intralaminar Formation.md",
+    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/Solitary Nucleus.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Efferent Nuclei/Trigeminal/CN V.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Efferent Nuclei/Trigeminal/Trigeminal Motor Nuclei.md",
+    "3. Mesencephalon/Tegmentum/Craniel Nerves/Afferent Nuclei/Trigeminal/'CN V.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Efferent Nuclei/Facial/'CN VII.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Afferent Nuclei/Facial",
+    "z_png/Pasted image 20240507200148.png",
+    "z_png/Pasted image 20240507194938.png",
+    "z_png/Pasted image 20240507191645.png",
+    "z_png/Pasted image 20240507191551.png",
+    "z_png/Pasted image 20240507184748.png",
+    "z_png/Pasted image 20240507183132.png",
+    "z_png/Pasted image 20240507182559.png",
+    "z_png/Pasted image 20240507182545.png",
+    "z_png/Pasted image 20240507182048.png",
     "2. Diencephalon/Optic",
     "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/Trigeminal",
     "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Efferent/Hypoglossal",
@@ -205,7 +192,6 @@
     "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Efferent Nuclei/Salivary",
     "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Efferent/Salivatory",
     "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Efferent/Glossopharyngeal",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/Glossopharyngeal",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/Vestibulocochlear/Vestibular"
+    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/Glossopharyngeal"
   ]
 }

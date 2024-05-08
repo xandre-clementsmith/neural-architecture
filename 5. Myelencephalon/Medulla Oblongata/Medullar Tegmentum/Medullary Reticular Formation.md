@@ -1,4 +1,4 @@
-See [['(Pontine) Reticular Formation]] for more information 
+See [['(Pontine) Reticular Formation]] for more information and connectivity
 - Divisions
 	- Dorsal Medullary Reticular Nucleus
 	- Ventral Medullary Reticular Nucleus

@@ -7,9 +7,9 @@
 ### Efferents
 - Caudal [[Solitary Nucleus]] - Visceral Sensory
 	- Connects to [['Hypothalamus]] and [['(Pontine) Reticular Formation]]
-- [[Trigeminal Sensory Nuclei]] - Somatic Sensory
+- [[4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Afferent Nuclei/Trigeminal/Trigeminal Sensory Nuclei]] - Somatic Sensory
 - Gustatory [[Solitary Nucleus]] - Special Sensory
-	- Neighbor projections from [[CN VII]] and [['CN X]] for taste
+	- Neighbor projections from [['CN VII]] and [['CN X]] for taste
 	- Connects to [[Ventroposterior Nucleus]] via [[Central Tegmental Tract]]
 
 ![[Pasted image 20240507182012.png]]

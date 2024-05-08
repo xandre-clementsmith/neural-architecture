@@ -1,5 +1,8 @@
 - Noradrenaline / Norepinephrine neurotransmission center
 
+### Afferents
+- [[Nucleus Paragigantocellularis]]
+### Efferents
 
 
 

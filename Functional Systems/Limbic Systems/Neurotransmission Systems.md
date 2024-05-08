@@ -11,5 +11,5 @@ Standard excitatory and inhibitory neurotransmission
 [[Locus Coeruleus]]
 - INPUT NOREPINEPHRINE TRACTS HERE
 ### Serotonin
-[[4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Raphe Nuclei|Raphe Nuclei]]
+[['Raphe Nuclei|'Raphe Nuclei]]
 - INPUT SEROTONERGIC TRACTS HERE

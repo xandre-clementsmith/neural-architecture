@@ -1,5 +1,6 @@
+- Gustatory, Vascular, and Visceral Sensory Integration Nuclei
 ### Afferents
-- [[CN VII]] - Gustatory (Anterior 2/3 Tongue)
+- [['CN VII]] - Gustatory (Anterior 2/3 Tongue)
 - [[CN IX]] - Gustatory (Posterior 1/3 Tongue)
 - [[CN X]] - Gustatory (Epiglottis)
 
@@ -8,11 +9,14 @@
 
 - [[CN IX]] - General glossopharyngeal visceral
 - [[CN X]] - General vagal visceral
+
+- [[Nucleus Paragigantocellularis]]
 ### Efferents
 - [[Paraventricular]] (Hypothalamus)
 - [[Central Nucleus]] (Amygdala)
-- [[Parabrachial Nucleus]]
+- [[Parabrachial Nucleus]] to [[Ventroposterior Nucleus]]
 - [[Locus Coeruleus]] (Noradrenaline)
 - [[Dorsal Raphe Nuclei]] (Serotonin)
+
 
 ![[Pasted image 20240507191645.png]]

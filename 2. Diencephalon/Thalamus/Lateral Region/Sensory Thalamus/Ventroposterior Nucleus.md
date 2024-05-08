@@ -1,3 +1,10 @@
+### Afferents
+- [['Spinothalamic Tract]]
+- [['Dorsal Column-Medial Lemniscus System]]
+- [[Parabrachial Nucleus]] conveying [[Solitary Nucleus]] information
+- [[Trigeminal Sensory Nuclei|Trigeminal Sensory Nuclei]]
+### Efferents
+- 
 
 ![[Pasted image 20240211225934.png]]
 
