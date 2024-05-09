@@ -1,4 +1,3 @@
-
 ##### Regions
 - [[Ventral Spinocerebellar Tract]], [[Dorsal Spinocerebellar Tract]] - Spinal inputs
 - [['Pontine Nuclei]] - Cerebral Input to Middle Cerebellar Peduncle via cortical-wide inputs

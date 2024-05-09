@@ -26,6 +26,6 @@ Synapses with 1-10 Purkinje cells
 ![[Pasted image 20240320231437.png]]
 
 ### Efferents
-- [[Cerebellar Hemisphere]] - PO
-- [[Vermis]], [[Flocculonodular Lobe]], [[Cerebellar Hemisphere]] - MAO
+- [['Cerebellar Lobes]] - PO
+- [[Vermis]], [[Flocculonodular Lobe]], [['Cerebellar Lobes]] - MAO
 - [[Vermis]] - DAO

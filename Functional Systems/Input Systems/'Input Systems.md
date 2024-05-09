@@ -15,7 +15,7 @@ External Pain, Touch, Temperature via
 - Nociceptive and Thermoreceptive information goes to insular
 	- Only the insula and the secondary somatosensory cortex generate pain when stimulated (https://pubmed.ncbi.nlm.nih.gov/19665303/)
 ##### General Visceral (GVA): 
-Internal Pain, Reflex Sensations via [[4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Trigeminal Sensory Nuclei]] and CN X
+Internal Pain, Reflex Sensations via [[Trigeminal Sensory Nuclei]] and CN X
 - Visceral Pathways -> Thalamus -> [['Insular Lobe]]
 - CN X:
 	- Nodose vagus cell bodies -> Nucleus Tractus Solitarii -> Parabrachial Nucleus -> Ventroposteromedial Nucleus of the Thalamus -> Insular Cortex
