@@ -6,7 +6,7 @@
 ### Afferents
 - [[Solitary Nucleus]]
 - [[Parabrachial Nucleus]]
-- [[Dorsal Tegmental Nucleus]]
+- [['Dorsal Tegmental Nucleus]]
 - [[CN X]]
 - [['Hypothalamus]]
 ### Efferents

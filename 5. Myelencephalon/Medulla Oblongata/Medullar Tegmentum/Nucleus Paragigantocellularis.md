@@ -1,4 +1,4 @@
-- Autonomic and environmental stimuli integration for utilization by [[Locus Coeruleus]]
+- Autonomic and environmental stimuli integration for utilization by [['Locus Coeruleus]]
 - Regulates homeostatic functions, such as blood pressure and cardiovascular reflexes, respiration. central chemosensitivity and pain
 
 ### Afferents
@@ -20,7 +20,7 @@
 
 - Serotonergic receptors
 ### Efferents
-- [[Locus Coeruleus]] (Major Input)
+- [['Locus Coeruleus]] (Major Input)
 - [[Solitary Nucleus]]
 - [[Vestibular Nuclei]]
 - [[Parabrachial Nucleus]]

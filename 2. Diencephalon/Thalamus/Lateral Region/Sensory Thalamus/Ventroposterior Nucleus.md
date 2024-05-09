@@ -2,7 +2,7 @@
 - [['Spinothalamic Tract]]
 - [['Dorsal Column-Medial Lemniscus System]]
 - [[Parabrachial Nucleus]] conveying [[Solitary Nucleus]] information
-- [[Trigeminal Sensory Nuclei|Trigeminal Sensory Nuclei]]
+- [[4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Trigeminal Sensory Nuclei|Trigeminal Sensory Nuclei]]
 ### Efferents
 - 
 
