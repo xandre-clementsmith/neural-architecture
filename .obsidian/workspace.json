@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c11d5b891e249273",
+        "id": "91e3037257e2019d",
         "type": "tabs",
         "children": [
           {
-            "id": "963910533000ce2b",
+            "id": "4eac8c9396b711eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Metencephalon/Cerebellum/Cerebellar Lobes/Vermis.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vestibul",
+                "query": "inferior colliculus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Metencephalon/Cerebellum/Cerebellar Lobes/Vermis.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Metencephalon/Cerebellum/Cerebellar Lobes/Vermis.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Metencephalon/Cerebellum/Cerebellar Lobes/Vermis.md"
+                "file": "TODO.md"
               }
             }
           }
@@ -147,34 +147,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "963910533000ce2b",
+  "active": "4eac8c9396b711eb",
   "lastOpenFiles": [
-    "4. Metencephalon/Cerebellum/Cerebellar Lobes/'Cerebellar Lobes.md",
-    "4. Metencephalon/Cerebellum/Cerebellar Lobes/Vermis.md",
-    "4. Metencephalon/Cerebellum/Cerebellar Lobes/Flocculonodular Lobe.md",
-    "4. Metencephalon/Cerebellum/Cerebellar Lobes/Posterior Lobe.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Afferent Nuclei/Vestibulocochlear/Vestibular Nuclei.md",
-    "4. Metencephalon/Cerebellum/'Cerebellum.md",
-    "4. Metencephalon/Cerebellum/Cerebellar Lobes/Anterior Lobe.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Afferent Nuclei/Vestibulocochlear/CN VIII.md",
-    "4. Metencephalon/Cerebellum/Deep Cerebellar Nuclei/Dentate Nucleus.md",
-    "4. Metencephalon/Cerebellum/Deep Cerebellar Nuclei/Interposed Nucleus/Emboliform Nucleus.md",
-    "4. Metencephalon/Cerebellum/Deep Cerebellar Nuclei/Interposed Nucleus/'Interposed Nucleus.md",
-    "Functional Systems/Output Systems/Somatic Systems/Cerebellar System.md",
-    "3. Mesencephalon/Tegmentum/Rubrospinal System/Red Nucleus.md",
-    "4. Metencephalon/Cerebellum/Deep Cerebellar Nuclei/Interposed Nucleus/Globose Nucleus.md",
-    "4. Metencephalon/Cerebellum/Deep Cerebellar Nuclei/Fastigial Nucleus.md",
+    "3. Mesencephalon/Tegmentum/Interpeduncular Nucleus.md",
+    "3. Mesencephalon/Tegmentum/Periaqueductal Gray.md",
+    "3. Mesencephalon/Tegmentum/Ventral Tegmental Area.md",
+    "3. Mesencephalon/Tegmentum/Mesencephalic Reticular Nucleus.md",
+    "3. Mesencephalon/Tegmentum/Locus Coeruleus.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'Locus Coeruleus.md",
+    "3. Mesencephalon/Tectum/Additional Gray Matter/Parabigeminal Nucleus.md",
+    "3. Mesencephalon/Tectum/Additional Gray Matter/Nucleus Sagulum.md",
+    "3. Mesencephalon/Tectum/Additional Gray Matter/Nucleus Brachium Inferior Colliculus.md",
+    "3. Mesencephalon/Tectum/Additional Gray Matter/Cuneiform Nucleus.md",
+    "3. Mesencephalon/Tectum/Superior Colliculus.md",
+    "3. Mesencephalon/Tectum/Inferior Colliculus.md",
+    "Functional Systems/Input Systems/'Input Systems.md",
+    "6. Spinal Cord/Efferent Pathways/Extrapyramidal Tracts/Tectospinal Tract.md",
+    "6. Spinal Cord/Afferent Pathways/Anterolateral System/Spinotectal Tract.md",
+    "2. Diencephalon/Thalamus/Posterior Region/Pulvinar Nuclei.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Pedunculopontine Nucleus.md",
+    "2. Diencephalon/Thalamus/Lateral Region/Metathalamus/Medial Geniculate Nucleus.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Laterodorsal Tegmental Nucleus.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Auditory Relay Nuclei/Lateral Lemniscus.md",
     "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Inferior Olive.md",
-    "3. Mesencephalon/Tegmentum/Craniel Nerves/Afferent Nuclei/Trigeminal/Trigeminal Sensory Nuclei.md",
-    "3. Mesencephalon/Tegmentum/Craniel Nerves/Afferent Nuclei/Trigeminal/Trigeminal Sensory Nuclei.md",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Accessory Cuneate Nucleus.md",
-    "6. Spinal Cord/Afferent Pathways/Dorsal Column-Medial Lemniscus System/Cuneate Fasciculus/Cuneate Nucleus.md",
-    "White Matter Tracts/Brainstem/Cerebellar Peduncles/Inferior Cerebellar Peduncle.md",
-    "White Matter Tracts/Brainstem/Cerebellar Peduncles/Superior Cerebellar Peduncle.md",
-    "White Matter Tracts/Brainstem/Cerebellar Peduncles/Middle Cerebellar Peduncle.md",
-    "White Matter Tracts/Brainstem/Central Tegmental Tract.md",
-    "2. Diencephalon/Thalamus/Lateral Region/Motor Thalamus/Ventroanterior Nucleus.md",
-    "2. Diencephalon/Thalamus/Lateral Region/Motor Thalamus/Ventrolateral Nucleus.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Afferent Nuclei/Vestibulocochlear/Cochlear Nuclei.md",
+    "3. Mesencephalon/Pretectum/'Pretectum.md",
+    "4. Metencephalon/Cerebellum/'Cerebellum.md",
+    "6. Spinal Cord/Efferent Pathways/Pyramidal Tracts/Corticobulbar Tracts.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Perihypoglossal Nuclei/'Perihypoglossal Nuclei.md",
+    "z_png/Pasted image 20240510221714.png",
+    "z_png/Pasted image 20240510221702.png",
+    "z_png/Pasted image 20240510221539.png",
+    "3. Mesencephalon/Pretectum",
+    "3. Mesencephalon/Pretectum",
+    "z_png/Pasted image 20240510211426.png",
     "4. Metencephalon/Cerebellum/Cerebellar Lobes",
     "z_png/Pasted image 20240508225820.png",
     "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Nuclei",
@@ -187,13 +193,7 @@
     "z_png/Pasted image 20240507194938.png",
     "z_png/Pasted image 20240507191645.png",
     "z_png/Pasted image 20240507191551.png",
-    "z_png/Pasted image 20240507184748.png",
-    "z_png/Pasted image 20240507183132.png",
-    "z_png/Pasted image 20240507182559.png",
-    "z_png/Pasted image 20240507182545.png",
     "2. Diencephalon/Optic",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/Trigeminal",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Efferent/Hypoglossal",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/Vagus"
+    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/Trigeminal"
   ]
 }

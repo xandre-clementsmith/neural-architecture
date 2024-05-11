@@ -1,4 +1,4 @@
-- Points of decussation (crossing over
+- Points of decussation (crossing over) for [[Cochlear Nuclei]] and [[Inferior Colliculus]]
 ### Organization
 - Point of Decussation
 - Small Nuclei

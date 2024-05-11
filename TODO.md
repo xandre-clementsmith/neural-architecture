@@ -4,10 +4,11 @@ Order:
 1. Spinal Cord {x}
 2. Myelencephalon {x}
 3. Pons {x}
-4. Cerebellum {}
+4. Cerebellum {x}
 5. Midbrain {}
-6. Reticular Formation {}
-7. Neurotransmission {}
-8. Limbic System {}
-9. Other Subcortical Nuclei {}
-10. Cortex {}
+- Tectum Gray Matter, Cranial Nerves, Rubrospinal System, SNr, Interpeduncular Nucleus, Periaqueductal Gray
+1. Reticular Formation {}
+2. Neurotransmission {}
+3. Limbic System {}
+4. Other Subcortical Nuclei {}
+5. Cortex {}
