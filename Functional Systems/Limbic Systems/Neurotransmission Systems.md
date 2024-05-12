@@ -1,15 +1,11 @@
 ### Acetylcholine
-[[Pedunculopontine Nucleus]] and [[4. Metencephalon/Pons/Pontine Tegmentum/Laterodorsal Tegmental Nucleus]]
-[[Basal Forebrain]]
-- INPUT ACETYLCHOLINE TRACTS HERE
+- [[Pedunculopontine Nucleus]] and [[Laterodorsal Tegmental Nucleus|Laterodorsal Tegmental Nucleus]]
+- [[Basal Forebrain]]
 ### Dopamine
-[[Substantia Nigra pars compacta]] and [[Ventral Tegmental Area]]
-- INPUT DOPAMINE TRACTS HERE
+- [[Substantia Nigra pars compacta]] and [[Ventral Tegmental Area]]
 ### Glutamate / GABA
 Standard excitatory and inhibitory neurotransmission
 ### Norepinephrine / Noradrenaline
-[[Locus Coeruleus]]
-- INPUT NOREPINEPHRINE TRACTS HERE
+- [['Locus Coeruleus]]
 ### Serotonin
-[[4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Raphe Nuclei|Raphe Nuclei]]
-- INPUT SEROTONERGIC TRACTS HERE
+- [['Raphe Nuclei|'Raphe Nuclei]]

@@ -1,1 +1,0 @@
-- Auditory pathway where cochlear nucleus axons cross over towards the [[Superior Olive]]

@@ -11,16 +11,16 @@ External Pain, Touch, Temperature via
 - [[Spinotectal Tract]]: Orients head and eyes towards stimulus. Terminates in [[Superior Colliculus]] and [[Inferior Colliculus]]
 - Dorsal Column-Medial Lemniscus Pathway (DCML): Fine Touch, Vibration, Two-Point Discrimination, Proprioception
 - Spinocerebellar Tract, Spino-Olivary Tract: Proprioception
-- [[CN X]]: Communication with Enteric Nervous System
+- [['CN X]]: Communication with Enteric Nervous System
 - Nociceptive and Thermoreceptive information goes to insular
 	- Only the insula and the secondary somatosensory cortex generate pain when stimulated (https://pubmed.ncbi.nlm.nih.gov/19665303/)
 ##### General Visceral (GVA): 
-Internal Pain, Reflex Sensations via [[Spinal Trigeminal Nucleus]] and CN X
+Internal Pain, Reflex Sensations via [[Trigeminal Sensory Nuclei]] and CN X
 - Visceral Pathways -> Thalamus -> [['Insular Lobe]]
 - CN X:
 	- Nodose vagus cell bodies -> Nucleus Tractus Solitarii -> Parabrachial Nucleus -> Ventroposteromedial Nucleus of the Thalamus -> Insular Cortex
 	- Aortic, cardiac, pulmonary, and Gastrointestinal receptors
-- [[5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Efferent/CN IX]]: Cardiovascular and larynx project to the nucleus ambiguus (main sensory ganglion of the glossopharyngeal nerve)
+- [['CN IX]]: Cardiovascular and larynx project to the nucleus ambiguus (main sensory ganglion of the glossopharyngeal nerve)
 	- Petrosal ganglia glossopharyngeal cell bodies -> Nucleus Tractus Solitarii -> Parabrachial Nucleus -> Ventroposteromedial Nucleus of the Thalamus -> Insular Cortex
 	- Baroreceptors, chemoreceptors, and carotid sinus
 - Spinal Cord: Thoracolumbar Sympathetic and Sacral Parasympathetic Nerve Trunks -> Viscerosomatic Neurons in the Dorsal Horn and Intermediate Grey Matter -> Spinothalamic and spinoreticular pathways for visceral pain and sexual sensation & Dorsal column for micturition, defecation, and gastric distention
@@ -37,7 +37,7 @@ Internal Pain, Reflex Sensations via [[Spinal Trigeminal Nucleus]] and CN X
 ### Sensory Cortices
 - [[Primary Visual Cortex (V1)]]
 - [[Primary Auditory Cortex]]
-- [['Primary Somatosensory Cortex]]
+- [['Primary Somatosensory Cortex (S1)]]
 - [[Secondary-Somatosensory Cortex (S2)]]
 - [[Primary Gustatory Cortex]]
 - [[Insular Viscero-Sensory Cortex]]

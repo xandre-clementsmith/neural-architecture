@@ -5,15 +5,17 @@
     "children": [
       {
         "id": "f74456b441327775",
+        "id": "91e3037257e2019d",
         "type": "tabs",
         "children": [
           {
             "id": "cf6b77607827d9bc",
+            "id": "4eac8c9396b711eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Telencephalon/Subcortical Nuclei/Amygdala/'Amygdala.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,6 +51,7 @@
               "type": "search",
               "state": {
                 "query": "",
+                "query": "inferior colliculus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Telencephalon/Subcortical Nuclei/Amygdala/'Amygdala.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Telencephalon/Subcortical Nuclei/Amygdala/'Amygdala.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +128,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Telencephalon/Subcortical Nuclei/Amygdala/'Amygdala.md"
+                "file": "TODO.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,52 +151,53 @@
     }
   },
   "active": "cf6b77607827d9bc",
+  "active": "4eac8c9396b711eb",
   "lastOpenFiles": [
-    "1. Telencephalon/Subcortical Nuclei/Basal Ganglia/Pallidal Structures/Ventral Pallidum.md",
-    "1. Telencephalon/Subcortical Nuclei/Basal Ganglia/Pallidal Structures/Globus Pallidus Internal Segment.md",
-    "1. Telencephalon/Subcortical Nuclei/Basal Ganglia/Pallidal Structures/Globus Pallidus External Segment.md",
-    "1. Telencephalon/Subcortical Nuclei/Basal Forebrain/Diagonal Band of Broca.md",
-    "1. Telencephalon/Subcortical Nuclei/Basal Ganglia/Striatum/Dorsal Striatum/Putamen.md",
-    "1. Telencephalon/Subcortical Nuclei/Basal Ganglia/Striatum/Dorsal Striatum/Caudate Nucleus.md",
-    "1. Telencephalon/Subcortical Nuclei/Basal Ganglia/Striatum/Ventral Striatum/Nucleus Accumbens.md",
-    "1. Telencephalon/Subcortical Nuclei/Septal Area/Septal Nuclei.md",
-    "1. Telencephalon/Subcortical Nuclei/Septal Area/Septum Pellucidum.md",
-    "1. Telencephalon/Subcortical Nuclei/Bed Nucleus of the Stria Terminalis.md",
-    "1. Telencephalon/Subcortical Nuclei/Claustrum.md",
-    "Functional Systems/Limbic Systems/'Limbic System.md",
-    "'The Neural Architecture.md",
-    "Functional Systems/Output Systems/Somatic Systems/Cerebellar System.md",
-    "Functional Systems/Output Systems/'Output Systems.md",
-    "Functional Systems/Output Systems/Somatic Systems/'Somatic Systems.md",
-    "3. Mesencephalon/Tegmentum/Rubrospinal System/Red Nucleus.md",
-    "6. Spinal Cord/Efferent Pathways/Extrapyramidal Tracts/Rubrospinal Tract.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'Reticular Formation.md",
-    "Functional Systems/Output Systems/Autonomic System.md",
-    "6. Spinal Cord/Efferent Pathways/Extrapyramidal Tracts/Reticulospinal Tracts.md",
+    "3. Mesencephalon/Tegmentum/Interpeduncular Nucleus.md",
+    "3. Mesencephalon/Tegmentum/Periaqueductal Gray.md",
+    "3. Mesencephalon/Tegmentum/Ventral Tegmental Area.md",
+    "3. Mesencephalon/Tegmentum/Mesencephalic Reticular Nucleus.md",
+    "3. Mesencephalon/Tegmentum/Locus Coeruleus.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'Locus Coeruleus.md",
+    "3. Mesencephalon/Tectum/Additional Gray Matter/Parabigeminal Nucleus.md",
+    "3. Mesencephalon/Tectum/Additional Gray Matter/Nucleus Sagulum.md",
+    "3. Mesencephalon/Tectum/Additional Gray Matter/Nucleus Brachium Inferior Colliculus.md",
+    "3. Mesencephalon/Tectum/Additional Gray Matter/Cuneiform Nucleus.md",
+    "3. Mesencephalon/Tectum/Superior Colliculus.md",
+    "3. Mesencephalon/Tectum/Inferior Colliculus.md",
     "Functional Systems/Input Systems/'Input Systems.md",
-    "Functional Systems/Large-Scale Brain Networks/'Large-Scale Brain Networks.md",
-    "Functional Systems/Enteric Nervous System.md",
-    "Tools.md",
-    "README.md",
-    "Swanson-Map-Coloring.psd",
-    "neural-architecture/z_png/Pasted image 20240409231944.png",
-    "neural-architecture/z_png/Pasted image 20240409231424.png",
-    "neural-architecture/z_png/Pasted image 20240409230124.png",
-    "neural-architecture/z_png/Pasted image 20240329222730.png",
-    "neural-architecture/z_png/Pasted image 20240329204208.png",
-    "neural-architecture/z_png/Pasted image 20240329203842.png",
-    "neural-architecture/z_png/Pasted image 20240329200024.png",
-    "neural-architecture/z_png/Pasted image 20240328232308.png",
-    "neural-architecture/z_png/Pasted image 20240328232254.png",
-    "neural-architecture/z_png/Pasted image 20240328231942.png",
-    "neural-architecture/z_png",
-    "neural-architecture/z_The Neural Architecture",
-    "neural-architecture/White Matter Tracts/Brainstem/Cerebellar Peduncles",
-    "neural-architecture/White Matter Tracts/Limbic",
-    "neural-architecture/White Matter Tracts/Cortical",
-    "neural-architecture/White Matter Tracts/Brainstem",
-    "neural-architecture/White Matter Tracts",
-    "neural-architecture/Theoretical & ML",
-    "neural-architecture/Functional Systems/Large-Scale Brain Networks"
+    "6. Spinal Cord/Efferent Pathways/Extrapyramidal Tracts/Tectospinal Tract.md",
+    "6. Spinal Cord/Afferent Pathways/Anterolateral System/Spinotectal Tract.md",
+    "2. Diencephalon/Thalamus/Posterior Region/Pulvinar Nuclei.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Pedunculopontine Nucleus.md",
+    "2. Diencephalon/Thalamus/Lateral Region/Metathalamus/Medial Geniculate Nucleus.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Laterodorsal Tegmental Nucleus.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Auditory Relay Nuclei/Lateral Lemniscus.md",
+    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Inferior Olive.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Afferent Nuclei/Vestibulocochlear/Cochlear Nuclei.md",
+    "3. Mesencephalon/Pretectum/'Pretectum.md",
+    "4. Metencephalon/Cerebellum/'Cerebellum.md",
+    "6. Spinal Cord/Efferent Pathways/Pyramidal Tracts/Corticobulbar Tracts.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Perihypoglossal Nuclei/'Perihypoglossal Nuclei.md",
+    "z_png/Pasted image 20240510221714.png",
+    "z_png/Pasted image 20240510221702.png",
+    "z_png/Pasted image 20240510221539.png",
+    "3. Mesencephalon/Pretectum",
+    "3. Mesencephalon/Pretectum",
+    "z_png/Pasted image 20240510211426.png",
+    "4. Metencephalon/Cerebellum/Cerebellar Lobes",
+    "z_png/Pasted image 20240508225820.png",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Nuclei",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Nuclei/Dorsal Tegmental Nucleus",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Afferent Nuclei/Trigeminal",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Perihypoglossal Nuclei",
+    "z_png/Pasted image 20240508183338.png",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Afferent Nuclei/Facial",
+    "z_png/Pasted image 20240507200148.png",
+    "z_png/Pasted image 20240507194938.png",
+    "z_png/Pasted image 20240507191645.png",
+    "z_png/Pasted image 20240507191551.png",
+    "2. Diencephalon/Optic",
+    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/Trigeminal"
   ]
 }

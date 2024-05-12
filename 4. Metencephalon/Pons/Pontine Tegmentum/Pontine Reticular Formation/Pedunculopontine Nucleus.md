@@ -1,7 +1,7 @@
 ##### General
 - PPN is present in virtually all vertebrate species; it is identified by its population of cholinergic neurons
 - Composed of cholinergic (~3000 in rat PPN), GABAergic, and glutamatergic neurons
-- Cholinergic neurons form a continuum from caudal end of substantia nigra (rostral part of PPN), and ending at caudal end of LDT [[4. Metencephalon/Pons/Pontine Tegmentum/Laterodorsal Tegmental Nucleus]]
+- Cholinergic neurons form a continuum from caudal end of substantia nigra (rostral part of PPN), and ending at caudal end of LDT [[Laterodorsal Tegmental Nucleus]]
 ##### Cholinergic Neurons
 - Cholinergic neurons are fewest rostrally, and increase gradually caudally
 - Brainstem acetylcholine origin alongside LDT (Collectively known as the meso-pontine tegmental area)
@@ -19,7 +19,7 @@
 ##### Motor System
 - Potentially part of the Mesencephalic Locomotor Region (MLR), but spinally projecting non-cholinergic neurons surrounding PPN may be mostly responsible for inducing locomotion
 - Includes cholinergic and putative glutamatergic components
-- Innervate Rostral/Oral and Caudal Pontine [['Reticular Formation]] (Medial Group: Motor Coordination), Gigantocellular Nucleus (Medial Group: Motor Coordination), and [['Spinal Cord]]
+- Innervate Rostral/Oral and Caudal Pontine [['(Pontine) Reticular Formation]] (Medial Group: Motor Coordination), Gigantocellular Nucleus (Medial Group: Motor Coordination), and [['Spinal Cord]]
 - Only a small proportion of PPN neurons have descending projections, and these are mainly non-cholinergic
 - Cholinergic output inhibits movement and reduces muscle tone, whereas glutamatergic induces movement and increases muscle tone
 
@@ -51,8 +51,8 @@
 		- Motor, Sensory, Associative, and Limbic [['Thalamus]]
 		- Striatum of the [['Basal Ganglia]]]
 	- Descending Pathway
-		- Rostral and Caudal [[Pontine Nuclei]] (Cerebellum)
-		- Gigantocellular [['Reticular Formation]] ([[Reticulospinal Tracts]])
+		- Rostral and Caudal [['Pontine Nuclei]] (Cerebellum)
+		- Gigantocellular [['(Pontine) Reticular Formation]] ([[Reticulospinal Tracts]])
 		- Spinal Cord via [[Reticulospinal Tracts]]
 - Afferents
 

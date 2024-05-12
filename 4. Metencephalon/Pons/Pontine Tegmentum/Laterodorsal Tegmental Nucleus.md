@@ -2,7 +2,7 @@
 - https://www.cell.com/neuron/pdf/S0896-6273(17)30135-6.pdf
 - Dense cluster of cholinergic neurons
 - Primarily limbic, whereas [[Pedunculopontine Nucleus]] includes motor
-- Partially mesencephalic
+- Partially mesencephalic, partially metencephalic
 
 ##### Connectivity
 - Midline Thalamus

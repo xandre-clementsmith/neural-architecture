@@ -1,4 +1,0 @@
-- Facial Nucleus
-- Accessory Facial Nucleus
-- Superior Salivatory Nuclei 
-- Lacrimal Nucleus

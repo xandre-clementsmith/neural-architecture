@@ -1,6 +1,14 @@
+- Visceral relay from [[Solitary Nucleus]]
 - Surround [[Superior Cerebellar Peduncle]]
-
-##### Functionality
+### Afferents
+- [[Solitary Nucleus]]
+### Efferents
+- [[Ventroposterior Nucleus]] of [['Thalamus]]
+- [['Lateral Zone]] of [['Hypothalamus]]
+- [['Medulla Oblongata]]
+- [['Spinal Cord]]
+- [['Amygdala]]
+### Organization
 Medial
 - Relays [[Solitary Nucleus]] taste information to ventral posteromedial nucleus of [['Thalamus]]
 Lateral

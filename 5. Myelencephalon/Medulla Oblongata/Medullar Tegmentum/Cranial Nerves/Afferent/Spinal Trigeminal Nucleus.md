@@ -1,2 +1,0 @@
-- Receives touch, pain, and temperature from ipsilateral face
-- Receives inputs from CN V, CN VII, CN IX, and CN X
