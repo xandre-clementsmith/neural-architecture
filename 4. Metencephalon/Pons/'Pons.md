@@ -5,9 +5,8 @@
 - Visual: Perihypoglossal Nuclei
 - Motor: Pedunculopontine Nucleus and Pontine Reticular Formation
 - Visceral: Parabrachial Nuclei for Solitary Nucleus relay
-- Limbic: Dorsal Tegmental Nucleus
 - Cerebellar: Pontine Nuclei
-- Intermediary: Pontine Reticular Formation
+- Intermediary: Pontine Reticular Formation, Dorsal Tegmental Nucleus
 - Neurotransmission: Raphe Nuclei, Locus Coeruleus, Laterodorsal Tegmental Nucleus, Pedunculopontine Nucleus
 
 https://www.pnas.org/doi/abs/10.1073/pnas.2313997120

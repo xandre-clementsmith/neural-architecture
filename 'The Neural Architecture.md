@@ -6,9 +6,6 @@
 ### [['Large-Scale Brain Networks]] - Cognition
 
 ### [['Output Systems]] - Output
-- [[Cerebellar System]]
-- [[Reticular Activating System]]
-- [[Pyramidal Motor System]]
 
 ### [[Enteric Nervous System]] - Digestion
 

@@ -1,1 +1,2 @@
 - [['(Pontine) Reticular Formation]]
+- Includes interstitial nucleus of cajal with reciprocal pairings to [[Vestibular Nuclei]] and [[Nucleus Prepositus]]

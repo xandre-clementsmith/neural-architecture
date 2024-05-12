@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Functional Systems/Limbic Systems/Neurotransmission Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inferior colliculus",
+                "query": "habenula",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Functional Systems/Limbic Systems/Neurotransmission Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Functional Systems/Limbic Systems/Neurotransmission Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Functional Systems/Limbic Systems/Neurotransmission Systems.md"
               }
             }
           }
@@ -149,32 +149,36 @@
   },
   "active": "4eac8c9396b711eb",
   "lastOpenFiles": [
-    "3. Mesencephalon/Tegmentum/Interpeduncular Nucleus.md",
-    "3. Mesencephalon/Tegmentum/Periaqueductal Gray.md",
+    "Functional Systems/Enteric Nervous System.md",
+    "Theoretical & ML/Optimization, Autonomy, and Agency.md",
+    "'The Neural Architecture.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Laterodorsal Tegmental Nucleus.md",
+    "TODO.md",
+    "3. Mesencephalon/'Midbrain.md",
+    "3. Mesencephalon/Tegmentum/Accessory Optic System.md",
     "3. Mesencephalon/Tegmentum/Ventral Tegmental Area.md",
+    "3. Mesencephalon/Tegmentum/Periaqueductal Gray.md",
     "3. Mesencephalon/Tegmentum/Mesencephalic Reticular Nucleus.md",
     "3. Mesencephalon/Tegmentum/Locus Coeruleus.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'Locus Coeruleus.md",
-    "3. Mesencephalon/Tectum/Additional Gray Matter/Parabigeminal Nucleus.md",
-    "3. Mesencephalon/Tectum/Additional Gray Matter/Nucleus Sagulum.md",
-    "3. Mesencephalon/Tectum/Additional Gray Matter/Nucleus Brachium Inferior Colliculus.md",
-    "3. Mesencephalon/Tectum/Additional Gray Matter/Cuneiform Nucleus.md",
-    "3. Mesencephalon/Tectum/Superior Colliculus.md",
-    "3. Mesencephalon/Tectum/Inferior Colliculus.md",
-    "Functional Systems/Input Systems/'Input Systems.md",
-    "6. Spinal Cord/Efferent Pathways/Extrapyramidal Tracts/Tectospinal Tract.md",
-    "6. Spinal Cord/Afferent Pathways/Anterolateral System/Spinotectal Tract.md",
-    "2. Diencephalon/Thalamus/Posterior Region/Pulvinar Nuclei.md",
+    "3. Mesencephalon/Tegmentum/Interpeduncular Nucleus.md",
+    "README.md",
+    "4. Metencephalon/Pons/'Pons.md",
+    "5. Myelencephalon/Medulla Oblongata/'Medulla Oblongata.md",
+    "3. Mesencephalon/Tegmentum/Substantia Nigra/Substantia Nigra pars reticular.md",
     "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Pedunculopontine Nucleus.md",
-    "2. Diencephalon/Thalamus/Lateral Region/Metathalamus/Medial Geniculate Nucleus.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Laterodorsal Tegmental Nucleus.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Auditory Relay Nuclei/Lateral Lemniscus.md",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Inferior Olive.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Afferent Nuclei/Vestibulocochlear/Cochlear Nuclei.md",
-    "3. Mesencephalon/Pretectum/'Pretectum.md",
-    "4. Metencephalon/Cerebellum/'Cerebellum.md",
-    "6. Spinal Cord/Efferent Pathways/Pyramidal Tracts/Corticobulbar Tracts.md",
+    "3. Mesencephalon/Tectum/Cuneiform Nucleus.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Nuclei/Dorsal Tegmental Nucleus/'Dorsal Tegmental Nucleus.md",
     "4. Metencephalon/Pons/Pontine Tegmentum/Perihypoglossal Nuclei/'Perihypoglossal Nuclei.md",
+    "2. Diencephalon/Epithalamus/Habenula.md",
+    "Functional Systems/Output Systems/Hypothalamic Systems/Behavior Control Column.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'Locus Coeruleus.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'(Pontine) Reticular Formation.md",
+    "Functional Systems/Limbic Systems/Neurotransmission Systems.md",
+    "Functional Systems/Limbic Systems/'Limbic System.md",
+    "Functional Systems/Output Systems/Hypothalamic Systems",
+    "3. Mesencephalon/Tegmentum/Rubrospinal System/Red Nucleus",
+    "3. Mesencephalon/Tegmentum/Cranial Nerves/Efferent Nuclei/Oculomotor/Oculomotor Nuclei",
+    "3. Mesencephalon/Tegmentum/Cranial Nerves/Efferent Nuclei/Oculomotor",
     "z_png/Pasted image 20240510221714.png",
     "z_png/Pasted image 20240510221702.png",
     "z_png/Pasted image 20240510221539.png",
@@ -186,14 +190,10 @@
     "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Nuclei",
     "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Nuclei/Dorsal Tegmental Nucleus",
     "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Afferent Nuclei/Trigeminal",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Perihypoglossal Nuclei",
     "z_png/Pasted image 20240508183338.png",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Afferent Nuclei/Facial",
     "z_png/Pasted image 20240507200148.png",
     "z_png/Pasted image 20240507194938.png",
     "z_png/Pasted image 20240507191645.png",
-    "z_png/Pasted image 20240507191551.png",
-    "2. Diencephalon/Optic",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/Trigeminal"
+    "z_png/Pasted image 20240507191551.png"
   ]
 }

@@ -1,4 +1,5 @@
 - Auditory-somatosensory integration
+- Nucleus of the Brachium of the Inferior Colliculus and Nucleus Sagulum are involved in this auditory system
 ### Afferents
 - Peripeduncular / [['Intralaminar Formation]] [[Posterior Group]]
 - [[Lateral Lemniscus]]

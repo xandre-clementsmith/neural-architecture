@@ -1,4 +1,5 @@
 - Direct behavioral responses towards specific points in body-centered space
+- Including satellite parabigeminal nucleus
 ### Organization
 - Superficial layers are vision-dominated
 - Intermediate and deep layers receive diverse sensory and motor

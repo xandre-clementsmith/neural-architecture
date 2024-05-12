@@ -1,1 +1,0 @@
-- Mesencephalic motor system potential location for [[Reticular Activating System]]

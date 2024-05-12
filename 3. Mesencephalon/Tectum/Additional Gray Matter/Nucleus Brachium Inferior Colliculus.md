@@ -1,1 +1,0 @@
-- Auditory afferent fibers from inferior colliculus to medial geniculate nucleus

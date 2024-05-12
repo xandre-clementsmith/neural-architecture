@@ -2,7 +2,7 @@
 - Largely efferent
 - Efferents
 	- Cerebellothalamic Tract: Cerebellum to Thalamus
-	- Cerebellorubral Tract: Cerebellum to [[Red Nucleus]] (mRN)
+	- Cerebellorubral Tract: Cerebellum to [['Red Nucleus]] (mRN)
 - Afferents
 	- Ventral Spinocerebellar Tract
 	- Trigeminothalamic Fibers (Facial)

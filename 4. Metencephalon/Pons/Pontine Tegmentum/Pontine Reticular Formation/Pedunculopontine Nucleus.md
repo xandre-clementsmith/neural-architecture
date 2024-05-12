@@ -56,6 +56,7 @@
 		- Spinal Cord via [[Reticulospinal Tracts]]
 - Afferents
 
+
 ![[Pasted image 20240409230124.png]]
 ![[Pasted image 20240409231424.png]]
 - One neuron innervates most of the ascending and descending pathways; however, rostral cholinergic neurons predominately innervate motor structures (SNc and dorsolateral striatum), whereas caudal portions innervate limbic structures (VTA and dorsomedial striatum)
