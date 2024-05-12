@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "91e3037257e2019d",
+        "id": "f74456b441327775",
         "type": "tabs",
         "children": [
           {
-            "id": "4eac8c9396b711eb",
+            "id": "cf6b77607827d9bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,6 +48,7 @@
             "state": {
               "type": "search",
               "state": {
+                "query": "",
                 "query": "habenula",
                 "matchingCase": false,
                 "explainSearch": false,
@@ -129,8 +130,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4eac8c9396b711eb",
+  "active": "cf6b77607827d9bc",
   "lastOpenFiles": [
     "3. Mesencephalon/Tegmentum/Periaqueductal Gray.md",
     "3. Mesencephalon/Tegmentum/Locus Coeruleus.md",
@@ -182,10 +182,7 @@
     "z_png/Pasted image 20240510221714.png",
     "z_png/Pasted image 20240510221702.png",
     "z_png/Pasted image 20240510221539.png",
-    "3. Mesencephalon/Pretectum",
-    "3. Mesencephalon/Pretectum",
     "z_png/Pasted image 20240510211426.png",
-    "4. Metencephalon/Cerebellum/Cerebellar Lobes",
     "z_png/Pasted image 20240508225820.png",
     "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Nuclei",
     "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Nuclei/Dorsal Tegmental Nucleus",
