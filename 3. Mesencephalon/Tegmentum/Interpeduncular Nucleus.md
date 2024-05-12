@@ -1,7 +1,19 @@
-- Limbic
 - Lies in between the cerebral peduncles
-
-##### Subdivisions
+- Relays habenula to dorsal tegmental nucleus, PAG, and raphe
+- Broad brain-wide inhibitory affects
+### Afferents
+- [[Habenula]] (Medial) - Primary Input
+- [[Dorsal Raphe Nuclei]]
+- [['Dorsal Tegmental Nucleus]]
+- [['Raphe Nuclei]]
+- [[Periaqueductal Gray]]
+- [['Locus Coeruleus]]
+- Nucleus of Diagonal Band
+### Efferents
+- [['Dorsal Tegmental Nucleus]]
+- [[Periaqueductal Gray]]
+- [['Raphe Nuclei]]
+### Organization
 - Apical Sub-Nucleus (IPA)
 - Central Sub-Nucleus (IPC)
 - Dorsolateral Sub-Nucleus (PIDL)
@@ -9,25 +21,3 @@
 - Intermediate Sub-Nucleus (IPI)
 - Lateral Sub-Nucleus (IPL)
 - Rostral Sub-Nucleus (IPR)
-
-##### Connectivity (Wikipedia)
-Inputs
-- Medial Habenula
-	- Provides ACh and Substance P
-- Nucleus of diagonal band
-- Dorsal Tegmentum
-- Raphe Nuclei
-- Central Gray
-- Locus Coeruleus
-Outputs (Inhibitory)
-- Dorsal Tegmental Area
-- Periaqueductal Gray
-- Raphe Nuclei
-- Mediodorsal Thalamus
-- Lateral Habenula
-- Septal Nuclei
-- Anterior Mammillary Nuclei
-- Nucleus of Diagonal Band
-- Preoptic Area
-- Ventral Tegmental Area
-- Dorsal/Lateral Hypothalamus

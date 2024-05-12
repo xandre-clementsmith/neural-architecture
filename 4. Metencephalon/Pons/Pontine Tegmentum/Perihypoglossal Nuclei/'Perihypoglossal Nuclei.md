@@ -5,7 +5,7 @@
 - [[Accessory Oculomotor Nucleus]] - Eye Motor
 - Paramedian [['(Pontine) Reticular Formation]]
 ### Efferents
-- [[CN III]] - Oculomotor, Eye Motor
+- [['CN III]] - Oculomotor, Eye Motor
 - [[CN IV]] - Trochlear, Eye Motor
 - [[CN VI]] - Abducens, Eye Motor
 - [['Cerebellum]]

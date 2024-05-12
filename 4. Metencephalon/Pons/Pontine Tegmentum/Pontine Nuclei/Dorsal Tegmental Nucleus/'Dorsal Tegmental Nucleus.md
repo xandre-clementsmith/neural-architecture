@@ -1,5 +1,13 @@
 - Landmark and directional navigation
-- Function and connectivity incomplete
+- Function and connectivity incomplete; not finished
+
+### Afferents
+- [[Habenula]]
+- [[Interpeduncular Nucleus]]
+- [[Mammillary Bodies]]
+- [['Perihypoglossal Nuclei]]
+### Efferents
+- [[Mammillary Bodies]]
 
 https://pubmed.ncbi.nlm.nih.gov/6434154/
 https://en.wikipedia.org/wiki/Dorsal_tegmental_nucleus

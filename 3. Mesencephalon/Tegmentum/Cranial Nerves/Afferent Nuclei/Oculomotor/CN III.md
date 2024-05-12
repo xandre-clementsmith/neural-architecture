@@ -1,2 +1,0 @@
-- [['CN III]]
-- Oculomotor Nerve
