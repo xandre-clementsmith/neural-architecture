@@ -5,17 +5,15 @@
     "children": [
       {
         "id": "f74456b441327775",
-        "id": "91e3037257e2019d",
         "type": "tabs",
         "children": [
           {
             "id": "cf6b77607827d9bc",
-            "id": "4eac8c9396b711eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "3. Mesencephalon/Tegmentum/Interpeduncular Nucleus.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +49,6 @@
               "type": "search",
               "state": {
                 "query": "",
-                "query": "inferior colliculus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "3. Mesencephalon/Tegmentum/Interpeduncular Nucleus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "3. Mesencephalon/Tegmentum/Interpeduncular Nucleus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,12 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "3. Mesencephalon/Tegmentum/Interpeduncular Nucleus.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,53 +147,52 @@
     }
   },
   "active": "cf6b77607827d9bc",
-  "active": "4eac8c9396b711eb",
   "lastOpenFiles": [
-    "3. Mesencephalon/Tegmentum/Interpeduncular Nucleus.md",
     "3. Mesencephalon/Tegmentum/Periaqueductal Gray.md",
-    "3. Mesencephalon/Tegmentum/Ventral Tegmental Area.md",
     "3. Mesencephalon/Tegmentum/Mesencephalic Reticular Nucleus.md",
     "3. Mesencephalon/Tegmentum/Locus Coeruleus.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'Locus Coeruleus.md",
-    "3. Mesencephalon/Tectum/Additional Gray Matter/Parabigeminal Nucleus.md",
-    "3. Mesencephalon/Tectum/Additional Gray Matter/Nucleus Sagulum.md",
-    "3. Mesencephalon/Tectum/Additional Gray Matter/Nucleus Brachium Inferior Colliculus.md",
-    "3. Mesencephalon/Tectum/Additional Gray Matter/Cuneiform Nucleus.md",
-    "3. Mesencephalon/Tectum/Superior Colliculus.md",
-    "3. Mesencephalon/Tectum/Inferior Colliculus.md",
-    "Functional Systems/Input Systems/'Input Systems.md",
-    "6. Spinal Cord/Efferent Pathways/Extrapyramidal Tracts/Tectospinal Tract.md",
-    "6. Spinal Cord/Afferent Pathways/Anterolateral System/Spinotectal Tract.md",
-    "2. Diencephalon/Thalamus/Posterior Region/Pulvinar Nuclei.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Pedunculopontine Nucleus.md",
-    "2. Diencephalon/Thalamus/Lateral Region/Metathalamus/Medial Geniculate Nucleus.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Laterodorsal Tegmental Nucleus.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Auditory Relay Nuclei/Lateral Lemniscus.md",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Inferior Olive.md",
+    "3. Mesencephalon/Tegmentum/Interpeduncular Nucleus.md",
+    "'The Neural Architecture.md",
+    "README.md",
+    "TODO.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Efferent Nuclei/Facial/Superior Salivatory Nuclei.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Efferent Nuclei/Facial/Lacrimal Nucleus.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Efferent Nuclei/Facial/Facial Nucleus.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Efferent Nuclei/Facial/'CN VII.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Efferent Nuclei/Facial",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Efferent Nuclei/Abducens/CN VI.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Efferent Nuclei/Abducens/Abducens Nucleus.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Efferent Nuclei/Abducens",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Afferent Nuclei/Vestibulocochlear/Vestibular Nuclei.md",
     "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Afferent Nuclei/Vestibulocochlear/Cochlear Nuclei.md",
-    "3. Mesencephalon/Pretectum/'Pretectum.md",
-    "4. Metencephalon/Cerebellum/'Cerebellum.md",
-    "6. Spinal Cord/Efferent Pathways/Pyramidal Tracts/Corticobulbar Tracts.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Perihypoglossal Nuclei/'Perihypoglossal Nuclei.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Afferent Nuclei/Vestibulocochlear/CN VIII.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Afferent Nuclei/Vestibulocochlear",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Afferent Nuclei/Facial/Facial Sensory Nucleus.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Afferent Nuclei/Facial/CN VII.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Afferent Nuclei/Facial",
     "z_png/Pasted image 20240510221714.png",
     "z_png/Pasted image 20240510221702.png",
     "z_png/Pasted image 20240510221539.png",
-    "3. Mesencephalon/Pretectum",
-    "3. Mesencephalon/Pretectum",
     "z_png/Pasted image 20240510211426.png",
-    "4. Metencephalon/Cerebellum/Cerebellar Lobes",
     "z_png/Pasted image 20240508225820.png",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Nuclei",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Nuclei/Dorsal Tegmental Nucleus",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Afferent Nuclei/Trigeminal",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Perihypoglossal Nuclei",
     "z_png/Pasted image 20240508183338.png",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Afferent Nuclei/Facial",
     "z_png/Pasted image 20240507200148.png",
     "z_png/Pasted image 20240507194938.png",
     "z_png/Pasted image 20240507191645.png",
     "z_png/Pasted image 20240507191551.png",
-    "2. Diencephalon/Optic",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/Trigeminal"
+    "6. Spinal Cord/Afferent Pathways/Spinocerebellar Tracts/Ventral Spinocerebellar Tract.md",
+    "6. Spinal Cord/Afferent Pathways/Spinocerebellar Tracts/Rostral Spinocerebellar Tract.md",
+    "6. Spinal Cord/Afferent Pathways/Spinocerebellar Tracts/Posterior External Arcuate Fibers.md",
+    "6. Spinal Cord/Afferent Pathways/Spinocerebellar Tracts/Dorsal Spinocerebellar Tract.md",
+    "6. Spinal Cord/Afferent Pathways/Spinocerebellar Tracts/'Spinocerebellar Tracts.md",
+    "6. Spinal Cord/Afferent Pathways/Dorsal Column-Medial Lemniscus System/'Dorsal Column-Medial Lemniscus System.md",
+    "5. Myelencephalon/Medulla Oblongata/Pyramids.md",
+    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Efferent/Vagus/Dorsal Motor Nucleus of the Vagus Nerve.md",
+    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Efferent/Vagus",
+    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Efferent/Hypoglossal",
+    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Efferent/Glossopharyngeal",
+    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/Vagus",
+    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/Glossopharyngeal",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Nuclei/Dorsal Tegmental Nucleus"
   ]
 }
