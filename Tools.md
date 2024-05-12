@@ -1,5 +1,7 @@
 3D Model: https://neurotorium.org/tool/brain-atlas/#ventral-funiculus
 
+Anatomy: https://www.zygotebody.com/#nav=7.97,88.95,292.05,0,0,0,0&sel=p:;h:;s:;c:0;o:0&layers=0,1,2381
+
 Brain Slices: https://www.neuroanatomy.ca/horizontals.html
 
 Slow Brain Slices: http://braininfo.org/TemplateNeuroMaps.aspx 

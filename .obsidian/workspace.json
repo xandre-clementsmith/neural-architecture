@@ -4,10 +4,12 @@
     "type": "split",
     "children": [
       {
+        "id": "f74456b441327775",
         "id": "91e3037257e2019d",
         "type": "tabs",
         "children": [
           {
+            "id": "cf6b77607827d9bc",
             "id": "4eac8c9396b711eb",
             "type": "leaf",
             "state": {
@@ -147,6 +149,7 @@
       "command-palette:Open command palette": false
     }
   },
+  "active": "cf6b77607827d9bc",
   "active": "4eac8c9396b711eb",
   "lastOpenFiles": [
     "Functional Systems/Enteric Nervous System.md",
