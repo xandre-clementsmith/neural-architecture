@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f74456b441327775",
         "id": "91e3037257e2019d",
         "type": "tabs",
         "children": [
           {
-            "id": "cf6b77607827d9bc",
             "id": "4eac8c9396b711eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functional Systems/Limbic Systems/Neurotransmission Systems.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functional Systems/Limbic Systems/Neurotransmission Systems.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functional Systems/Limbic Systems/Neurotransmission Systems.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functional Systems/Limbic Systems/Neurotransmission Systems.md"
+                "file": "TODO.md"
               }
             }
           }
@@ -149,9 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf6b77607827d9bc",
   "active": "4eac8c9396b711eb",
   "lastOpenFiles": [
+    "3. Mesencephalon/Tegmentum/Periaqueductal Gray.md",
+    "3. Mesencephalon/Tegmentum/Locus Coeruleus.md",
+    "3. Mesencephalon/Tegmentum/Mesencephalic Reticular Nucleus.md",
+    "Functional Systems/Limbic Systems/Neurotransmission Systems.md",
     "Functional Systems/Enteric Nervous System.md",
     "Theoretical & ML/Optimization, Autonomy, and Agency.md",
     "'The Neural Architecture.md",
@@ -160,9 +161,6 @@
     "3. Mesencephalon/'Midbrain.md",
     "3. Mesencephalon/Tegmentum/Accessory Optic System.md",
     "3. Mesencephalon/Tegmentum/Ventral Tegmental Area.md",
-    "3. Mesencephalon/Tegmentum/Periaqueductal Gray.md",
-    "3. Mesencephalon/Tegmentum/Mesencephalic Reticular Nucleus.md",
-    "3. Mesencephalon/Tegmentum/Locus Coeruleus.md",
     "3. Mesencephalon/Tegmentum/Interpeduncular Nucleus.md",
     "README.md",
     "4. Metencephalon/Pons/'Pons.md",
@@ -176,7 +174,6 @@
     "Functional Systems/Output Systems/Hypothalamic Systems/Behavior Control Column.md",
     "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'Locus Coeruleus.md",
     "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'(Pontine) Reticular Formation.md",
-    "Functional Systems/Limbic Systems/Neurotransmission Systems.md",
     "Functional Systems/Limbic Systems/'Limbic System.md",
     "Functional Systems/Output Systems/Hypothalamic Systems",
     "3. Mesencephalon/Tegmentum/Rubrospinal System/Red Nucleus",
