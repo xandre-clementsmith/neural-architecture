@@ -1,0 +1,1 @@
+- Connects [['Subthalamus]] with [['Globus Pallidus]]

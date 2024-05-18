@@ -3,7 +3,7 @@ Order:
 2. Myelencephalon {x}
 3. Pons {x}
 4. Cerebellum {x}
-5. Midbrain {}
+5. Midbrain {x}
 6. Diencephalon {}
 7. Reticular Formation {}
 8. Neurotransmission {}

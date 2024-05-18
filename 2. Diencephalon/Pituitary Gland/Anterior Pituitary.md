@@ -1,4 +1,6 @@
 - Non-neural
+### Afferents
+- [['Hypothalamus]] release of somatostatin and dopamine
 
 ![[Pasted image 20240210203801.png]]
 
@@ -13,3 +15,6 @@
 - Adrenocorticotropin (ACTH): Controls glucocorticoid function via the corticotrophs, comprising 15% of anterior pituitary cells
 	- -> Adrenals -> Corticosteroids
 - Melanocyte-Stimulating Hormone (MSH)
+
+Stimulated and Inhibited by Hypothalamic Release of: 
+![[Pasted image 20240517222915.png]]

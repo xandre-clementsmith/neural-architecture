@@ -7,5 +7,6 @@
 - [[Ventrolateral Nucleus]] - Nigrothalamic / Nigrothalamocortical
 - [[Superior Colliculus]]
 - [[Pedunculopontine Nucleus]]
+- [[Mesopontine Rostromedial Tegmental Nucleus]]
 
 ![[Pasted image 20240321013257.png]]![[Pasted image 20240321013330.png]]
