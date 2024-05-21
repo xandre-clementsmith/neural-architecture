@@ -13,7 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functional Systems/Enteric Nervous System.md",
                 "file": "Functional Systems/Intermediary Systems/Neurotransmission Systems/Dopamine.md",
                 "mode": "source",
                 "source": false
@@ -86,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functional Systems/Enteric Nervous System.md",
                 "file": "Functional Systems/Intermediary Systems/Neurotransmission Systems/Dopamine.md",
                 "collapseAll": false,
                 "extraContext": false,
@@ -104,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functional Systems/Enteric Nervous System.md",
                 "file": "Functional Systems/Intermediary Systems/Neurotransmission Systems/Dopamine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
@@ -128,7 +125,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functional Systems/Enteric Nervous System.md"
                 "file": "Functional Systems/Intermediary Systems/Neurotransmission Systems/Dopamine.md"
               }
             }
@@ -153,21 +149,21 @@
   },
   "active": "d1c8dc155d8f6a07",
   "lastOpenFiles": [
-    "TODO.md",
-    "Functional Systems/Intermediary Systems/Neurotransmission Systems/Dopamine.md",
-    "1. Telencephalon/Cortex/Temporal Lobe/Medial Temporal Lobe/Parahippocampal Gyrus/'Piriform Cortex.md",
     "Functional Systems/Intermediary Systems/Neurotransmission Systems/'Neurotransmission Systems.md",
-    "Functional Systems/Intermediary Systems/Neurotransmission Systems/GABA.md",
     "Functional Systems/Intermediary Systems/Neurotransmission Systems/Acetylcholine.md",
-    "The-three-primary-dopaminergic-pathways-in-the-brain-Note-the-strong-connections-to.png",
-    "Functional Systems/Intermediary Systems/Neurotransmission Systems/Serotonin.md",
-    "Functional Systems/Intermediary Systems/Neurotransmission Systems/Norepinephrine.md",
+    "Functional Systems/Intermediary Systems/Neurotransmission Systems/Dopamine.md",
+    "Functional Systems/Intermediary Systems/Neurotransmission Systems/GABA.md",
     "Functional Systems/Intermediary Systems/Neurotransmission Systems/Glutamate.md",
+    "Functional Systems/Intermediary Systems/Neurotransmission Systems/Norepinephrine.md",
+    "Functional Systems/Intermediary Systems/Neurotransmission Systems/Serotonin.md",
+    "2. Diencephalon/Hypothalamus/Median Eminence.md",
+    "1. Telencephalon/Cortex/Frontal Lobe/Ventromedial Prefrontal Cortex.md",
+    "Functional Systems/Enteric Nervous System.md",
+    "z_png/The-three-primary-dopaminergic-pathways-in-the-brain-Note-the-strong-connections-to.png",
     "Functional Systems/Intermediary Systems/Neurotransmission Systems",
-    "README.md",
     "'The Neural Architecture.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'(Pontine) Reticular Formation.md",
-    "2. Diencephalon/'Diencephalon.md",
+    "TODO.md",
+    "README.md",
     "2. Diencephalon/Hypothalamus/'Hypothalamus.md",
     "3. Mesencephalon/'Midbrain.md",
     "Functional Systems/Output Systems/'Output Systems.md",
@@ -176,7 +172,6 @@
     "2. Diencephalon/Thalamus/Thalamic Reticular Nucleus.md",
     "2. Diencephalon/Hypothalamus/Visceromotor Network/'Visceromotor Network.md",
     "2. Diencephalon/Hypothalamus/Vascular Organ of Lamina Terminalis.md",
-    "2. Diencephalon/Hypothalamus/Median Eminence.md",
     "2. Diencephalon/Hypothalamus/Mammillary Bodies.md",
     "2. Diencephalon/Thalamus/'Thalamus.md",
     "2. Diencephalon/Thalamus/Intralaminar Formation/'Intralaminar Formation.md",
