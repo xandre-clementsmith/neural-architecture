@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Diencephalon/Hypothalamus/'Hypothalamus.md",
+                "file": "Functional Systems/Intermediary Systems/Neurotransmission Systems/Dopamine.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Diencephalon/Hypothalamus/'Hypothalamus.md",
+                "file": "Functional Systems/Intermediary Systems/Neurotransmission Systems/Dopamine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Diencephalon/Hypothalamus/'Hypothalamus.md",
+                "file": "Functional Systems/Intermediary Systems/Neurotransmission Systems/Dopamine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Diencephalon/Hypothalamus/'Hypothalamus.md"
+                "file": "Functional Systems/Intermediary Systems/Neurotransmission Systems/Dopamine.md"
               }
             }
           }
@@ -147,35 +147,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6b0df8f28bb6d31",
+  "active": "d1c8dc155d8f6a07",
   "lastOpenFiles": [
+    "TODO.md",
+    "Functional Systems/Intermediary Systems/Neurotransmission Systems/Dopamine.md",
+    "1. Telencephalon/Cortex/Temporal Lobe/Medial Temporal Lobe/Parahippocampal Gyrus/'Piriform Cortex.md",
+    "Functional Systems/Intermediary Systems/Neurotransmission Systems/'Neurotransmission Systems.md",
+    "Functional Systems/Intermediary Systems/Neurotransmission Systems/GABA.md",
+    "Functional Systems/Intermediary Systems/Neurotransmission Systems/Acetylcholine.md",
+    "The-three-primary-dopaminergic-pathways-in-the-brain-Note-the-strong-connections-to.png",
+    "Functional Systems/Intermediary Systems/Neurotransmission Systems/Serotonin.md",
+    "Functional Systems/Intermediary Systems/Neurotransmission Systems/Norepinephrine.md",
+    "Functional Systems/Intermediary Systems/Neurotransmission Systems/Glutamate.md",
+    "Functional Systems/Intermediary Systems/Neurotransmission Systems",
+    "README.md",
+    "'The Neural Architecture.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'(Pontine) Reticular Formation.md",
+    "2. Diencephalon/'Diencephalon.md",
+    "2. Diencephalon/Hypothalamus/'Hypothalamus.md",
     "3. Mesencephalon/'Midbrain.md",
     "Functional Systems/Output Systems/'Output Systems.md",
     "Functional Systems/Input Systems/'Input Systems.md",
-    "'The Neural Architecture.md",
-    "2. Diencephalon/'Diencephalon.md",
-    "2. Diencephalon/Hypothalamus/'Hypothalamus.md",
     "2. Diencephalon/Thalamus/Thalamic Reticular Nucleus.md",
     "2. Diencephalon/Hypothalamus/Visceromotor Network/'Visceromotor Network.md",
     "2. Diencephalon/Hypothalamus/Vascular Organ of Lamina Terminalis.md",
     "2. Diencephalon/Hypothalamus/Median Eminence.md",
     "2. Diencephalon/Hypothalamus/Mammillary Bodies.md",
-    "TODO.md",
     "2. Diencephalon/Thalamus/'Thalamus.md",
     "2. Diencephalon/Thalamus/Intralaminar Formation/'Intralaminar Formation.md",
     "2. Diencephalon/Subthalamus/Zona Incerta.md",
     "2. Diencephalon/Subthalamus/Subthalamic Nuclei.md",
-    "2. Diencephalon/Subthalamus/'Subthalamus.md",
-    "2. Diencephalon/Epithalamus/Pineal Gland.md",
-    "2. Diencephalon/Epithalamus/Habenula/Medial Habenula.md",
-    "3. Mesencephalon/Tegmentum/Interpeduncular Nucleus.md",
-    "2. Diencephalon/Epithalamus/Habenula/Lateral Habenula.md",
-    "2. Diencephalon/Epithalamus/Habenula/'Habenula.md",
     "z_png/Pasted image 20240519125921.png",
-    "2. Diencephalon/Thalamus/Midline Nuclei and Periventricular Formation/'Midline Nuclei.md",
-    "2. Diencephalon/Thalamus/Medial Region/Mediodorsal Nucleus.md",
-    "2. Diencephalon/Thalamus/Lateral Region/'Lateral Region.md",
-    "2. Diencephalon/Thalamus/Lateral Region/Sensory Thalamus/Ventroposterior Nucleus.md",
     "z_png/Pasted image 20240519230533.png",
     "z_png/Pasted image 20240519230522.png",
     "z_png/Pasted image 20240519230358.png",
@@ -184,7 +186,6 @@
     "z_png/Pasted image 20240519123523.png",
     "z_png/Pasted image 20240519121957.png",
     "z_png/Pasted image 20240519120001.png",
-    "z_png/Pasted image 20240515190141.png",
     "Functional Systems/Intermediary Systems",
     "Functional Systems/Basal Ganglia System",
     "White Matter Tracts/Cortical/Subthalamic",
@@ -193,7 +194,6 @@
     "Functional Systems/Output Systems/Hypothalamic Systems",
     "3. Mesencephalon/Tegmentum/Rubrospinal System/Red Nucleus",
     "3. Mesencephalon/Tegmentum/Cranial Nerves/Efferent Nuclei/Oculomotor/Oculomotor Nuclei",
-    "3. Mesencephalon/Tegmentum/Cranial Nerves/Efferent Nuclei/Oculomotor",
-    "3. Mesencephalon/Pretectum"
+    "3. Mesencephalon/Tegmentum/Cranial Nerves/Efferent Nuclei/Oculomotor"
   ]
 }
