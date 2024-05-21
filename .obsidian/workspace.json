@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f74456b441327775",
+        "id": "a8056e87901c115e",
         "type": "tabs",
         "children": [
           {
-            "id": "cf6b77607827d9bc",
+            "id": "d1c8dc155d8f6a07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "2. Diencephalon/Hypothalamus/'Hypothalamus.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "reticular nucleus thalamus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "2. Diencephalon/Hypothalamus/'Hypothalamus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "2. Diencephalon/Hypothalamus/'Hypothalamus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "2. Diencephalon/Hypothalamus/'Hypothalamus.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,53 +147,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf6b77607827d9bc",
+  "active": "e6b0df8f28bb6d31",
   "lastOpenFiles": [
-    "README.md",
-    "TODO.md",
-    "3. Mesencephalon/Tegmentum/Rubrospinal System/Red Nucleus/Parvocellular Red Nucleus.md",
-    "3. Mesencephalon/Tegmentum/Rubrospinal System/Red Nucleus/Magnocellular Red Nucleus.md",
-    "3. Mesencephalon/Tegmentum/Rubrospinal System/Red Nucleus/'Red Nucleus.md",
-    "3. Mesencephalon/Tegmentum/Rubrospinal System/Red Nucleus",
-    "Functional Systems/Output Systems/Pyramidal System.md",
-    "Functional Systems/Output Systems/Hypothalamic Systems/Endocrine System.md",
-    "Functional Systems/Output Systems/Hypothalamic Systems/Behavior Control Column.md",
-    "Functional Systems/Output Systems/Hypothalamic Systems/Autonomic System.md",
-    "Functional Systems/Output Systems/Hypothalamic Systems",
-    "Functional Systems/Output Systems/Cerebellar System.md",
-    "3. Mesencephalon/Tegmentum/Accessory Optic System.md",
-    "3. Mesencephalon/Tectum/Cuneiform Nucleus.md",
-    "3. Mesencephalon/Tegmentum/Ventral Tegmental Area.md",
-    "3. Mesencephalon/Tegmentum/Periaqueductal Gray.md",
-    "3. Mesencephalon/Tegmentum/Mesencephalic Reticular Nucleus.md",
-    "3. Mesencephalon/Tegmentum/Locus Coeruleus.md",
-    "3. Mesencephalon/Tegmentum/Interpeduncular Nucleus.md",
+    "3. Mesencephalon/'Midbrain.md",
+    "Functional Systems/Output Systems/'Output Systems.md",
+    "Functional Systems/Input Systems/'Input Systems.md",
     "'The Neural Architecture.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Efferent Nuclei/Facial/Superior Salivatory Nuclei.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Efferent Nuclei/Facial/Lacrimal Nucleus.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Efferent Nuclei/Facial/Facial Nucleus.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Efferent Nuclei/Facial/'CN VII.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Efferent Nuclei/Facial",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Efferent Nuclei/Abducens/CN VI.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Efferent Nuclei/Abducens/Abducens Nucleus.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Efferent Nuclei/Abducens",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Afferent Nuclei/Vestibulocochlear/Vestibular Nuclei.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Afferent Nuclei/Vestibulocochlear/Cochlear Nuclei.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Afferent Nuclei/Vestibulocochlear",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Afferent Nuclei/Facial",
-    "z_png/Pasted image 20240510221714.png",
-    "z_png/Pasted image 20240510221702.png",
-    "z_png/Pasted image 20240510221539.png",
-    "z_png/Pasted image 20240510211426.png",
-    "z_png/Pasted image 20240508225820.png",
-    "z_png/Pasted image 20240508183338.png",
-    "z_png/Pasted image 20240507200148.png",
-    "z_png/Pasted image 20240507194938.png",
-    "z_png/Pasted image 20240507191645.png",
-    "z_png/Pasted image 20240507191551.png",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Efferent/Vagus",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Efferent/Hypoglossal",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Efferent/Glossopharyngeal",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/Vagus"
+    "2. Diencephalon/'Diencephalon.md",
+    "2. Diencephalon/Hypothalamus/'Hypothalamus.md",
+    "2. Diencephalon/Thalamus/Thalamic Reticular Nucleus.md",
+    "2. Diencephalon/Hypothalamus/Visceromotor Network/'Visceromotor Network.md",
+    "2. Diencephalon/Hypothalamus/Vascular Organ of Lamina Terminalis.md",
+    "2. Diencephalon/Hypothalamus/Median Eminence.md",
+    "2. Diencephalon/Hypothalamus/Mammillary Bodies.md",
+    "TODO.md",
+    "2. Diencephalon/Thalamus/'Thalamus.md",
+    "2. Diencephalon/Thalamus/Intralaminar Formation/'Intralaminar Formation.md",
+    "2. Diencephalon/Subthalamus/Zona Incerta.md",
+    "2. Diencephalon/Subthalamus/Subthalamic Nuclei.md",
+    "2. Diencephalon/Subthalamus/'Subthalamus.md",
+    "2. Diencephalon/Epithalamus/Pineal Gland.md",
+    "2. Diencephalon/Epithalamus/Habenula/Medial Habenula.md",
+    "3. Mesencephalon/Tegmentum/Interpeduncular Nucleus.md",
+    "2. Diencephalon/Epithalamus/Habenula/Lateral Habenula.md",
+    "2. Diencephalon/Epithalamus/Habenula/'Habenula.md",
+    "z_png/Pasted image 20240519125921.png",
+    "2. Diencephalon/Thalamus/Midline Nuclei and Periventricular Formation/'Midline Nuclei.md",
+    "2. Diencephalon/Thalamus/Medial Region/Mediodorsal Nucleus.md",
+    "2. Diencephalon/Thalamus/Lateral Region/'Lateral Region.md",
+    "2. Diencephalon/Thalamus/Lateral Region/Sensory Thalamus/Ventroposterior Nucleus.md",
+    "z_png/Pasted image 20240519230533.png",
+    "z_png/Pasted image 20240519230522.png",
+    "z_png/Pasted image 20240519230358.png",
+    "z_png/Pasted image 20240519220529.png",
+    "z_png/Pasted image 20240519211531.png",
+    "z_png/Pasted image 20240519123523.png",
+    "z_png/Pasted image 20240519121957.png",
+    "z_png/Pasted image 20240519120001.png",
+    "z_png/Pasted image 20240515190141.png",
+    "Functional Systems/Intermediary Systems",
+    "Functional Systems/Basal Ganglia System",
+    "White Matter Tracts/Cortical/Subthalamic",
+    "White Matter Tracts/Cortical/Optic",
+    "2. Diencephalon/Epithalamus/Habenula",
+    "Functional Systems/Output Systems/Hypothalamic Systems",
+    "3. Mesencephalon/Tegmentum/Rubrospinal System/Red Nucleus",
+    "3. Mesencephalon/Tegmentum/Cranial Nerves/Efferent Nuclei/Oculomotor/Oculomotor Nuclei",
+    "3. Mesencephalon/Tegmentum/Cranial Nerves/Efferent Nuclei/Oculomotor",
+    "3. Mesencephalon/Pretectum"
   ]
 }

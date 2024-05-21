@@ -2,7 +2,7 @@
 - Relays habenula to dorsal tegmental nucleus, PAG, and raphe
 - Broad brain-wide inhibitory affects
 ### Afferents
-- [[Habenula]] (Medial) - Primary Input
+- [['Habenula]] (Medial) - Primary Input
 - [[Dorsal Raphe Nuclei]]
 - [['Dorsal Tegmental Nucleus]]
 - [['Raphe Nuclei]]

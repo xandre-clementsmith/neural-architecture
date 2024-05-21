@@ -1,7 +1,7 @@
 - There seems to be a hypothalamic-controlled system, implicating the reticular formation and periaqueductal gray
 	- May include PPN, will return after reviewing neurotransmission systems
 
-- [[Habenula]], [['Dorsal Tegmental Nucleus]], [[Interpeduncular Nucleus]]
+- [['Habenula]], [['Dorsal Tegmental Nucleus]], [[Interpeduncular Nucleus]]
 - [[Periaqueductal Gray]]
 ### Reticular Activating System
 - Both ascending (ARAS) and descending via the [[Reticulospinal Tracts]]

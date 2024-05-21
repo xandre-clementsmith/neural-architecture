@@ -1,74 +1,65 @@
+- Physiological and Behavioral Control Center with substantial connectivity
+# Connectivity
+### Afferents
+[[Medial Forebrain Bundle]] - 50+ Nuclei to Lateral Hypothalamus
+- [['Olfactory System]]
+- [[Septal Nuclei]]
+- [['Amygdala]]
+- [['Substantia Innominata]]
+- Frontal Cortex
+[['Striatum]]
+- [['Amygdala]]
+[[Fornix]]
+- [[Hippocampus Proper]]
 
-![[Pasted image 20240210142838.png]]
+[[Dorsal Longitudinal Fasciculus]] - Autonomic Hypothalamus
+- Mesencephalic Tegmentum - Limbic Midbrain (Requires more fidelity)
+- [['Raphe Nuclei]] - Serotonergic
+- [[Solitary Nucleus]] - Visceral
+- [[Medullary Reticular Formation]]
+[[Periventricular Fiber System]] - Periventricular Hypothalamus
+- [[Periaqueductal Gray]]
+- [[Mesencephalic Reticular Formation]]
+- Mesencephalic Tegmentum Dorsal Nucleus
+[[Medial Forebrain Bundle]] - Mammillary Hypothalamus
+- [[Mesencephalic Reticular Formation]]
 
-ANS: Autonomic Nervous System
-NES: Neuroendocrine System
+Misc
+- [[Mediodorsal Nucleus]] - Periventricular Hypothalamus
+- [['Medial Zone]] - Periventricular Hypothalamus
+- [[Subthalamic Nuclei]] - Lateral Hypothalamus
+- [[Zona Incerta]] - Lateral Hypothalamus
+- [[Nucleus Accumbens]] - Lateral Hypothalamus
+- [['Substantia Innominata]] - Suprachiasmatic Nucleus
+- [[Optic Tract]] - Lateral Hypothalamus
+### Efferents
+[[Medial Forebrain Bundle]] - Lateral Hypothalamus
+- [[Septal Nuclei]]
+- [['Amygdala]]
+- [['Piriform Cortex]]
+- Neocortex
+[[Stria Terminalis]] - Medial Hypothalamus
+- [[Bed Nucleus of the Stria Terminalis]]
+- [['Amygdala]]
+[[Medial Forebrain Bundle]] - Mammillary-Tegmental Tract and Mammillary Peduncle
+- [[Mesencephalic Reticular Formation]] 
 
-- Most hypothalamic connections are bi-directional
+[[Dorsal Longitudinal Fasciculus]], [[Periventricular Fiber System]] - Autonomic
+- [[Oculomotor Nucleus]], [[Trochlear Nucleus]], [[Abducens Nucleus]]
+- [[Trigeminal Motor Nuclei]], [[Facial Nucleus]]
+- [[Nucleus Ambiguus]], [[Dorsal Motor Nucleus of the Vagus Nerve]]
+- [[Periaqueductal Gray]]
+- [[Autonomic System]] - Parasympathetic, Sympathetic Pre-Ganglia Neurons
 
-### Connectivity
+Misc
+- H1 of [[Fields of Forel]]
+- [['Substantia Innominata]]
+- [[Superior Colliculus]]
+- [[Substantia Nigra pars reticular]]
+- [['Cerebellum]]
 
 ![[Pasted image 20240210175955.png]]
-
-![[Pasted image 20240211095256.png]]
-
-Afferents (Primarily located in the anterior hypothalamus):
-- Limbic System
-	- Medial Forebrain Bundle: Descending olfactory and septal areas (ascending amygdaloid and substantia innominata)
-	- Stria Terminalis: Amygdaloid Complex
-	- Fornix: Hippocampus
-- Brainstem Reticular Formation
-	- Dorsal Longitudinal Fasciculus
-	- Periventricular Fiber System
-	- Median Forebrain Bundle
-- Thalamus
-	- Median Thalamus
-	- Medial Thalamus
-- Subthalamus
-	- Nucleus Subthalamicus and Zona Incerta
-- Basal Ganglia
-	- Nucleus Accumbens
-	- Substantia Innominata
-- Retina
-	- Circadian Rhythms via retino-hypothalamic tract into suprachiasmatic
-- Neocortex via medial forebrain bundle
-
-Efferents:
-### Central Control of the Autonomic Nervous System & Thermoregulation
-
-![[Pasted image 20240210225941.png]]
-
-
-# Anatomy
-### Zones
-
-![[Pasted image 20240210143754.png]]
-
-![[Pasted image 20240210143538.png]]
-
-- Periventricular: Few nuclei; includes arcuate and periventricular nuclei for neuroendocrine and autonomic regulation
-	- Paraventricular and arcuate
-- Medial: Majority of nuclei
-- Lateral: Few nuclei; important fibre pathways, such as median forebrain bundle. Regulation of autonomic
-	- Lateral tuberal complex and pieces of preoptic and supraoptic
-
-### Regions
-
-![[Pasted image 20240210144234.png]]
-
-- Zones are divided by lamina terminalis/optic chiasm -> anterior -> tuberal -> posterior/mammillary bodies
-
-### Nuclei
-
-![[Pasted image 20240210144420.png]]
-
-- Nuclei are covered in sub-pages of Hypothalamus
-
-https://www.ncbi.nlm.nih.gov/books/NBK279126/
-
-##### Macroscale Intrinsic Network Architecture
-https://www.pnas.org/doi/10.1073/pnas.1819448116
-- However, exceptions above the average are more pronounced for contralateral heterotopic macroconnections, and most notable are four with a weight of 7 (very strong): ventrolateral preoptic nucleus (VLP) to tuberomammillary nucleus (TM), LHA juxtadorsomedial region (LHAjd) to dorsal premammillary nucleus (PMd), LHA subfornical region anterior zone to PMd, and retina to suprachiasmatic nucleus (SCH). In contrast, the strongest hypothalamic homotopic macroconnections each have a weight of 4 (weak to moderate) and are formed by the following four regions: parastrial nucleus, SCH, arcuate hypothalamic nucleus (ARH), and ventral premammillary nucleus (PMv).
+# Anatomy - Macroscale Intrinsic Network Architecture
 
 ![[Pasted image 20240215020553.png]]
 
@@ -88,3 +79,13 @@ Hypothalamic Divisions
 ![[Pasted image 20240215023528.png]]![[Pasted image 20240328204330.png]]
 - Rostral (Red): Circuits regulating the three basic classes of goal-oriented behavior common to all animals: ingestive, reproductive, and defensive
 - Caudal (Black): Plays a critical role in circuits underlying the expression of exploratory or foraging behavior
+
+- Overall, this organization suggests a prominent functional association for HY2 M1/2 subsystem 1.1 with physiological control (especially neuroendocrine signaling), and for subsystem 1.2 with behavioral control (especially somatomotor signaling). Moreover, primacy of physiological control is suggested by inclusion of all four candidate hubs in HY2 M1/2 subsystem 1.1 (white asterisks). However, both HY2 top-level subsystems 1.1 and 1.2 include regions involved in autonomic and behavioral-state control, and the existence of only two bilateral HY2 top-level modules underscores deep intrahypothalamic integration. Communication between HY2 M1/2 subsystems 1.1 and 1.2 may be considered mutually supportive, and both support the prime function of the hypothalamus to support survival and sexual reproduction.
+
+![[Pasted image 20240517212508.png]]
+![[Pasted image 20240517212513.png]]
+![[Pasted image 20240517212517.png]]
+![[Pasted image 20240517232126.png]]
+
+https://www.pnas.org/doi/10.1073/pnas.1819448116
+https://www.ncbi.nlm.nih.gov/books/NBK279126/

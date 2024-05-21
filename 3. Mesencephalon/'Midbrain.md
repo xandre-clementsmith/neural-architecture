@@ -3,9 +3,9 @@
 - Outputs: Cranial Nerves and Associated Nuclei
 - Vision: Pretectum, Superior Colliculus, Accessory Optic
 - Auditory: Inferior Colliculus
-- Motor: Cuneiform Nucleus, Red Nucleus, SNr, Mesencephalic Reticular Nucleus, Periaqueductal Gray
+- Motor: Cuneiform Nucleus, Red Nucleus, SNr, Mesencephalic Reticular Nucleus
 - Neurotransmission: Raphe Nuclei, VTA, SNc, Locus Coeruleus
-- Intermediary: SNr, Interpeduncular, Mesencephalic Reticular Nucleus, Periaqueductal Gray
+- Intermediary: SNr, Interpeduncular, Mesencephalic Reticular Nucleus, Periaqueductal Gray, Mesopontine Rostromedial Tegmentum Nucleus
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8158020/
 

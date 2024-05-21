@@ -1,6 +1,6 @@
 - TODO: https://www.sciencedirect.com/science/article/abs/pii/S2468867319300288
 
-- [[Medullary Reticular Formation]] and [[Mesencephalic Reticular Nucleus]] redirect here for convenience
+- [[Medullary Reticular Formation]] and [[Mesencephalic Reticular Formation]] redirect here for convenience
 - Primarily consists of interneurons, includes excitatory interneurons
 - Function: Arousal, consciousness, circadian rhythm, sleep-wake cycles, coordination of somatic motor movements, cardiovscular and respiratory control, pain modulation, and habituation
 - Network: medial RF is small-world, not scale-free / exponential (https://royalsocietypublishing.org/doi/10.1098/rspb.2005.3354)

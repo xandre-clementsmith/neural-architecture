@@ -17,7 +17,7 @@ Somatosensory: https://www.nature.com/articles/s41593-019-0536-7
 ### Collateral Efferents
 - Dorsolateral [['Striatum]]
 - [['(Pontine) Reticular Formation]]
-- [[Mesencephalic Reticular Nucleus]]
+- [[Mesencephalic Reticular Formation]]
 - [[Superior Colliculus]]
 - [['Pons]]
 - [[Periaqueductal Gray]]

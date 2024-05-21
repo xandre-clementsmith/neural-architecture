@@ -2,7 +2,7 @@
 - Function and connectivity incomplete; not finished
 
 ### Afferents
-- [[Habenula]]
+- [['Habenula]]
 - [[Interpeduncular Nucleus]]
 - [[Mammillary Bodies]]
 - [['Perihypoglossal Nuclei]]

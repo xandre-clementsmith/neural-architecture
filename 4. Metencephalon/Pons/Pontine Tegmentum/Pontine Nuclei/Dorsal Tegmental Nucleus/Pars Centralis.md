@@ -6,7 +6,7 @@ Supporting
 - [['Perihypoglossal Nuclei]]
 - Supragenualis Nuclei
 Minimal
-- [[Habenula]]
+- [['Habenula]]
 - Posterior [['Hypothalamus]]
 - [['(Pontine) Reticular Formation]]
 ### Efferents

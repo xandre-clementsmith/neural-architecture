@@ -1,10 +1,9 @@
+- Visually-focused region
+- Connectivity seems to include visual cortex and superior colliculi; hard to find consolidated afferents and efferents
+### Afferents
+### Efferents
+
 ![[Pasted image 20240211225144.png]]
 
-Components: Anterior Pulvinar Nucleus, Anterodorsal Pulvinar Nucleus, Intergeniculate Pulvinar Nucleus, Inferio Pulvinar Nucleus, Lateral Pulvinar Nucleus, Medial Pulvinar Nucleus, Superficial Pulvinar Nucleus
-
-Functions - Cortico-Cortico
-- Primarily Associative (Coritco-Cortico)
-- Lateral/Inferior: Early visual cortical areas
-- Dorsal: Posterior parietal and dorsal stream
-- Medial: Cingulate, posterior parietal, premotor, and prefrontal
-- Superior colliculus input
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1693262/
+https://www.google.com/search?client=firefox-b-1-d&q=pulvinar+connectivity
