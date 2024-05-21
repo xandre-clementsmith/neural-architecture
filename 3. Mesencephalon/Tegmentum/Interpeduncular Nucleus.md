@@ -13,7 +13,7 @@
 - [['Dorsal Tegmental Nucleus]]
 - [[Periaqueductal Gray]]
 - [['Raphe Nuclei]]
-### Organization
+### Organization 
 - Apical Sub-Nucleus (IPA)
 - Central Sub-Nucleus (IPC)
 - Dorsolateral Sub-Nucleus (PIDL)
