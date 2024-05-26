@@ -1,7 +1,7 @@
 ### [[Acetylcholine]]
 - [[Pedunculopontine Nucleus]] and [[Laterodorsal Tegmental Nucleus|Laterodorsal Tegmental Nucleus]]
 - [[Basal Forebrain]]
-### [[Dopamine]]
+### [[Dopamine (DA)]]
 Primary
 - [[Substantia Nigra pars compacta]] 
 - [[Ventral Tegmental Area]]

@@ -10,10 +10,11 @@
 ### Dopamine Neurons
 Primary
 - [[Substantia Nigra pars compacta]] - A9
-- [[Ventral Tegmental Area]] - A10
+- [[Ventral Tegmental Area]] - A10 
 - [[Arcuate]] - A12
 Seconday
-- [[Mesencephalic Reticular Formation]] - A8
+- [[Mesencephalic Reticular Formation]] (Retrorubral Field) - A8
+- [[Central Linear Raphe Nuclei]] - A10
 - [['Periventricular Region]] - A11, A14
 - [[Zona Incerta]] - A13
 - [[Olfactory Bulb]] - A16
@@ -27,10 +28,7 @@ Mesolimbic (A10)
 - [[Ventral Tegmental Area]] to [['Amygdala]], [['Piriform Cortex]], [[Septal Nuclei]], [[Nucleus Accumbens]]
 - Reward and addiction
 Mesocortical (A10)
-- [[Orbitofrontal Cortex]]
-- [[Ventromedial Prefrontal Cortex]]
-- [[Medial Prefrontal Cortex]]
-- [[Anterior Cingulate Cortex]]
+- [[Ventral Tegmental Area]] to [[Orbitofrontal Cortex]], [[Ventromedial Prefrontal Cortex]], [[Medial Prefrontal Cortex]], [[Anterior Cingulate Cortex]]
 - Cognition, emotion, memory, and attention
 Hypothalamospinal (A11)
 - [['Periventricular Region]] to [[Dorsal Raphe Nuclei]], [['Thalamus]], [['Hypothalamus]], [['Spinal Cord]], and Cortex
@@ -61,8 +59,10 @@ Lower Density
 - [['Amygdala]]
 - Cortex
 
+![[Pasted image 20240524160121.png]]
 ![[The-three-primary-dopaminergic-pathways-in-the-brain-Note-the-strong-connections-to.png]]
 
 https://www.sciencedirect.com/science/article/abs/pii/S0166223607000677
 https://www.hilarispublisher.com/open-access/dopamine-receptors-functions-synthesis-pathways-locations-andmental-disorders-review-of-literatures-2471-271X-1000120.pdf
 https://www.ncbi.nlm.nih.gov/books/NBK538242/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6342021/

@@ -14,3 +14,6 @@
 - [['Raphe Nuclei]]
 - [['Hypothalamus]]: [[Medial Preoptic]], [[Anterior]], Dorsal, [['Periventricular Region]], [[Ventromedial]], Periarcuate, [['Lateral Zone]], Posterior
 - [[Zona Incerta]]
+
+- [['Amygdala]] - [[Dopamine (DA)]]
+- [[Bed Nucleus of the Stria Terminalis]] - [[Dopamine (DA)]]

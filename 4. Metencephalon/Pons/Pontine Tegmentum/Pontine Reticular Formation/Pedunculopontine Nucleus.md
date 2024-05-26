@@ -1,60 +1,71 @@
-##### General
+### General
 - PPN is present in virtually all vertebrate species; it is identified by its population of cholinergic neurons
 - Composed of cholinergic (~3000 in rat PPN), GABAergic, and glutamatergic neurons
 - Cholinergic neurons form a continuum from caudal end of substantia nigra (rostral part of PPN), and ending at caudal end of LDT [[Laterodorsal Tegmental Nucleus]]
-##### Cholinergic Neurons
+### Cholinergic Neurons
 - Cholinergic neurons are fewest rostrally, and increase gradually caudally
 - Brainstem acetylcholine origin alongside LDT (Collectively known as the meso-pontine tegmental area)
 	- Basal forebrain is the origin for acetylcholine in the forebrain
 - Cholinergic axons give rise to an average of five collaterals, the majority of which have an ascending trajectory with a dorsal and ventral stream
 	- Ascending ventral innervates parts of midbrain basal ganglia and continues to hypothalamic region in the basal forebrain
 - Ascending projections may promote goal-directed locomotion by increasing dopamine neuron activity
-##### Glutamatergic and GABAergic Neurons
+### Glutamatergic and GABAergic Neurons
 - GABAergic neurons are densely concentrated in the rostral PPN, forming a contiuum with GABAergic neurons of the [[Substantia Nigra pars reticular]] (SNr) and the rostromedial tegmental nucleus (tail of [[Ventral Tegmental Area]])
 - Glutamatergic neurons are more caudal and extend dorsally into the [[Cuneiform Nucleus]]
-
-##### Role in Arousal
-- https://www.cell.com/neuron/pdf/S0896-6273(17)30135-6.pdf
-
-##### Motor System
+### Motor System
 - Potentially part of the Mesencephalic Locomotor Region (MLR), but spinally projecting non-cholinergic neurons surrounding PPN may be mostly responsible for inducing locomotion
 - Includes cholinergic and putative glutamatergic components
 - Innervate Rostral/Oral and Caudal Pontine [['(Pontine) Reticular Formation]] (Medial Group: Motor Coordination), Gigantocellular Nucleus (Medial Group: Motor Coordination), and [['Spinal Cord]]
 - Only a small proportion of PPN neurons have descending projections, and these are mainly non-cholinergic
 - Cholinergic output inhibits movement and reduces muscle tone, whereas glutamatergic induces movement and increases muscle tone
-
-##### Dopaminergic Modulation
+### Dopaminergic Modulation
 - Rostral PPN innervates SNc, caudal PPN innervates SNc and VTA, and LDT innervates VTA (predominantly)
 	- Cholinergic, Glutamergic, GABAergic
 	- Efferents to dopaminergic and non-dopaminergic midbrain neurons
 	- Only cholinergic input to midbrain dopamine region
 - PPN and LDT innervate distinct subsets with distinct connectivity and functional properties
 - https://www.cell.com/neuron/pdf/S0896-6273(17)30135-6.pdf
-
-##### Connectivity
-- Efferents
-	- Ascending Ventral Pathway
-		- [[Substantia Nigra pars compacta]]
-		- [[Ventral Tegmental Area]]
-		- [[Substantia Nigra pars reticular]]
-		- [[Subthalamic Nuclei]]
-		- Lateral [['Hypothalamus]]
-		- [[Ventral Pallidum]]
-		- [['Amygdala]]
-		- [[Septal Nuclei]]
-	- Ascending Dorsal Pathway
-		- [[Superior Colliculus]]
-		- [[Inferior Colliculus]]
-		- [[Parainterfascicular Nucleus]]
-		- Reticular [['Thalamus]]
-		- Anterior [['Thalamus]]
-		- Motor, Sensory, Associative, and Limbic [['Thalamus]]
-		- Striatum of the [['Basal Ganglia]]]
-	- Descending Pathway
-		- Rostral and Caudal [['Pontine Nuclei]] (Cerebellum)
-		- Gigantocellular [['(Pontine) Reticular Formation]] ([[Reticulospinal Tracts]])
-		- Spinal Cord via [[Reticulospinal Tracts]]
-- Afferents
+### Afferents
+- Frontal Lobe
+- [[Primary Auditory Cortex]]
+- [[Medial Prefrontal Cortex]]
+- Deep Cerebellar Nuclei
+- [[Subthalamic Nuclei]]
+- Entopeduncular Nucleus
+- [[Globus Pallidus Internal Segment]]
+- [[Substantia Nigra pars reticular]] or [[Substantia Nigra pars compacta]]
+- [[Ventral Tegmental Area]]
+- [['Striatum]]
+- [[Superior Colliculus]]
+- [[Laterodorsal Tegmental Nucleus]]
+- [[Pedunculopontine Nucleus]]
+- [[Locus Coeruleus]]
+- [['Habenula]]
+- [[Mesopontine Rostromedial Tegmental Nucleus]]
+- [[Zona Incerta]]
+- [[Dorsal Raphe Nuclei]]
+### Efferents
+- Ascending Ventral Pathway
+	- [[Substantia Nigra pars compacta]]
+	- [[Ventral Tegmental Area]]
+	- [[Substantia Nigra pars reticular]]
+	- [[Subthalamic Nuclei]]
+	- Lateral [['Hypothalamus]]
+	- [[Ventral Pallidum]]
+	- [['Amygdala]]
+	- [[Septal Nuclei]]
+- Ascending Dorsal Pathway
+	- [[Superior Colliculus]]
+	- [[Inferior Colliculus]]
+	- [[Parainterfascicular Nucleus]]
+	- Reticular [['Thalamus]]
+	- Anterior [['Thalamus]]
+	- Motor, Sensory, Associative, and Limbic [['Thalamus]]
+	- Striatum of the [['Basal Ganglia]]]
+- Descending Pathway
+	- Rostral and Caudal [['Pontine Nuclei]] (Cerebellum)
+	- Gigantocellular [['(Pontine) Reticular Formation]] ([[Reticulospinal Tracts]])
+	- Spinal Cord via [[Reticulospinal Tracts]]
 
 
 ![[Pasted image 20240409230124.png]]
@@ -69,3 +80,4 @@
 https://www.frontiersin.org/articles/10.3389/fnana.2011.00022/full
 https://pubmed.ncbi.nlm.nih.gov/23509047/
 https://www.cell.com/neuron/pdf/S0896-6273(17)30135-6.pdf
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3074429/

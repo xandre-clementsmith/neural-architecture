@@ -1,13 +1,13 @@
 - TODO: https://www.sciencedirect.com/science/article/abs/pii/S2468867319300288
 
 - [[Medullary Reticular Formation]] and [[Mesencephalic Reticular Formation]] redirect here for convenience
+- Retrorubral field of Mesencephalic Formation for [[Dopamine (DA)]]
 - Primarily consists of interneurons, includes excitatory interneurons
 - Function: Arousal, consciousness, circadian rhythm, sleep-wake cycles, coordination of somatic motor movements, cardiovscular and respiratory control, pain modulation, and habituation
 - Network: medial RF is small-world, not scale-free / exponential (https://royalsocietypublishing.org/doi/10.1098/rspb.2005.3354)
 - Reticular Formation and its connectivity makes up the Reticular Activating System (RAS)
 - Highly stereotyped suggesting strong underlying genetic organization (https://www.frontiersin.org/articles/10.3389/fnana.2013.00007/full)
 
-General Connectivity
 - Efferents
 	- [['Intralaminar Formation]] of the Thalamus
 	- [[Reticulospinal Tracts]] for both [['Somatic Systems]] and [[Autonomic System]]

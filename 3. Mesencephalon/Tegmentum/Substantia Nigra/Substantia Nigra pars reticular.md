@@ -8,5 +8,6 @@
 - [[Superior Colliculus]]
 - [[Pedunculopontine Nucleus]]
 - [[Mesopontine Rostromedial Tegmental Nucleus]]
+- [[Mesencephalic Reticular Formation]]
 
 ![[Pasted image 20240321013257.png]]![[Pasted image 20240321013330.png]]

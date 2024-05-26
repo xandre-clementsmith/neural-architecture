@@ -1,15 +1,43 @@
-##### General
-- https://www.cell.com/neuron/pdf/S0896-6273(17)30135-6.pdf
-- Dense cluster of cholinergic neurons
-- Primarily limbic, whereas [[Pedunculopontine Nucleus]] includes motor
-- Partially mesencephalic, partially metencephalic
+- Highly connected component of Ascending Reticular Activating System
+### Afferents
+- Frontal Cortex
+- [[Diagonal Band of Broca]]
+- [[Medial Preoptic]]
+- [['Hypothalamus]], [['Lateral Zone]]
+- [[Mammillary Bodies]], Lateral
+- [[Lateral Habenula]]
+- [[Interpeduncular Nucleus]]
+- [[Ventral Tegmental Area]]
+- [[Substantia Nigra pars compacta]]
+- Retrorubral Fiels
+- Medial Terminal Nucleus
+- Interstitial Nucleus
+- Supraoculoparatrochlear Region
+- [[Parabrachial Nucleus]]
+- [[Solitary Nucleus]]
+### Efferents
+- [[Medial Prefrontal Cortex]], Infralimbic
+- [[Anterior Cingulate Cortex]]
+- [[Hippocampus Proper]]
+- [[Septal Nuclei]]
+- Septofrimbrial and Triangular Nuclei
+- [['Thalamus]], Horizontal Limb
+- [[Thalamic Reticular Nucleus]]
+- [[Zona Incerta]]
+- [[Lateral Habenula]]
+- [['Hypothalamus]], [['Lateral Zone]]
+- [['Thalamus]] - anterior, mediodorsal, reuniens, centrolateral, parafascicular, paraventricular and laterodorsal
 
-##### Connectivity
-- Midline Thalamus
-- Nucleus Accumbens
-- VTA
-- Hypothalamus
-- Ventral Pallidus
-- Amygdala
-- Inferior Colliculus
-- Dorsal Raphe
+- [[Superior Colliculus]]
+- [['Pretectum]]
+- [['(Pontine) Reticular Formation]]
+- [[Inferior Olive]]
+- Supraoculomotor
+- [[Abducens Nucleus]]
+- [[Hypoglossal Nucleus]]
+- [[Interpeduncular Nucleus]]
+- [[Dorsal Raphe Nuclei]]
+- [[Median Raphe Nuclei]]
+- [[Pedunculopontine Nucleus]]
+- [[Parabrachial Nucleus]]
+- [[Solitary Nucleus]]

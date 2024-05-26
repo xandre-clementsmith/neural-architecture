@@ -1,2 +1,0 @@
-- Alt Name: Median Raphe Nuclei
-- [['Raphe Nuclei|'Raphe Nuclei]]
