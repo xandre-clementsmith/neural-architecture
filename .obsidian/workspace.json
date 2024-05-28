@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "a8056e87901c115e",
+        "id": "3c43bef1e5b358c6",
         "type": "tabs",
         "children": [
           {
-            "id": "3108a35be25df1ab",
+            "id": "318db3f12ab4a9f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functional Systems/Intermediary Systems/Neurotransmission Systems/Acetylcholine.md",
+                "file": "Functional Systems/Input Systems/'Input Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4edaab349c73cb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functional Systems/Input Systems/'Input Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdb1f2a3267e403e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functional Systems/Input Systems/Cranial Nerves/Gustatory Sensory System.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mediodorsal",
+                "query": "tectospinal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functional Systems/Intermediary Systems/Neurotransmission Systems/Acetylcholine.md",
+                "file": "Functional Systems/Input Systems/'Input Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functional Systems/Intermediary Systems/Neurotransmission Systems/Acetylcholine.md",
+                "file": "Functional Systems/Input Systems/'Input Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functional Systems/Intermediary Systems/Neurotransmission Systems/Acetylcholine.md"
+                "file": "Functional Systems/Input Systems/'Input Systems.md"
               }
             }
           }
@@ -147,53 +172,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3108a35be25df1ab",
+  "active": "a4edaab349c73cb0",
   "lastOpenFiles": [
-    "Functional Systems/Intermediary Systems/Neurotransmission Systems/Serotonin (5-HT).md",
-    "Functional Systems/Intermediary Systems/Neurotransmission Systems/Norepinephrine.md",
+    "'The Neural Architecture.md",
+    "3. Mesencephalon/'Midbrain.md",
+    "4. Metencephalon/Pons/'Pons.md",
+    "Functional Systems/Enteric Nervous System.md",
+    "Functional Systems/Large-Scale Brain Networks/'Large-Scale Brain Networks.md",
+    "Functional Systems/Intermediary Systems/Basal Ganglia System.md",
+    "Functional Systems/Intermediary Systems/Limbic System/'Limbic System.md",
     "Functional Systems/Intermediary Systems/Neurotransmission Systems/Glutamate.md",
-    "Functional Systems/Intermediary Systems/Neurotransmission Systems/Acetylcholine.md",
-    "Functional Systems/Intermediary Systems/Neurotransmission Systems/Dopamine (DA).md",
     "Functional Systems/Intermediary Systems/Neurotransmission Systems/GABA.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Laterodorsal Tegmental Nucleus.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Pedunculopontine Nucleus.md",
-    "3. Mesencephalon/Tegmentum/Substantia Nigra/Substantia Nigra pars compacta.md",
+    "Functional Systems/Intermediary Systems/Limbic System",
+    "5. Myelencephalon/Medulla Oblongata/'Medulla Oblongata.md",
+    "Functional Systems/Input Systems/Cranial Nerves/Retinal Sensory System.md",
+    "Functional Systems/Input Systems/Cranial Nerves/Olfactory Sensory System.md",
+    "Functional Systems/Input Systems/Cranial Nerves/Gustatory Sensory System.md",
+    "Functional Systems/Input Systems/Cranial Nerves/General Visceral Sensory System.md",
+    "Functional Systems/Input Systems/Cranial Nerves/Cochlear Sensory System.md",
+    "Functional Systems/Input Systems/'Input Systems.md",
+    "README.md",
     "TODO.md",
-    "3. Mesencephalon/Tegmentum/Locus Coeruleus.md",
+    "z_png/Pasted image 20240528014126.png",
+    "Functional Systems/Input Systems/Somatosensory System.md",
+    "Functional Systems/Input Systems/Cranial Nerves/Vestibular Sensory System.md",
+    "6. Spinal Cord/Afferent Pathways/Anterolateral System/'Spinothalamic Tract.md",
+    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/Vagus/CN X.md",
+    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Efferent/Vagus/'CN X.md",
+    "Functional Systems/Output Systems/Cranial Nerves/Ocular Motor System.md",
+    "Functional Systems/Input Systems/Cranial Nerves",
+    "Functional Systems/Output Systems/'Output Systems.md",
+    "1. Telencephalon/Cortex/Parietal Lobe/Visual Dorsal Stream/Caudal Intra-Parietal Sulcus.md",
+    "z_png/Pasted image 20240528014120.png",
+    "z_png/Pasted image 20240527182702.png",
+    "z_png/Pasted image 20240527181222.png",
+    "z_png/Pasted image 20240527180445.png",
+    "z_png/Pasted image 20240526182257.png",
+    "z_png/Pasted image 20240526182253.png",
+    "z_png/Pasted image 20240526182245.png",
+    "z_png/Pasted image 20240526182240.png",
+    "Functional Systems/Output Systems/Cranial Nerves",
     "z_png/Pasted image 20240526003959.png",
-    "z_png/Pasted image 20240525101439.png",
-    "3. Mesencephalon/Tegmentum/Raphe Nuclei/Median Raphe Nuclei.md",
-    "3. Mesencephalon/Tegmentum/Raphe Nuclei/Dorsal Raphe Nuclei.md",
-    "2. Diencephalon/Thalamus/Lateral Region/Metathalamus/Lateral Geniculate Nucleus.md",
-    "2. Diencephalon/Thalamus/Intralaminar Formation/'Intralaminar Formation.md",
-    "2. Diencephalon/Thalamus/Midline Nuclei and Periventricular Formation/'Midline Nuclei.md",
-    "z_png/Pasted image 20240525174155.png",
-    "3. Mesencephalon/Tegmentum/Raphe Nuclei/'Raphe Nuclei.md",
-    "3. Mesencephalon/Tegmentum/Raphe Nuclei/Rostral Ventromedial Medulla/Pallidus Raphe Nuclei.md",
-    "3. Mesencephalon/Tegmentum/Raphe Nuclei/Central Linear Raphe Nuclei.md",
-    "3. Mesencephalon/Tegmentum/Raphe Nuclei/Pontis Raphe Nuclei.md",
-    "3. Mesencephalon/Tegmentum/Raphe Nuclei/Obscurus Raphe Nuclei.md",
-    "3. Mesencephalon/Tegmentum/Raphe Nuclei/Rostral Ventromedial Medulla/'Rostral Ventromedial Medulla.md",
-    "3. Mesencephalon/Tegmentum/Raphe Nuclei/Rostral Ventromedial Medulla/Magnus Raphe Nuclei.md",
-    "3. Mesencephalon/Tegmentum/Raphe Nuclei/Rostral Ventromedial Medulla/Gigantocelullar Reticular Nucleus Pars alpha.md",
     "3. Mesencephalon/Tegmentum/Raphe Nuclei/Rostral Ventromedial Medulla",
-    "2. Diencephalon/Epithalamus/Pineal Gland.md",
-    "3. Mesencephalon/Tegmentum/Interpeduncular Nucleus.md",
-    "z_png/Pasted image 20240525101436.png",
-    "z_png/Pasted image 20240524193917.png",
-    "z_png/Pasted image 20240524160121.png",
-    "z_png/Pasted image 20240524161635.png",
-    "z_png/The-three-primary-dopaminergic-pathways-in-the-brain-Note-the-strong-connections-to.png",
     "Functional Systems/Intermediary Systems/Neurotransmission Systems",
-    "z_png/Pasted image 20240519125921.png",
-    "z_png/Pasted image 20240519230533.png",
     "Functional Systems/Intermediary Systems",
     "Functional Systems/Basal Ganglia System",
     "White Matter Tracts/Cortical/Subthalamic",
     "White Matter Tracts/Cortical/Optic",
-    "2. Diencephalon/Epithalamus/Habenula",
-    "Functional Systems/Output Systems/Hypothalamic Systems",
-    "3. Mesencephalon/Tegmentum/Rubrospinal System/Red Nucleus",
-    "3. Mesencephalon/Tegmentum/Cranial Nerves/Efferent Nuclei/Oculomotor/Oculomotor Nuclei"
+    "2. Diencephalon/Epithalamus/Habenula"
   ]
 }

@@ -1,7 +1,7 @@
 # Functional Systems
 ### [['Input Systems]] - Input
 
-### [[Limbic System]] - Value Processing
+### [['Limbic System]] - Value Processing
 
 ### [['Large-Scale Brain Networks]] - Cognition
 

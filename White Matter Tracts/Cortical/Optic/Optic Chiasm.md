@@ -1,4 +1,4 @@
 ### Afferents
 - [[CN II]]
 ### Efferents
-- [[Optic Tract]]
+- [[Optic Tract]] 

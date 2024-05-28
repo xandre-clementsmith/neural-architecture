@@ -7,7 +7,7 @@
 - [['Amygdala]]
 - [['Substantia Innominata]]
 - Frontal Cortex
-[['Striatum]]
+[[Stria Terminalis]]
 - [['Amygdala]]
 [[Fornix]]
 - [[Hippocampus Proper]]

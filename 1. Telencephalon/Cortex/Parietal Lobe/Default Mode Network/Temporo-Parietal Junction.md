@@ -1,2 +1,3 @@
 - Part of Ventral Attention Network and Dorsal Auditory Pathway
+- May be equivalent to temporal eye field, for smooth pursuit
 - Angular Gyrus

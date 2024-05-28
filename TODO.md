@@ -5,7 +5,7 @@ Order:
 4. Cerebellum {x}
 5. Midbrain {x}
 6. Diencephalon {x}
-8. Neurotransmission {} - https://pubmed.ncbi.nlm.nih.gov/14229500/
+8. Neurotransmission {x} - https://pubmed.ncbi.nlm.nih.gov/14229500/
 9. Cortex {}
 	- Occipital, Parietal, Temporal, and Insular Sensory and Associative Regions {}
 	- Olfactory and Default Regions {}

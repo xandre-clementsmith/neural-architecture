@@ -1,13 +1,17 @@
 - Nucleus of [[CN IV]]
+- Innervates Superior Oblique
 ### Afferents
-- [[Trigeminal Motor Nuclei]]
+- [[Oculomotor Nucleus]]
 - [[Abducens Nucleus]]
-- [[Corticobulbar Tracts]]
 - [[Vestibular Nuclei]]
-- [['Pretectum]]
-- [[Superior Colliculus]]
-- [[Inferior Colliculus]]
+- [[Mesencephalic Reticular Formation]]
+	- Midbrain Relay for Sudden Lights and Sounds: [[Superior Colliculus]], [[Inferior Colliculus]]
+	- Midbrain Relay for Corticofugal Tracts: [[Frontal Eye Field]], [[Parietal Eye Field]]
 ### Efferents
 - [[CN IV]]
+- [[Oculomotor Nucleus]]
+- [[Abducens Nucleus]]
 
-- Afferents have been approximated from: https://nba.uth.tmc.edu/neuroanatomy/L9/Lab09p28_index.html 
+![[Pasted image 20240526182257.png]]
+
+- https://nba.uth.tmc.edu/neuroanatomy/L9/Lab09p28_index.html 
