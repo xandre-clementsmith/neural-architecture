@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'(Pontine) Reticular Formation.md",
+                "file": "Theoretical & ML/Historical Failure to Align AI Models to the Public Good.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'(Pontine) Reticular Formation.md",
+                "file": "Theoretical & ML/Historical Failure to Align AI Models to the Public Good.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'(Pontine) Reticular Formation.md",
+                "file": "Theoretical & ML/Historical Failure to Align AI Models to the Public Good.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'(Pontine) Reticular Formation.md"
+                "file": "Theoretical & ML/Historical Failure to Align AI Models to the Public Good.md"
               }
             }
           }
@@ -162,8 +162,22 @@
   },
   "active": "5cdd289648fff799",
   "lastOpenFiles": [
-    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Pedunculopontine Nucleus.md",
+    "Theoretical & ML/Forecasting the Likelihood of Self-Directed Generalized Agents.md",
+    "Theoretical & ML/Historical Failure to Align AI Models to the Public Good.md",
+    "Pasted image 20240529075631.png",
+    "z_png/Pasted image 20240529074844.png",
+    "z_png/Pasted image 20240529074206.png",
+    "z_png/Pasted image 20240529074143.png",
+    "z_png/Pasted image 20240529073533.png",
+    "z_png/Pasted image 20240529073409.png",
+    "z_png/Pasted image 20240529073306.png",
+    "z_png/Pasted image 20240529073247.png",
+    "z_png/Pasted image 20240529073129.png",
+    "z_png/Pasted image 20240529073038.png",
+    "Theoretical & ML/Necessity of Set-Point Generalization.md",
+    "Theoretical & ML/Optimization, Autonomy, and Agency.md",
     "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'(Pontine) Reticular Formation.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Pedunculopontine Nucleus.md",
     "6. Spinal Cord/Efferent Pathways/Extrapyramidal Tracts/Reticulospinal Tracts.md",
     "3. Mesencephalon/Tegmentum/Raphe Nuclei/Rostral Ventromedial Medulla/Magnus Raphe Nuclei.md",
     "3. Mesencephalon/Tegmentum/Raphe Nuclei/Rostral Ventromedial Medulla/'Rostral Ventromedial Medulla.md",
@@ -172,13 +186,11 @@
     "3. Mesencephalon/Tegmentum/Raphe Nuclei/'Raphe Nuclei.md",
     "3. Mesencephalon/Tegmentum/Raphe Nuclei/Central Linear Raphe Nuclei.md",
     "4. Metencephalon/Pons/Pontine Tegmentum/Perihypoglossal Nuclei/Nucleus Prepositus.md",
-    "Pasted image 20240528205138.png",
     "Functional Systems/Input Systems/'Input Systems.md",
     "Functional Systems/Output Systems/'Output Systems.md",
     "3. Mesencephalon/Tegmentum/Mesencephalic Reticular Formation.md",
     "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Medullary Reticular Formation.md",
     "2. Diencephalon/Hypothalamus/'Hypothalamus.md",
-    "Pasted image 20240528195232.png",
     "White Matter Tracts/Brainstem/Dorsal Longitudinal Fasciculus.md",
     "Functional Systems/Output Systems/Hypothalamic Systems/Behavior Control Column.md",
     "Functional Systems/Input Systems/Cranial Nerves/Gustatory Sensory System.md",
@@ -186,20 +198,8 @@
     "'The Neural Architecture.md",
     "3. Mesencephalon/'Midbrain.md",
     "4. Metencephalon/Pons/'Pons.md",
-    "Functional Systems/Enteric Nervous System.md",
-    "Functional Systems/Large-Scale Brain Networks/'Large-Scale Brain Networks.md",
-    "Functional Systems/Intermediary Systems/Basal Ganglia System.md",
-    "Functional Systems/Intermediary Systems/Limbic System/'Limbic System.md",
     "Functional Systems/Intermediary Systems/Limbic System",
-    "z_png/Pasted image 20240528014126.png",
     "Functional Systems/Input Systems/Cranial Nerves",
-    "z_png/Pasted image 20240528014120.png",
-    "z_png/Pasted image 20240527182702.png",
-    "z_png/Pasted image 20240527181222.png",
-    "z_png/Pasted image 20240527180445.png",
-    "z_png/Pasted image 20240526182257.png",
-    "z_png/Pasted image 20240526182253.png",
-    "z_png/Pasted image 20240526182245.png",
     "Functional Systems/Output Systems/Cranial Nerves",
     "3. Mesencephalon/Tegmentum/Raphe Nuclei/Rostral Ventromedial Medulla",
     "Functional Systems/Intermediary Systems/Neurotransmission Systems",
