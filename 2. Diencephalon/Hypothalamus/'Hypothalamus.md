@@ -43,13 +43,14 @@ Misc
 - [['Amygdala]]
 [[Medial Forebrain Bundle]] - Mammillary-Tegmental Tract and Mammillary Peduncle
 - [[Mesencephalic Reticular Formation]] 
+- [['Spinal Cord]]
 
 [[Dorsal Longitudinal Fasciculus]], [[Periventricular Fiber System]] - Autonomic
 - [[Oculomotor Nucleus]], [[Trochlear Nucleus]], [[Abducens Nucleus]]
 - [[Trigeminal Motor Nuclei]], [[Facial Nucleus]]
 - [[Nucleus Ambiguus]], [[Dorsal Motor Nucleus of the Vagus Nerve]]
 - [[Periaqueductal Gray]]
-- [[Autonomic System]] - Parasympathetic, Sympathetic Pre-Ganglia Neurons
+- [['Spinal Cord]] - Parasympathetic, Sympathetic Pre-Ganglia Neurons
 
 Misc
 - H1 of [[Fields of Forel]]
@@ -57,6 +58,8 @@ Misc
 - [[Superior Colliculus]]
 - [[Substantia Nigra pars reticular]]
 - [['Cerebellum]]
+
+![[Pasted image 20240528195232.png]]
 
 ![[Pasted image 20240210175955.png]]
 # Anatomy - Macroscale Intrinsic Network Architecture

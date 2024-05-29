@@ -30,6 +30,7 @@ Internal Pain, Reflex Sensations via [[Trigeminal Sensory Nuclei]] and CN X
 	- Reflexive Processing
 - [[Cochlear Sensory System]] via CN VIII
 - [[Vestibular Sensory System]] via CN VIII
+
 # Extended Sensory Regions
 ### Sensory Cortices
 - [[Primary Visual Cortex (V1)]]

@@ -8,36 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "318db3f12ab4a9f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Functional Systems/Input Systems/'Input Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a4edaab349c73cb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functional Systems/Input Systems/'Input Systems.md",
+                "file": "6. Spinal Cord/Efferent Pathways/Extrapyramidal Tracts/Reticulospinal Tracts.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fdb1f2a3267e403e",
+            "id": "5cdd289648fff799",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functional Systems/Input Systems/Cranial Nerves/Gustatory Sensory System.md",
+                "file": "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'(Pontine) Reticular Formation.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tectospinal",
+                "query": "reticular form",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functional Systems/Input Systems/'Input Systems.md",
+                "file": "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'(Pontine) Reticular Formation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functional Systems/Input Systems/'Input Systems.md",
+                "file": "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'(Pontine) Reticular Formation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functional Systems/Input Systems/'Input Systems.md"
+                "file": "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'(Pontine) Reticular Formation.md"
               }
             }
           }
@@ -172,8 +160,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4edaab349c73cb0",
+  "active": "5cdd289648fff799",
   "lastOpenFiles": [
+    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Pedunculopontine Nucleus.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'(Pontine) Reticular Formation.md",
+    "6. Spinal Cord/Efferent Pathways/Extrapyramidal Tracts/Reticulospinal Tracts.md",
+    "3. Mesencephalon/Tegmentum/Raphe Nuclei/Rostral Ventromedial Medulla/Magnus Raphe Nuclei.md",
+    "3. Mesencephalon/Tegmentum/Raphe Nuclei/Rostral Ventromedial Medulla/'Rostral Ventromedial Medulla.md",
+    "3. Mesencephalon/Tegmentum/Raphe Nuclei/Rostral Ventromedial Medulla/Gigantocelullar Reticular Nucleus Pars alpha.md",
+    "3. Mesencephalon/Tegmentum/Raphe Nuclei/Dorsal Raphe Nuclei.md",
+    "3. Mesencephalon/Tegmentum/Raphe Nuclei/'Raphe Nuclei.md",
+    "3. Mesencephalon/Tegmentum/Raphe Nuclei/Central Linear Raphe Nuclei.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Perihypoglossal Nuclei/Nucleus Prepositus.md",
+    "Pasted image 20240528205138.png",
+    "Functional Systems/Input Systems/'Input Systems.md",
+    "Functional Systems/Output Systems/'Output Systems.md",
+    "3. Mesencephalon/Tegmentum/Mesencephalic Reticular Formation.md",
+    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Medullary Reticular Formation.md",
+    "2. Diencephalon/Hypothalamus/'Hypothalamus.md",
+    "Pasted image 20240528195232.png",
+    "White Matter Tracts/Brainstem/Dorsal Longitudinal Fasciculus.md",
+    "Functional Systems/Output Systems/Hypothalamic Systems/Behavior Control Column.md",
+    "Functional Systems/Input Systems/Cranial Nerves/Gustatory Sensory System.md",
+    "Functional Systems/Input Systems/Cranial Nerves/Retinal Sensory System.md",
     "'The Neural Architecture.md",
     "3. Mesencephalon/'Midbrain.md",
     "4. Metencephalon/Pons/'Pons.md",
@@ -181,28 +190,9 @@
     "Functional Systems/Large-Scale Brain Networks/'Large-Scale Brain Networks.md",
     "Functional Systems/Intermediary Systems/Basal Ganglia System.md",
     "Functional Systems/Intermediary Systems/Limbic System/'Limbic System.md",
-    "Functional Systems/Intermediary Systems/Neurotransmission Systems/Glutamate.md",
-    "Functional Systems/Intermediary Systems/Neurotransmission Systems/GABA.md",
     "Functional Systems/Intermediary Systems/Limbic System",
-    "5. Myelencephalon/Medulla Oblongata/'Medulla Oblongata.md",
-    "Functional Systems/Input Systems/Cranial Nerves/Retinal Sensory System.md",
-    "Functional Systems/Input Systems/Cranial Nerves/Olfactory Sensory System.md",
-    "Functional Systems/Input Systems/Cranial Nerves/Gustatory Sensory System.md",
-    "Functional Systems/Input Systems/Cranial Nerves/General Visceral Sensory System.md",
-    "Functional Systems/Input Systems/Cranial Nerves/Cochlear Sensory System.md",
-    "Functional Systems/Input Systems/'Input Systems.md",
-    "README.md",
-    "TODO.md",
     "z_png/Pasted image 20240528014126.png",
-    "Functional Systems/Input Systems/Somatosensory System.md",
-    "Functional Systems/Input Systems/Cranial Nerves/Vestibular Sensory System.md",
-    "6. Spinal Cord/Afferent Pathways/Anterolateral System/'Spinothalamic Tract.md",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Afferent/Vagus/CN X.md",
-    "5. Myelencephalon/Medulla Oblongata/Medullar Tegmentum/Cranial Nerves/Efferent/Vagus/'CN X.md",
-    "Functional Systems/Output Systems/Cranial Nerves/Ocular Motor System.md",
     "Functional Systems/Input Systems/Cranial Nerves",
-    "Functional Systems/Output Systems/'Output Systems.md",
-    "1. Telencephalon/Cortex/Parietal Lobe/Visual Dorsal Stream/Caudal Intra-Parietal Sulcus.md",
     "z_png/Pasted image 20240528014120.png",
     "z_png/Pasted image 20240527182702.png",
     "z_png/Pasted image 20240527181222.png",
@@ -210,9 +200,7 @@
     "z_png/Pasted image 20240526182257.png",
     "z_png/Pasted image 20240526182253.png",
     "z_png/Pasted image 20240526182245.png",
-    "z_png/Pasted image 20240526182240.png",
     "Functional Systems/Output Systems/Cranial Nerves",
-    "z_png/Pasted image 20240526003959.png",
     "3. Mesencephalon/Tegmentum/Raphe Nuclei/Rostral Ventromedial Medulla",
     "Functional Systems/Intermediary Systems/Neurotransmission Systems",
     "Functional Systems/Intermediary Systems",

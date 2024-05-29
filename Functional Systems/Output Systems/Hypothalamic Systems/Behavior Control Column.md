@@ -5,5 +5,5 @@
 - [[Periaqueductal Gray]]
 ### Reticular Activating System
 - Both ascending (ARAS) and descending via the [[Reticulospinal Tracts]]
-- Mesencephalic Locomotor Region potentially includes [[Pedunculopontine Nucleus]], [[Cuneiform Nucleus]], and [[Reticulospinal Tracts]] (Extrapyramidal Area)
+	- Mesencephalic Locomotor Region potentially includes [[Pedunculopontine Nucleus]], [[Cuneiform Nucleus]], and [[Reticulospinal Tracts]] (Extrapyramidal Area)
 - https://pubmed.ncbi.nlm.nih.gov/11119693/ 
