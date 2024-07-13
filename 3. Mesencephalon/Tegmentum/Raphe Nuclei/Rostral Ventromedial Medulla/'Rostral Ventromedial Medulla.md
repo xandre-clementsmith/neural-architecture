@@ -21,7 +21,7 @@
 - [['Lateral Zone]]
 - Parafascicular Nucleus
 - [[Periaqueductal Gray]]
-- [[Locus Coeruleus]]
+- [['Locus Coeruleus]]
 - [[Parabrachial Nucleus]]
 - A7, A5
 - [[Solitary Nucleus]]

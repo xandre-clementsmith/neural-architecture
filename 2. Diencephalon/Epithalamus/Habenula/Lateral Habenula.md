@@ -11,7 +11,7 @@
 - [[Ventral Tegmental Area]]
 - [[Substantia Nigra pars compacta]]
 - [[Laterodorsal Tegmental Nucleus]]
-- [[Mesopontine Rostromedial Tegmental Nucleus]] - Projects additionally to [[Pedunculopontine Nucleus]], and [[Locus Coeruleus]]
+- [[Mesopontine Rostromedial Tegmental Nucleus]] - Projects additionally to [[Pedunculopontine Nucleus]], and [['Locus Coeruleus]]
 
 https://pubmed.ncbi.nlm.nih.gov/18567972/
 

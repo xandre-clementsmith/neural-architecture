@@ -7,7 +7,7 @@
 - [['Dorsal Tegmental Nucleus]]
 - [['Raphe Nuclei]]
 - [[Periaqueductal Gray]]
-- [['Locus Coeruleus]]
+- [[4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Locus Coeruleus]]
 - Nucleus of Diagonal Band
 ### Efferents
 - [['Dorsal Tegmental Nucleus]]

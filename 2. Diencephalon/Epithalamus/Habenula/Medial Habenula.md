@@ -4,7 +4,7 @@
 	- Terminate as cholinergic or substance P neurons
 - [[Ventral Tegmental Area]]
 - [['Raphe Nuclei]] (Mesencephalic)
-- [[Locus Coeruleus]]
+- [['Locus Coeruleus]]
 - Superior Cervical Ganglia
 - Nucleus of Diagonal band
 ### Efferents

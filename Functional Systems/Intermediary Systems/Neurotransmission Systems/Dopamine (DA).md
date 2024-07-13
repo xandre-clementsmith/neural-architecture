@@ -1,5 +1,7 @@
 ### General Information
 - Catecholamine / Monoamine Neurotransmitter synthesized from Tyrosine
+- A8, A9, and A10 represent the most ancient component of the reticular formation
+- Dopamine appears universally involved in animal reward, with the exception of octopamine (closely related to [[Norepinephrine]]) for anthropods
 - G-protein coupled dopamine receptors: D1-like (D1, D5) activate adenylyl cyclase, produce protein kinase A (PKA), and active Na+ channels; D2-like (D2, D3, D4) inhibit adenylyl cyclase and activate K+ channels
 	- D1: memory, attention, impulse control, regulation of renal function, locomotion
 	- D2: locomotion, attention, sleep, memory, learning
@@ -66,3 +68,4 @@ https://www.sciencedirect.com/science/article/abs/pii/S0166223607000677
 https://www.hilarispublisher.com/open-access/dopamine-receptors-functions-synthesis-pathways-locations-andmental-disorders-review-of-literatures-2471-271X-1000120.pdf
 https://www.ncbi.nlm.nih.gov/books/NBK538242/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6342021/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2967375/

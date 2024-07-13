@@ -20,7 +20,7 @@ Brainstem
 - [['Raphe Nuclei]], Caudal
 - [[Periaqueductal Gray]]
 - [[Laterodorsal Tegmental Nucleus]]
-- [[Locus Coeruleus]]
+- [['Locus Coeruleus]]
 - Cranial Nerve Nuclei
 ### Efferents
 Cortical

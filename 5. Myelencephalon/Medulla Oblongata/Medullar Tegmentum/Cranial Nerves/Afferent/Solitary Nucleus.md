@@ -15,7 +15,7 @@
 - [[Paraventricular]] (Hypothalamus)
 - [[Central Nucleus]] (Amygdala)
 - [[Parabrachial Nucleus]] to [[Ventroposterior Nucleus]]
-- [['Locus Coeruleus]] (Noradrenaline)
+- [[4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Locus Coeruleus]] (Noradrenaline)
 - [[Dorsal Raphe Nuclei]] (Serotonin)
 
 

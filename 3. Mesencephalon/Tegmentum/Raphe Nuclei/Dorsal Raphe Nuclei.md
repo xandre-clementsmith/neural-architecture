@@ -87,7 +87,7 @@ Brainstem
 - [[Pedunculopontine Nucleus]]
 - [[Parabrachial Nucleus]]
 - [['Pontine Nuclei]] - Oralis, Caudalis
-- [['Locus Coeruleus]]
+- [[4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Locus Coeruleus]]
 - [[Laterodorsal Tegmental Nucleus]]
 - [['Raphe Nuclei]]
 	- [[Central Linear Raphe Nuclei]]

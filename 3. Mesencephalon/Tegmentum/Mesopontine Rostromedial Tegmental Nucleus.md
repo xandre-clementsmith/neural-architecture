@@ -8,7 +8,7 @@
 - [[Pedunculopontine Nucleus]]
 - [[Laterodorsal Tegmental Nucleus]]
 - [[Raphe Nuclei]]
-- [['Locus Coeruleus]]
+- [[4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Locus Coeruleus]]
 - Forebrain: See below - Minor
 
 

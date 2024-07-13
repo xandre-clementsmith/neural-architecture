@@ -14,6 +14,6 @@ Seconday
 ### [[Glutamate]] / [[GABA]]
 Standard excitatory and inhibitory neurotransmission
 ### [[Norepinephrine]] / Noradrenaline
-- [['Locus Coeruleus]]
+- [[4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Locus Coeruleus]]
 ### Serotonin
 - [['Raphe Nuclei|'Raphe Nuclei]]

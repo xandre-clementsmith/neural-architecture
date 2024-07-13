@@ -39,7 +39,7 @@
 - [[Superior Colliculus]]
 - [[Laterodorsal Tegmental Nucleus]]
 - [[Pedunculopontine Nucleus]]
-- [[Locus Coeruleus]]
+- [['Locus Coeruleus]]
 - [['Habenula]]
 - [[Mesopontine Rostromedial Tegmental Nucleus]]
 - [[Zona Incerta]]

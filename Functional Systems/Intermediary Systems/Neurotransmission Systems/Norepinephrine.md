@@ -1,5 +1,5 @@
 ### General Information
-- Most prominent noradrenaline projections from [[Locus Coeruleus]]
+- Most prominent noradrenaline projections from [['Locus Coeruleus]]
 - Alt Name: Noradrenaline
 ### Norepinephrine Neurons
 - [[Medullary Reticular Formation]] (A1)
@@ -7,7 +7,7 @@
 - A3 - Absent in Primates
 - Root of fourth ventricle (A4)
 - [[Superior Olive]] (A5)
-- [['Locus Coeruleus]] (A6)
+- [[4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Locus Coeruleus]] (A6)
 - [['(Pontine) Reticular Formation]] (A7)
 - Nucleus Subceruleus (A6sc)
 - [[Periaqueductal Gray]] (Acg)

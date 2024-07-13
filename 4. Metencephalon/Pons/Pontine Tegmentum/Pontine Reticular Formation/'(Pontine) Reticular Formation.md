@@ -13,7 +13,7 @@
 
 [['(Pontine) Reticular Formation]]
 - [[Pedunculopontine Nucleus]]
-- [[Locus Coeruleus]]
+- [['Locus Coeruleus]]
 
 - Oral Pontine Reticular Nucleus
 - Caudal Pontine Reticular Nucleus
@@ -39,7 +39,7 @@
 
 ![[Pasted image 20240329200024.png]]
 ![[Pasted image 20240329222730.png]]
-
+![[Pasted image 20240601111715.png]]
 
 https://meds371s.uchc.edu/Oliver%20reticular%20formation%20slides.pdf
 http://ahuman.org/svn/ahengine/research/articles/Biological/2011-Reticular-Formation-Shaaravy.pdf

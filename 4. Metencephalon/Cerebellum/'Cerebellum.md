@@ -4,7 +4,7 @@
 	- [['CN V]] Trigeminal via Trigeminothalamic Fibers - Facial
 	- [[Superior Colliculus]] via Tectocerebellar Tract
 	- [[Inferior Colliculus]] via Tectocerebellar Tract
-	- [[Locus Coeruleus]] - Noradrenaline
+	- [['Locus Coeruleus]] - Noradrenaline
 - [[Middle Cerebellar Peduncle]]
 	- [['Pontine Nuclei]]
 - [[Inferior Cerebellar Peduncle]] 

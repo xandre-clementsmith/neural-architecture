@@ -18,4 +18,6 @@ Order:
 	- Septal Area {}
 	- Deeper look at Habenula, Interpeduncular, PAG, Reticular Nucleus, etc. {}
 
+
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4425246/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7614541/

@@ -10,7 +10,7 @@
 - Occassional cells in preoptic, lateral septum, and anterior cingulate cortex
 ### Efferents
 - [['(Pontine) Reticular Formation]]
-- [[Locus Coeruleus]]
+- [['Locus Coeruleus]]
 - [['Raphe Nuclei]]
 - [['Hypothalamus]]: [[Medial Preoptic]], [[Anterior]], Dorsal, [['Periventricular Region]], [[Ventromedial]], Periarcuate, [['Lateral Zone]], Posterior
 - [[Zona Incerta]]

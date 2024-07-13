@@ -1,4 +1,5 @@
-- [['Locus Coeruleus]]
+- [[Norepinephrine]] center
+- Exerts powerful modulation of astrocytes, pericytes, and microglia
 ### Afferents
 - [[Medial Prefrontal Cortex]]
 - [['Insular Lobe]]
@@ -23,3 +24,5 @@
 ![[Pasted image 20240526003959.png]]
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8991985/
+https://www.nature.com/articles/nrn2573
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2687936/
