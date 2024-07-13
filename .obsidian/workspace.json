@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theoretical & ML/Foundational Measures for Characterizing Autonomy, Agency, and Intelligence/Definitions.md",
+                "file": "Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theoretical & ML/Foundational Measures for Characterizing Autonomy, Agency, and Intelligence/Definitions.md",
+                "file": "Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theoretical & ML/Foundational Measures for Characterizing Autonomy, Agency, and Intelligence/Definitions.md",
+                "file": "Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theoretical & ML/Foundational Measures for Characterizing Autonomy, Agency, and Intelligence/Definitions.md"
+                "file": "Tools.md"
               }
             }
           }
@@ -186,9 +186,12 @@
   },
   "active": "e29f8ea78ab97127",
   "lastOpenFiles": [
+    "'The Neural Architecture.md",
+    "TODO.md",
+    "README.md",
+    "Theoretical & ML/Foundational Measures for Characterizing Autonomy, Agency, and Intelligence/Definitions.md",
     "Theoretical & ML/Foundational Measures for Characterizing Autonomy, Agency, and Intelligence/Foundational Measures for Characterizing Autonomy, Agency, and Intelligence.md",
     "Theoretical & ML/Foundational Measures for Characterizing Autonomy, Agency, and Intelligence/Misc Notes.md",
-    "Theoretical & ML/Foundational Measures for Characterizing Autonomy, Agency, and Intelligence/Definitions.md",
     "Theoretical & ML/Foundational Measures for Characterizing Autonomy, Agency, and Intelligence",
     "Theoretical & ML/Necessity of Set-Point Generalization.md",
     "Theoretical & ML/Neuroanatomical Pathways for Value Abstraction.md",
@@ -199,9 +202,7 @@
     "Theoretical & ML/DRAFTING",
     "Functional Systems/Intermediary Systems/Neurotransmission Systems/Dopamine (DA).md",
     "Functional Systems/Intermediary Systems/Neurotransmission Systems/'Neurotransmission Systems.md",
-    "'The Neural Architecture.md",
     "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'(Pontine) Reticular Formation.md",
-    "TODO.md",
     "4. Metencephalon/Pons/'Pons.md",
     "z_png/Pasted image 20240601111715.png",
     "3. Mesencephalon/Tegmentum/Mesencephalic Reticular Formation.md",
@@ -223,7 +224,6 @@
     "z_png/Pasted image 20240529073129.png",
     "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Pedunculopontine Nucleus.md",
     "3. Mesencephalon/Tegmentum/Raphe Nuclei/Rostral Ventromedial Medulla/Magnus Raphe Nuclei.md",
-    "3. Mesencephalon/Tegmentum/Raphe Nuclei/Rostral Ventromedial Medulla/'Rostral Ventromedial Medulla.md",
     "Functional Systems/Intermediary Systems/Limbic System",
     "Functional Systems/Input Systems/Cranial Nerves",
     "Functional Systems/Output Systems/Cranial Nerves",
