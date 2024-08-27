@@ -10,14 +10,13 @@ Order:
 	- Occipital, Parietal, Temporal, and Insular Sensory and Associative Regions {}
 	- Olfactory and Default Regions {}
 	- Motor, Planning, and Limbic Cortex Regions {}
-1. Subcortical Nuclei {}
+10. Subcortical Nuclei {}
 	- Hippocampus {}
 	- Basal Ganglia {}
 	- Amygdala and BNST {}
 	- Basal Forebrain {}
 	- Septal Area {}
 	- Deeper look at Habenula, Interpeduncular, PAG, Reticular Nucleus, etc. {}
-
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4425246/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7614541/
