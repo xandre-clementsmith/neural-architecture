@@ -1,0 +1,2 @@
+- Component of [[Salience Network]]
+- Connects cognitive frontal cortex to emotional limbic system

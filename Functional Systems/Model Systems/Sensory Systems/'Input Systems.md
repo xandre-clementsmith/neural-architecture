@@ -37,7 +37,7 @@ Internal Pain, Reflex Sensations via [[Trigeminal Sensory Nuclei]] and CN X
 - [[Primary Auditory Cortex]]
 - [['Primary Somatosensory Cortex (S1)]]
 - [[Secondary-Somatosensory Cortex (S2)]]
-- [[Primary Gustatory Cortex]]
+- [['Primary Gustatory Cortex]]
 - [[Insular Viscero-Sensory Cortex]]
 - [[Insular Nociceptive-Thermoreceptive Cortex]]
 - [[Piriform Cortex]]

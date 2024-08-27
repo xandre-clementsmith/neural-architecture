@@ -3,9 +3,9 @@
 
 ### [['Limbic System]] - Value Processing
 
-### [['Large-Scale Brain Networks]] - Cognition
+### [['Large-Scale Cognitive Brain Networks]] - Cognition
 
-### [['Output Systems]] - Output
+### [['Motor Systems]] - Output
 
 ### [[Enteric Nervous System]] - Digestion
 

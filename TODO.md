@@ -20,3 +20,6 @@ Order:
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4425246/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7614541/
+
+
+- https://academic.oup.com/nc/article/2024/1/niae002/7603561 <- Read + Neuroscience of Consciousness
