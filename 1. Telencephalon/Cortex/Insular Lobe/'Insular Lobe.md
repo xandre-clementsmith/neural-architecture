@@ -1,5 +1,5 @@
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5538352/
-# Functional Systems
+# Function
 - Primary Gustatory Cortex: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2726647/ 
 - Viscero-Sensory, Nociceptive-Thermoreceptive Cortices
 	- Interoception: Perception of bodily states

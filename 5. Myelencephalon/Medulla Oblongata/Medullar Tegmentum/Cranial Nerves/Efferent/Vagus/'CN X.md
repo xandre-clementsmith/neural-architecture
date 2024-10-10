@@ -1,4 +1,4 @@
-- Vagus Nerve
+- Vagus Nerve [[CN X]]
 ### Afferents
 - [[Nucleus Ambiguus]] - Motor
 - [[Dorsal Motor Nucleus of the Vagus Nerve]] - Visceromotor
