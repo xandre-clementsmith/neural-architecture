@@ -8,45 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e96e9eace979237f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.7.7"
-            }
-          },
-          {
-            "id": "770caa2c5a454b7e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
-          },
-          {
-            "id": "70030d311106e39e",
+            "id": "5cddadadfb6d27a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functional Systems/Model Systems/Sensory Systems/Cranial Nerves/Vestibular Sensory System.md",
+                "file": "'The Neural Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vestibular Sensory System"
+              "title": "'The Neural Architecture"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 259.5
   },
   "right": {
     "id": "f292c2c8ffd1792c",
@@ -185,9 +160,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6b0df8f28bb6d31",
+  "active": "5cddadadfb6d27a3",
   "lastOpenFiles": [
+    "Functional Systems/Plant Systems/'Motor Systems.md",
+    "'The Neural Architecture.md",
+    "Functional Systems/Model Systems/Sensory Systems/'Sensory Systems.md",
     "Functional Systems/Model Systems/Sensory Systems/Cranial Nerves/Retinal Sensory System.md",
+    "Functional Systems/Peripheral Nervous System.md",
+    "Theoretical & ML/A Taxonomy of Basic Drives.md",
+    "Theoretical & ML/Misc Notes.md",
+    "Theoretical & ML/Forecasting the Likelihood of Self-Directed Generalized Agents.md",
+    "Theoretical & ML/Historical Failure to Align AI Models to the Public Good.md",
+    "Theoretical & ML/Neuroanatomical Pathways for Value Abstraction.md",
+    "Theoretical & ML/Necessity of Set-Point Generalization.md",
+    "Functional Systems/Large-Scale Brain Networks/'Large-Scale Cognitive Brain Networks.md",
+    "Functional Systems/Valuation Systems/Limbic System/'Limbic Systems.md",
+    "Agentic Systems.md",
+    "README.md",
+    "Tools.md",
+    "Theoretical & ML/Foundational Measures for Characterizing Autonomy, Agency, and Intelligence/Definitions.md",
+    "Functional Systems/Model Systems/Sensory Systems/Cranial Nerves/Vestibular Sensory System.md",
     "Functional Systems/Model Systems/Sensory Systems/Cranial Nerves/Olfactory Sensory System.md",
     "Functional Systems/Model Systems/Sensory Systems/Cranial Nerves/Gustatory Sensory System.md",
     "Functional Systems/Model Systems/Sensory Systems/Cranial Nerves/Cochlear Sensory System.md",
@@ -196,23 +188,6 @@
     "Functional Systems/Valuation Systems/Neurotransmission Systems/Serotonin (5-HT).md",
     "Functional Systems/Valuation Systems/Neurotransmission Systems/Norepinephrine.md",
     "Functional Systems/Valuation Systems/Neurotransmission Systems/Dopamine (DA).md",
-    "Functional Systems/Valuation Systems/Neurotransmission Systems/Acetylcholine.md",
-    "Functional Systems/Valuation Systems/Neurotransmission Systems/'Neurotransmission Systems.md",
-    "Functional Systems/Valuation Systems/Limbic System/'Limbic System.md",
-    "Functional Systems/Undetermined Systems/Basal Ganglia System.md",
-    "Functional Systems/Plant Systems/Cerebellar System.md",
-    "Functional Systems/Plant Systems/'Motor Systems.md",
-    "Functional Systems/Model Systems/Sensory Systems/'Input Systems.md",
-    "Functional Systems/Large-Scale Brain Networks/Salience Network.md",
-    "Functional Systems/Large-Scale Brain Networks/'Large-Scale Cognitive Brain Networks.md",
-    "Functional Systems/Control Systems/Hypothalamic Systems/Endocrine System.md",
-    "Functional Systems/Control Systems/Hypothalamic Systems/Behavior Control Column.md",
-    "Functional Systems/Control Systems/Hypothalamic Systems/Autonomic System.md",
-    "Theoretical & ML/Historical Failure to Align AI Models to the Public Good.md",
-    "Theoretical & ML/Forecasting the Likelihood of Self-Directed Generalized Agents.md",
-    "Theoretical & ML/A Taxonomy of Basic Drives.md",
-    "Theoretical & ML/Foundational Measures for Characterizing Autonomy, Agency, and Intelligence/Misc Notes.md",
-    "Theoretical & ML/Foundational Measures for Characterizing Autonomy, Agency, and Intelligence/Foundational Measures for Characterizing Autonomy, Agency, and Intelligence.md",
     "1. Telencephalon/Cortex/Insular Lobe/Operculum",
     "1. Telencephalon/Cortex/Insular Lobe/Insular Sensory Cortices",
     "1. Telencephalon/Cortex/Insular Lobe/Primary Gustatory Cortex",

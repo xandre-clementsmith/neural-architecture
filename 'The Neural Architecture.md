@@ -1,33 +1,33 @@
 # Functional Systems
-### [['Input Systems]] - Input
+### Sensation
+- [['Sensory Systems]] (Direct Sensation Pathways)
+	- General Somatic (Extrinsic Sensation)
+	- General Visceral (Intrinsic Sensation)
+	- Special Somatic (Olfactory, Gustatory)
+	- Special Visceral (Visual, Hearing, Vestibular)
+### Model
+- [['Sensory Systems]] (Extended Sensation Regions)
+### Evaluation
+- [['Limbic Systems]]
+### Controller
+- [['Large-Scale Cognitive Brain Networks]]
+- [['Motor Systems]]
+	- [[Autonomic System]]
+	- [[Endocrine System]]
+	- Somatic Systems
+		- Cranial
+		- Extra-pyramidal
+		- Pyramidal
+### Plant
+- [[Endocrine System]]
+- Efferent Cranial Nerves
+- Muscular System
+	- Cardiac
+	- Skeletal
+	- Smooth
+- [[Peripheral Nervous System]] (Excluding PNS Reflexes)
 
-### [['Limbic System]] - Value Processing
 
-### [['Large-Scale Cognitive Brain Networks]] - Cognition
-
-### [['Motor Systems]] - Output
-
-### [[Enteric Nervous System]] - Digestion
-
-# Additional Features
-### Cell Types
-- https://www.nature.com/articles/nrn.2017.85
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8195859/ 
-- Granular neurons running pattern separation and pattern convergence (https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006932)
-	- granular layer of the cerebellum, the dentate gyrus of the hippocampus, the superficial layer of the dorsal cochlear nucleus, the olfactory bulb, and the cerebral cortex
-
-
-### Cellular Organization
-
-
-### Objective Functions
-- Maintain Homeostasis
-- Reproduce
-
-
-### Learning Rules
-- Three-Factor Learning Rules?
-- Hebbian?
 
 
 
@@ -35,13 +35,5 @@
 ![[Pasted image 20240320225324.png]]
 http://larrywswanson.com/wp-content/uploads/2015/06/1993-TINS-poster-reflex.jpg 
 
-
-
-##### Assorted Notes
-
-Learn the following authors:
-- https://bams1.org/
-- https://www.nature.com/articles/s41593-019-0520-2 
-
-Deep Learning Framework: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7115933/
-Geometric Constraints: [https://www.nature.com/articles/s41586-023-06098-1](https://www.nature.com/articles/s41586-023-06098-1 
+Separate System
+ - [[Enteric Nervous System]]

@@ -1,12 +1,25 @@
-##### Command
-src: accuracy, goal-directed
-alt names: accuracy and precision
-- Command: 
-##### Communication
-src: 
-alt names: 
-- Communication: Replication of organization across dimensions through information
-	- Replication, not maintenance; information must be generated
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe0C9QiZJY1qrTl9KV1SpHf2GSrN6XSnUKTkNsQzlal5b6miJ3t3Q02RmfW8q7GOqPGQrd2bS1HR-uLlE5uKjiQ_F0AnKY7i7YA6eL5TEPBBaA_oY_UVnQDQrMWIHG4yg22nxj_Cw?key=bNPJu8lqD2w6BXz5ICm84Q)
+### Definitions
+- Action (*a* ϵ A): A signal that results in attempted optimization
+- Command and Control (C2)
+	- Command: In the context of C2, Command is an overarching action α
+	- Control: In the context of C2, Control refers to the nested controllers that carry out Command α
+- Communication: Exchange of information 
+- Controller: Maps states and/or rewards to actions
+	- Automatic Control: *s*-*a* mappings
+	- Goal-Directed Control: *r*-*a* and *r*/*s*-*a* mappings
+- Environment: Maps events to events, inclusive of actuation-based events
+- Evaluator: Maps states to reward
+- Event (*e* ϵ E): A moment of all phenomenon not defined as a state, reward, or action for a given system
+- Information: Representation of structure
+- Model: Maps states to states. Inclusive of information from model, sensation, evaluator, and controller
+- Plant: Maps actions to actuations bounded by events. Combination of process and actuation
+- Reward (*r* ϵ R): A value indicating the optimality of a state
+- Sensation: Measures events and maps them to states
+- State (*s* ϵ S): Information. Can be sensation-derived or intrinsic
+
+
+TBD BELOW
 ##### Complexity
 src:
 alt names:

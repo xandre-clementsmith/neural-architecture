@@ -31,3 +31,4 @@ Cranial Nerves
 
 - [[Autonomic System]]
 # Neuroendocrine System
+- [[Endocrine System]]

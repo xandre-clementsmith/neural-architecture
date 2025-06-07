@@ -19,6 +19,12 @@ Components
 - Planning space
 - Actuator enablement
 
+### Cell Types
+- https://www.nature.com/articles/nrn.2017.85
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8195859/ 
+- Granular neurons running pattern separation and pattern convergence (https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006932)
+	- granular layer of the cerebellum, the dentate gyrus of the hippocampus, the superficial layer of the dorsal cochlear nucleus, the olfactory bulb, and the cerebral cortex
+
 
 
 ##### Part 1
@@ -32,10 +38,10 @@ Components
 --- NOTES ---
 - Is a thermometer an optimizer?
 - How does an RL algorithm's mesa-objective compare to biological objectives? Consider reflexes. 
-##### Part 2
 
-##### Part 3
+Learn the following authors:
+- https://bams1.org/
+- https://www.nature.com/articles/s41593-019-0520-2 
 
-##### Part 4
-
-##### Part 5
+Deep Learning Framework: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7115933/
+Geometric Constraints: [https://www.nature.com/articles/s41586-023-06098-1](https://www.nature.com/articles/s41586-023-06098-1 
