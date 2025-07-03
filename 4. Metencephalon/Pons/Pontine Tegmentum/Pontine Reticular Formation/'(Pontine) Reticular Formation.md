@@ -8,12 +8,12 @@
 [[Mesencephalic Reticular Formation]]
 - [[Cuneiform Nucleus]]
 
-- [[Dorsal Raphe Nuclei]]
-- [[Central Linear Raphe Nuclei]]
+- [[B6 - Dorsal Raphe Nuclei]]
+- [[A10 - Central Linear Raphe Nuclei]]
 
 [['(Pontine) Reticular Formation]]
 - [[Pedunculopontine Nucleus]]
-- [['Locus Coeruleus]]
+- [['A6 - Locus Coeruleus]]
 
 - Oral Pontine Reticular Nucleus
 - Caudal Pontine Reticular Nucleus
@@ -25,16 +25,16 @@
 
 - [['Dorsal Tegmental Nucleus]]
 
-- [[Pontis Raphe Nuclei]]
-- [[Median Raphe Nuclei]]
+- [[B5 - Pontis Raphe Nuclei]]
+- [[B8 - Median Raphe Nuclei]]
 
 [[Medullary Reticular Formation]]
 - Medullary Reticular Nucleus
 - Lateral Reticular Nucleus
 
-- [[Magnus Raphe Nuclei]]
-- [[Pallidus Raphe Nuclei]]
-- [[Obscurus Raphe Nuclei]]
+- [[B3 - Magnus Raphe Nuclei]]
+- [[B1 - Pallidus Raphe Nuclei]]
+- [[B2 - Obscurus Raphe Nuclei]]
 
 
 ![[Pasted image 20240329200024.png]]

@@ -2,6 +2,7 @@
 - Components: Medial Mediodorsal Nucleus, Central Mediodorsal Nucleus, Lateral Mediodorsal Nucleus
 - Requires more connectivity fidelity 
 ### Afferents
+- [['Spinothalamic Tract]] to [[Anterior Cingulate Cortex]]
 - [['Cerebellum]], Deep Cerebellar Nuclei
 - [['Midbrain]]
 - [['Pons]]
@@ -11,6 +12,7 @@
 - Prefrontal Cortex
 - [[Piriform Cortex]]
 ### Efferents
+- [[Anterior Cingulate Cortex]] from [['Spinothalamic Tract]]
 - Temporal Pole
 - [['Entorhinal Cortex]]
 - [[Perirhinal Cortex]]

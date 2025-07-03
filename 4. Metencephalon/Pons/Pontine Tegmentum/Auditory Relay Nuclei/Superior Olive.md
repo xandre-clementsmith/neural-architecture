@@ -4,6 +4,7 @@
 - Medial Nucleus of the Trapezoid Body (MNTB)
 ### Afferents
 - [[Cochlear Nuclei]] via the [[Trapezoid Body]]
+- Lamina I neurons of the [['Spinothalamic Tract]]
 ### Efferents
 - [[Inferior Colliculus]] - MSO, LSO, MNTB
 - [[Lateral Lemniscus]] - LSO, MNTB to Dorsal and Ventral Nuclei

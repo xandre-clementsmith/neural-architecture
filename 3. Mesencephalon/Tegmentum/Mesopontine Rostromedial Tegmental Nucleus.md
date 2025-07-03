@@ -3,12 +3,12 @@
 - [[Substantia Nigra pars reticular]]
 - Forebrain: See below - Minor
 ### Efferents
-- [[Ventral Tegmental Area]]
-- [[Substantia Nigra pars compacta]]
+- [[A10 - Ventral Tegmental Area]]
+- [[A9 - Substantia Nigra pars compacta]]
 - [[Pedunculopontine Nucleus]]
 - [[Laterodorsal Tegmental Nucleus]]
 - [[Raphe Nuclei]]
-- [[4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Locus Coeruleus]]
+- [[A6 - Locus Coeruleus]]
 - Forebrain: See below - Minor
 
 

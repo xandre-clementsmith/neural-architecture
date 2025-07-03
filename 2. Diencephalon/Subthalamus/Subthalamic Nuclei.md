@@ -9,9 +9,9 @@
 - [[Anterior Cingulate Cortex]] - Limbic
 
 - [[Pedunculopontine Nucleus]] - Ach
-- [[Substantia Nigra pars compacta]] - DA
-- [[Ventral Tegmental Area]] - DA
-- [['Raphe Nuclei]] - 5-HT
+- [[A9 - Substantia Nigra pars compacta]] - DA
+- [[A10 - Ventral Tegmental Area]] - DA
+- Raphe Nuclei - 5-HT
 ### Efferents
 - [[Globus Pallidus External Segment]] - Motor
 - [[Globus Pallidus Internal Segment]] - Motor
@@ -22,8 +22,8 @@
 - [[Ventral Pallidum]]
 
 - [[Pedunculopontine Nucleus]] - ACh
-- [[Substantia Nigra pars compacta]] - DA
-- [[Ventral Tegmental Area]] - DA
+- [[A9 - Substantia Nigra pars compacta]] - DA
+- [[A10 - Ventral Tegmental Area]] - DA
 ### Organization
 - Posterior - Motor
 - Anterior - Limbic

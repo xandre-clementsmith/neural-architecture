@@ -10,9 +10,9 @@ Primary
 Secondary
 - [[Parabigeminal Nucleus]]
 - [['(Pontine) Reticular Formation]]
-- [[4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Locus Coeruleus]]
-- [[Substantia Nigra pars compacta]] or [[Substantia Nigra pars reticular]]
-- [['Raphe Nuclei]]
+- [[A6 - Locus Coeruleus]]
+- [[A9 - Substantia Nigra pars compacta]] or [[Substantia Nigra pars reticular]]
+- Raphe Nuclei
 - [[Periaqueductal Gray]]
 - [[Thalamic Reticular Nucleus
 ### Efferents
@@ -20,7 +20,7 @@ Secondary
 - [[Superior Colliculus]]
 - [['Pretectum]]
 - [[Mesencephalic Reticular Formation]]
-- [[4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Locus Coeruleus]]
+- [[A6 - Locus Coeruleus]]
 - [[Parabigeminal Nucleus]]
 
 ![[Pasted image 20240510211426.png]] 

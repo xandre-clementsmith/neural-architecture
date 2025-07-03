@@ -1,3 +1,0 @@
-- [['Raphe Nuclei]]
-### Efferents
-- [['Cerebellum]]

@@ -1,5 +1,5 @@
 - Salivation
 ### Afferents
-- [[Solitary Nucleus]] 
+- [['Nucleus of the Solitary Tract]] 
 ### Efferents
 - [['CN VII]]

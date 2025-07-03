@@ -2,9 +2,9 @@
 ### Afferents
 - [[Septal Nuclei]] (Triangular Septal Nucleus, Posterior Septum)
 	- Terminate as cholinergic or substance P neurons
-- [[Ventral Tegmental Area]]
-- [['Raphe Nuclei]] (Mesencephalic)
-- [['Locus Coeruleus]]
+- [[A10 - Ventral Tegmental Area]]
+- Raphe Nuclei (Mesencephalic)
+- [['A6 - Locus Coeruleus]]
 - Superior Cervical Ganglia
 - Nucleus of Diagonal band
 ### Efferents

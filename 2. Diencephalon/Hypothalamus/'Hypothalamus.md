@@ -14,8 +14,8 @@
 
 [[Dorsal Longitudinal Fasciculus]] - Autonomic Hypothalamus
 - Mesencephalic Tegmentum - Limbic Midbrain (Requires more fidelity)
-- [['Raphe Nuclei]] - Serotonergic
-- [[Solitary Nucleus]] - Visceral
+- R - Serotonergic
+- [['Nucleus of the Solitary Tract]] - Visceral
 - [[Medullary Reticular Formation]]
 [[Periventricular Fiber System]] - Periventricular Hypothalamus
 - [[Periaqueductal Gray]]

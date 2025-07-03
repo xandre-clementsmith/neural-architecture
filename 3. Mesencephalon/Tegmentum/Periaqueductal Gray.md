@@ -8,10 +8,11 @@
 - [[Zona Incerta]]
 - [['Hypothalamus]]: [[Dorsomedial]], [[Ventromedial]], [[Anterior]]
 - Occassional cells in preoptic, lateral septum, and anterior cingulate cortex
+- [['Lateral Spinothalamic Tract]] - Per A.D. Craig
 ### Efferents
 - [['(Pontine) Reticular Formation]]
-- [['Locus Coeruleus]]
-- [['Raphe Nuclei]]
+- [['A6 - Locus Coeruleus]]
+- Raphe Nuclei
 - [['Hypothalamus]]: [[Medial Preoptic]], [[Anterior]], Dorsal, [['Periventricular Region]], [[Ventromedial]], Periarcuate, [['Lateral Zone]], Posterior
 - [[Zona Incerta]]
 

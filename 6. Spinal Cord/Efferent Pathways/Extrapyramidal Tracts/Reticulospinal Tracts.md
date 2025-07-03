@@ -9,7 +9,7 @@ TODO: https://www.sciencedirect.com/science/article/abs/pii/S2468867319300288
 - Arise in the medial part of the gigantocellular reticular nucleus of the caudal rhombencephalon
 
 - Made of medial/pontine and lateral/medullary tracts
-- Includes Sympathetic Component of [[Autonomic System]]
+- Includes Sympathetic Component of [['Autonomic Nervous System]]
 	- We do not fully grasp the division between autonomic and somatic reticular systems (https://www.sciencedirect.com/science/article/abs/pii/S2468867319300288)
 - Does not appear to directly receive cerebellar inputs
 

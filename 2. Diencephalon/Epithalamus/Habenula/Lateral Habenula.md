@@ -7,11 +7,11 @@
 - [['Lateral Zone]] Preoptic - Primary
 - [[Globus Pallidus Internal Segment]] - Primary
 ### Efferents
-- [['Raphe Nuclei]] - Dorsal, Medial
-- [[Ventral Tegmental Area]]
-- [[Substantia Nigra pars compacta]]
+- [[B6 - Dorsal Raphe Nuclei]], [[B8 - Median Raphe Nuclei]]
+- [[A10 - Ventral Tegmental Area]]
+- [[A9 - Substantia Nigra pars compacta]]
 - [[Laterodorsal Tegmental Nucleus]]
-- [[Mesopontine Rostromedial Tegmental Nucleus]] - Projects additionally to [[Pedunculopontine Nucleus]], and [['Locus Coeruleus]]
+- [[Mesopontine Rostromedial Tegmental Nucleus]] - Projects additionally to [[Pedunculopontine Nucleus]], and [['A6 - Locus Coeruleus]]
 
 https://pubmed.ncbi.nlm.nih.gov/18567972/
 

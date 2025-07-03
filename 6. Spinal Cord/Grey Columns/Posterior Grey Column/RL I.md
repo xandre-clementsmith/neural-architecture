@@ -5,3 +5,7 @@
 	- Lateral Parabrachial Area (LPb): Projects to amygdala and hypothalamus for emotional response to pain
 	- Periaqueductal Grey Matter (PAG): Develops ways to deal with pain and main target for analgesics
 	- Thalamus: Sensory and motivational aspects of pain
+
+- NS: Nociceptive-Specific (Aδ) - Sharp pricking pain
+- HPC: Heat, Pinch, Cold / Polymodal Nociceptive Cells (C) - Slow burning pain
+- COOL: Cool-Sensitive Thermoreceptive Cells

@@ -1,7 +1,8 @@
-- Visceral relay from [[Solitary Nucleus]]
+- Visceral relay from [['Nucleus of the Solitary Tract]]
 - Surround [[Superior Cerebellar Peduncle]]
 ### Afferents
-- [[Solitary Nucleus]]
+- [['Nucleus of the Solitary Tract]]
+- [['Lateral Spinothalamic Tract]] - Per A.D. Craig
 ### Efferents
 - [[Ventroposterior Nucleus]] of [['Thalamus]]
 - [['Lateral Zone]] of [['Hypothalamus]]
@@ -10,9 +11,9 @@
 - [['Amygdala]]
 ### Organization
 Medial
-- Relays [[Solitary Nucleus]] taste information to ventral posteromedial nucleus of [['Thalamus]]
+- Relays [['Nucleus of the Solitary Tract]] taste information to [[Ventroposterior Nucleus]] nucleus of [['Thalamus]]
 Lateral
-	Relays caudal [[Solitary Nucleus]] to medial and lateral [['Hypothalamus]]
+	Relays caudal [['Nucleus of the Solitary Tract]] to medial and lateral [['Hypothalamus]]
 Subparabrachial
-- Receives inputs from caudal [[Solitary Nucleus]] and sends outputs to [['Medulla Oblongata]], [['Spinal Cord]], [['Amygdala]], and lateral [['Hypothalamus]]
+- Receives inputs from caudal [['Nucleus of the Solitary Tract]] and sends outputs to [['Medulla Oblongata]], [['Spinal Cord]], [['Amygdala]], and lateral [['Hypothalamus]]
 - Regulates breathing rate

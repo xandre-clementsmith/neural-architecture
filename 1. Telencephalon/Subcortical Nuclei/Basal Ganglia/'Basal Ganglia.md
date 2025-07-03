@@ -1,5 +1,5 @@
 - Major Outputs: [[Substantia Nigra pars reticular]] and [[Globus Pallidus Internal Segment]]
-- Includes [[Substantia Nigra pars compacta]], [[Substantia Nigra pars reticular]], and [[Ventral Tegmental Area]]
+- Includes [[A9 - Substantia Nigra pars compacta]], [[Substantia Nigra pars reticular]], and [[A10 - Ventral Tegmental Area]]
 
 ![[Pasted image 20240321012657.png]]
 ![[Pasted image 20240321012736.png]]

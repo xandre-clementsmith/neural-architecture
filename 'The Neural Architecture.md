@@ -1,33 +1,31 @@
 # Functional Systems
 ### Sensation
-- [['Sensory Systems]] (Direct Sensation Pathways)
-	- General Somatic (Extrinsic Sensation)
-	- General Visceral (Intrinsic Sensation)
-	- Special Somatic (Olfactory, Gustatory)
-	- Special Visceral (Visual, Hearing, Vestibular)
+- [['Sensation Systems]] (Direct Sensation Pathways)
+	- General Exteroception (Extrinsic Sensation)
+	- General Interoception (Intrinsic Sensation)
+	- Special Exteroception (Olfactory, Gustatory)
+	- Special Interoception (Visual, Hearing, Vestibular)
 ### Model
-- [['Sensory Systems]] (Extended Sensation Regions)
-### Evaluation
-- [['Limbic Systems]]
+- [['Sensation Model Systems]]
+### Evaluator
+- [['Limbic System]]
 ### Controller
-- [['Large-Scale Cognitive Brain Networks]]
 - [['Motor Systems]]
-	- [[Autonomic System]]
+	- [['Autonomic Nervous System]] (Motor)
 	- [[Endocrine System]]
 	- Somatic Systems
 		- Cranial
 		- Extra-pyramidal
 		- Pyramidal
 ### Plant
-- [[Endocrine System]]
 - Efferent Cranial Nerves
+- Efferent [[Peripheral Nervous System]]
+
+- [[Endocrine System]]
 - Muscular System
 	- Cardiac
 	- Skeletal
 	- Smooth
-- [[Peripheral Nervous System]] (Excluding PNS Reflexes)
-
-
 
 
 

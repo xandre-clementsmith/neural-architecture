@@ -1,4 +1,4 @@
-Alt Name: Anterior Nuclear Group
+ Alt Name: Anterior Nuclear Group
 - Extended hippocampal formation feedback loop with mammillary inputs and cortical outputs (cingulate, motor, visual)
 - Major component of Papez' circuit
 ### Afferents

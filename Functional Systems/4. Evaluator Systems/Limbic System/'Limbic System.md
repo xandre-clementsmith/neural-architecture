@@ -1,0 +1,1 @@
+- Characterized by significant connectivity, non-specific function, and non-uniform structure (unlike neocortex)

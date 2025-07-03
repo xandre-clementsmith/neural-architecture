@@ -10,6 +10,6 @@
 ### Efferents
 - [[Reticulospinal Tracts]] of the [['(Pontine) Reticular Formation]] (Gigantocellular) - Primary Efferent
 - [[Dorsal Motor Nucleus of the Vagus Nerve]]
-- [[Solitary Nucleus]]
+- [['Nucleus of the Solitary Tract]]
 - [[Parabrachial Nucleus]]
 - Limbic Forebrain

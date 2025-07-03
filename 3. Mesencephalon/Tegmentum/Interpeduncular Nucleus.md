@@ -3,16 +3,16 @@
 - Broad brain-wide inhibitory affects
 ### Afferents
 - [[Medial Habenula]] - Primary Input
-- [[Dorsal Raphe Nuclei]]
+- [[B6 - Dorsal Raphe Nuclei]]
 - [['Dorsal Tegmental Nucleus]]
-- [['Raphe Nuclei]]
+- Raphe Nuclei
 - [[Periaqueductal Gray]]
-- [[4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Locus Coeruleus]]
+- [[A6 - Locus Coeruleus]]
 - Nucleus of Diagonal Band
 ### Efferents
 - [['Dorsal Tegmental Nucleus]]
 - [[Periaqueductal Gray]]
-- [['Raphe Nuclei]]
+- Raphe Nuclei
 ### Organization 
 - Apical Sub-Nucleus (IPA)
 - Central Sub-Nucleus (IPC)

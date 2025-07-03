@@ -10,7 +10,7 @@
 	- Ascending ventral innervates parts of midbrain basal ganglia and continues to hypothalamic region in the basal forebrain
 - Ascending projections may promote goal-directed locomotion by increasing dopamine neuron activity
 ### Glutamatergic and GABAergic Neurons
-- GABAergic neurons are densely concentrated in the rostral PPN, forming a contiuum with GABAergic neurons of the [[Substantia Nigra pars reticular]] (SNr) and the rostromedial tegmental nucleus (tail of [[Ventral Tegmental Area]])
+- GABAergic neurons are densely concentrated in the rostral PPN, forming a contiuum with GABAergic neurons of the [[Substantia Nigra pars reticular]] (SNr) and the rostromedial tegmental nucleus (tail of [[A10 - Ventral Tegmental Area]])
 - Glutamatergic neurons are more caudal and extend dorsally into the [[Cuneiform Nucleus]]
 ### Motor System
 - Potentially part of the Mesencephalic Locomotor Region (MLR), but spinally projecting non-cholinergic neurons surrounding PPN may be mostly responsible for inducing locomotion
@@ -33,21 +33,21 @@
 - [[Subthalamic Nuclei]]
 - Entopeduncular Nucleus
 - [[Globus Pallidus Internal Segment]]
-- [[Substantia Nigra pars reticular]] or [[Substantia Nigra pars compacta]]
-- [[Ventral Tegmental Area]]
+- [[Substantia Nigra pars reticular]] or [[A9 - Substantia Nigra pars compacta]]
+- [[A10 - Ventral Tegmental Area]]
 - [['Striatum]]
 - [[Superior Colliculus]]
 - [[Laterodorsal Tegmental Nucleus]]
 - [[Pedunculopontine Nucleus]]
-- [['Locus Coeruleus]]
+- [['A6 - Locus Coeruleus]]
 - [['Habenula]]
 - [[Mesopontine Rostromedial Tegmental Nucleus]]
 - [[Zona Incerta]]
-- [[Dorsal Raphe Nuclei]]
+- [[B6 - Dorsal Raphe Nuclei]]
 ### Efferents
 - Ascending Ventral Pathway
-	- [[Substantia Nigra pars compacta]]
-	- [[Ventral Tegmental Area]]
+	- [[A9 - Substantia Nigra pars compacta]]
+	- [[A10 - Ventral Tegmental Area]]
 	- [[Substantia Nigra pars reticular]]
 	- [[Subthalamic Nuclei]]
 	- Lateral [['Hypothalamus]]

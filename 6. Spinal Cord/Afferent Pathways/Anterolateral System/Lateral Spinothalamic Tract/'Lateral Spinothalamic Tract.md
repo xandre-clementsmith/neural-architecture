@@ -1,1 +1,0 @@
-- Information: Pain, Temperature, C-Tactile Afferents

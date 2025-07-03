@@ -7,14 +7,14 @@
 - [[Mammillary Bodies]], Lateral
 - [[Lateral Habenula]]
 - [[Interpeduncular Nucleus]]
-- [[Ventral Tegmental Area]]
-- [[Substantia Nigra pars compacta]]
+- [[A10 - Ventral Tegmental Area]]
+- [[A9 - Substantia Nigra pars compacta]]
 - Retrorubral Fiels
 - Medial Terminal Nucleus
 - Interstitial Nucleus
 - Supraoculoparatrochlear Region
 - [[Parabrachial Nucleus]]
-- [[Solitary Nucleus]]
+- [['Nucleus of the Solitary Tract]]
 ### Efferents
 - [[Medial Prefrontal Cortex]], Infralimbic
 - [[Anterior Cingulate Cortex]]
@@ -36,8 +36,8 @@
 - [[Abducens Nucleus]]
 - [[Hypoglossal Nucleus]]
 - [[Interpeduncular Nucleus]]
-- [[Dorsal Raphe Nuclei]]
-- [[Median Raphe Nuclei]]
+- [[B6 - Dorsal Raphe Nuclei]]
+- [[B8 - Median Raphe Nuclei]]
 - [[Pedunculopontine Nucleus]]
 - [[Parabrachial Nucleus]]
-- [[Solitary Nucleus]]
+- [['Nucleus of the Solitary Tract]]
