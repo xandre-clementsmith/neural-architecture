@@ -1,16 +1,16 @@
 # Functional Systems
 ### Sensation
-- [['Sensation Systems]] (Direct Sensation Pathways)
+- [['Sensation]] (Direct Sensation Pathways)
 	- General Exteroception (Extrinsic Sensation)
 	- General Interoception (Intrinsic Sensation)
 	- Special Exteroception (Olfactory, Gustatory)
 	- Special Interoception (Visual, Hearing, Vestibular)
 ### Model
-- [['Sensation Model Systems]]
+- [['Sensory Models]]
 ### Evaluator
 - [['Limbic System]]
 ### Controller
-- [['Motor Systems]]
+- [['Plant]]
 	- [['Autonomic Nervous System]] (Motor)
 	- [[Endocrine System]]
 	- Somatic Systems

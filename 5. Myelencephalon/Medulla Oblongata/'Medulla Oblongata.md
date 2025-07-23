@@ -6,6 +6,9 @@
 - Neurotransmission: Raphe Nuclei, Nucleus Paragigantocellularis (Input to Locus Coeruleus)
 - Relays and Relay Nuclei: Accessory Cuneate Nucleus, Nucleus Z, Pyramids
 
+Pyramids
+- Contain [['Corticospinal Tract]] and [[Corticobulbar Tracts]]
+
 https://www.pnas.org/doi/abs/10.1073/pnas.2313997120
 
 ![[Pasted image 20240227194823.png]]

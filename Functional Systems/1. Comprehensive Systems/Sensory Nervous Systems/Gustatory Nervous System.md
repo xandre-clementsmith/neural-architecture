@@ -4,14 +4,16 @@
 
 ![[Pasted image 20250628135206.png]]
 ### Sensation
-- [[Gustatory Sensation System]]
+- [[Gustatory Sensation]]
+- 
 ### Model
-- [[Gustatory Model System]]
+- [[Gustatory Model]]
+- [[General Exteroceptive Model]] (Mouth)
 ### Evaluator
-- [[Gustatory Evaluator System]]
+- [[Gustatory Evaluator]]
 ### Controller
-- [[Tongue Controller System]]
-- [[Mouth Controller System]]
+- [[Tongue Controller]]
+- [[Mouth Controller]]
 ### Plant
 - TBD
 

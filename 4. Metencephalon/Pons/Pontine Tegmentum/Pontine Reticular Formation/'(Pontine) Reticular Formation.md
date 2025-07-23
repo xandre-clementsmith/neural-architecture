@@ -30,7 +30,7 @@
 
 [[Medullary Reticular Formation]]
 - Medullary Reticular Nucleus
-- Lateral Reticular Nucleus
+- [[Lateral Reticular Nucleus]]
 
 - [[B3 - Magnus Raphe Nuclei]]
 - [[B1 - Pallidus Raphe Nuclei]]

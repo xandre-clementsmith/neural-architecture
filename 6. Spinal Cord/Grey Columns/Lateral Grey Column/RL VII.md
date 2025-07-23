@@ -1,2 +1,4 @@
 - Sympathetic Nervous System, receiving inputs from brain stem, organs, and hypothalamus
 - Only present in thoracic and upper lumbar
+- Includes posterior thoracic nucleus (Clarke's Column)
+- Includes central cervical nucleus https://www.sciencedirect.com/science/article/abs/pii/B9780123742452000061 and lateral cervical nucleus https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.25079

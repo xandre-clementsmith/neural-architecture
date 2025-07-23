@@ -1,19 +1,21 @@
+- Integration site of homeostatic information - multimodal integration role unknown
 - Visceral relay from [['Nucleus of the Solitary Tract]]
-- Surround [[Superior Cerebellar Peduncle]]
+- Surrounds [[Superior Cerebellar Peduncle]]
+- Extends to [[Periaqueductal Gray]]
+- Taste, cardiovascular function, respiration, osmoregulation, thermoregulation, immune activation (inflammation), glucose balance, salt balance, salivation, gastrointestinal activity
+- [['Spinothalamic Tract]] is contralateral whereas [[Trigeminal Sensory Nuclei]] is ipsilateral (though becomes contralateral for Thalamus)
 ### Afferents
 - [['Nucleus of the Solitary Tract]]
 - [['Lateral Spinothalamic Tract]] - Per A.D. Craig
 ### Efferents
-- [[Ventroposterior Nucleus]] of [['Thalamus]]
-- [['Lateral Zone]] of [['Hypothalamus]]
+Medial PB
+- [[Ventroposterior Nucleus]], [[Mediodorsal Nucleus]] of [['Thalamus]]
+Lateral PB
+- [['Lateral Zone]], [['Medial Zone]], [[Dorsomedial]], [[Anterior]] of [['Hypothalamus]] <- Caudal [['Nucleus of the Solitary Tract]]
+Subparabrachial <- Caudal [['Nucleus of the Solitary Tract]], regulates breathing
 - [['Medulla Oblongata]]
 - [['Spinal Cord]]
-- [['Amygdala]]
-### Organization
-Medial
-- Relays [['Nucleus of the Solitary Tract]] taste information to [[Ventroposterior Nucleus]] nucleus of [['Thalamus]]
-Lateral
-	Relays caudal [['Nucleus of the Solitary Tract]] to medial and lateral [['Hypothalamus]]
-Subparabrachial
-- Receives inputs from caudal [['Nucleus of the Solitary Tract]] and sends outputs to [['Medulla Oblongata]], [['Spinal Cord]], [['Amygdala]], and lateral [['Hypothalamus]]
-- Regulates breathing rate
+- [['Amygdala]] + Extended Amygdala
+- [['Lateral Zone]]
+
+ **Efferents need validation**

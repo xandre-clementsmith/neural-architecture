@@ -1,3 +1,4 @@
+- [[Corticospinal Controller]]
 Afferents: https://www.sciencedirect.com/science/article/pii/S0168010222001894
 Efferents: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8639707/
 Somatosensory: https://www.nature.com/articles/s41593-019-0536-7

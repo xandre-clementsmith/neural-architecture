@@ -1,13 +1,12 @@
 ### Overview
 
 ### Sensation
-- [[Cochlear Sensation System]]
+- [[Cochlear Sensation]]
 ### Model
-- [[Auditory Model System]]
+- [[Auditory Model]]
 ### Evaluator
-- Any auditory-specific evaluators? Reflexes may use them depending
+- ?
 ### Controller
-- [[Cochlear Controller System]]
-- [[Auditory Reflex System]]
+- [[Cochlear Controller]] (Minor?)
 ### Plant
-- [[Oculomotor System]]
+- [[Cochlear Plant]] (Minor?)

@@ -95,7 +95,7 @@ Brainstem
 	- [[B3 - Magnus Raphe Nuclei]]
 	- [[B2 - Obscurus Raphe Nuclei]]
 - [[Medullary Reticular Formation]]
-- [[Facial Nucleus]]
+- [[Facial Motor Nucleus]]
 - Rostral Ventrolateral Medullary Area
 - Nucleus Gigantocellularis-Pars Alpha
 

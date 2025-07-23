@@ -3,18 +3,19 @@
 - MDvc = [[Mediodorsal Nucleus]]
 - VMpo + VMb = [[Ventroanterior Nucleus]] 
 - Sympathetic-related sensory-component of ANS
+- Doesn't appear to project directly to hypothalamus
 ### Efferents (Lamina I)
 Bilateral Predominance
 - IML (Intermediolateral nucleus)
 - [['Nucleus of the Solitary Tract]] <- Largely opposing parasympathetic inputs
-- [[Medullary Reticular Formation]]
+- [[Medullary Reticular Formation]] <- Ventrolateral Medulla? Or separate region?
 - [[A1]] <- Hypothalamic projection
 - [[A2]]
 Contralateral Predominance
-- [[A5]]
+- [[A5]] 
 - [['A6 - Locus Coeruleus]] (A6)
 - [[A7]]
-- [[Parabrachial Nucleus]]
+- [[Parabrachial Nucleus]] <- Most dense Lamina I projections
 - [[Periaqueductal Gray]]
 - [[Ventroposterior Nucleus]]
 	- [['Insular Lobe]] (Interoceptive Cortex)

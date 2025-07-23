@@ -1,1 +1,1 @@
-- [[Periaqueductal Gray]]
+- Ventrolateral [[Periaqueductal Gray]]

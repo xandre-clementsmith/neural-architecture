@@ -2,6 +2,8 @@
 - Exerts powerful modulation of astrocytes, pericytes, and microglia
 - [[A6 - Locus Coeruleus]]
 - Extensive descending projections to spinal cord
+- Tonic: Disengagement, Exploring
+- Phasic: Alerting, P300 in [[Anterior Cingulate Cortex]]
 ### Afferents
 - [[Medial Prefrontal Cortex]]
 - [['Insular Lobe]]

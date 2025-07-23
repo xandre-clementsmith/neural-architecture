@@ -1,6 +1,4 @@
 # Overview
-
-![[Pasted image 20250628130554.png]]
 # Sensation
 - [[CN X]]
 Below are unconfirmed from NTS
@@ -16,16 +14,18 @@ Below are unconfirmed from NTS
 
 - [[Nucleus Paragigantocellularis]]
 
-- [['Lateral Spinothalamic Tract]] - Per A.D. Craig
+- [['Lateral Spinothalamic Tract]] as opposing sympathetic inputs
 # Model
-- [['Nucleus of the Solitary Tract]]
-- [[Parabrachial Nucleus]]
+1. [['Nucleus of the Solitary Tract]]
+2. [[Parabrachial Nucleus]] - Integrates [[Sympathetic Nervous System]] from [[RL I]]
 # Evaluator
+- Either [[Parabrachial Nucleus]] or [[Periaqueductal Gray]] <- Conflicting information on localizing pleasure and pain across these two regions
 - [['Limbic System]] - [['Amygdala]], [[Hippocampus Proper]], [[Septal Nuclei]], [['Cingulate Cortex]], [[Orbitofrontal Cortex]], [['Insular Lobe]], [[Perirhinal Cortex]]/[['Entorhinal Cortex]]
 - May include components of hypothalamus as well?
 # Controller
-1. [[Paraventricular]]
-	- Receives inputs from [[Anterior]], [['Lateral Zone]], [[Mammillary Bodies]], Posterior [['Hypothalamus]]
+1. Control Hubs
+- ? [[Paraventricular]] <- Receives inputs from [[Anterior]], [['Lateral Zone]], [[Mammillary Bodies]], Posterior [['Hypothalamus]]
+- [[Periaqueductal Gray]] <- Parasympathetic response to inescapable pain/stress
 2. Cranial Nerve Nuclei
 	- [[Dorsal Motor Nucleus of the Vagus Nerve]] (CN X)
 	- [[Accessory Oculomotor Nucleus]] (CN III)
@@ -43,5 +43,6 @@ Sources:
 - https://www.physio-pedia.com/Parasympathetic_System
 - https://nba.uth.tmc.edu/neuroscience/m/s4/chapter03.html
 
+![[Pasted image 20250628130554.png]]
 ![[Pasted image 20240211094256.png]]
 ![[Pasted image 20240211095057.png]]

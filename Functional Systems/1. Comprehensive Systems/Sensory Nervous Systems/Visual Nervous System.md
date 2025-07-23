@@ -1,13 +1,12 @@
 ### Overview
 
 ### Sensation
-- [[Retinal Sensation System]]
+- [[Retinal Sensation]]
 ### Model
-- [[Visual Model System]]
+- [[Visual Model]]
 ### Evaluator
-- Any visual-specific evaluators? Reflexes may use them depending
+- ?
 ### Controller
-- [[Oculomotor Controller System]]
-- [[Visual Reflex System]]
+- [[Oculomotor Controller]]
 ### Plant
-- [[Oculomotor System]]
+- [[Oculomotor Plant]]

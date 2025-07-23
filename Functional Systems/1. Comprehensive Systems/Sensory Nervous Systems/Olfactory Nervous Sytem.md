@@ -1,12 +1,12 @@
 ### Overview
 ### Sensation
-- [[Olfactory Sensation System]]
+- [[Olfactory Sensation]]
 ### Model
-- [[Olfactory Model System]]
+- [[Olfactory Model]]
 ### Evaluator
-- [[Olfactory Evaluator System]]
+- [[Olfactory Evaluator]]
 ### Controller
-- [[Nasal Controller System]]
+- [[Nasal Controller]]
 ### Plant
 - TBD
 

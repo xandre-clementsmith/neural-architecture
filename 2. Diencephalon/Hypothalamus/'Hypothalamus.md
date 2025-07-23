@@ -47,7 +47,7 @@ Misc
 
 [[Dorsal Longitudinal Fasciculus]], [[Periventricular Fiber System]] - Autonomic
 - [[Oculomotor Nucleus]], [[Trochlear Nucleus]], [[Abducens Nucleus]]
-- [[Trigeminal Motor Nuclei]], [[Facial Nucleus]]
+- [[Trigeminal Motor Nuclei]], [[Facial Motor Nucleus]]
 - [[Nucleus Ambiguus]], [[Dorsal Motor Nucleus of the Vagus Nerve]]
 - [[Periaqueductal Gray]]
 - [['Spinal Cord]] - Parasympathetic, Sympathetic Pre-Ganglia Neurons

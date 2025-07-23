@@ -10,7 +10,7 @@
 - [[Superior Colliculus]]
 - [[Parabrachial Nucleus]]
 - [[Trigeminal Sensory Nuclei]]
-- [[Cuneate Nucleus]]
+- [['Cuneate Nucleus]]
 ### Efferents
 - [[Superior Colliculus]] - Pars Ventralis
 - Pontomesencephalic Tegmentum - Pars Dorsalis
