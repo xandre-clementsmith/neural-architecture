@@ -9,8 +9,8 @@ Cortical
 
 Subcortical
 - [[Bed Nucleus of the Stria Terminalis]]
-- [[Medial Preoptic]], Lateral Preoptic
-- [[Septal Nuclei]], Lateral
+- [[Medial Preoptic Hypothalamus]], Lateral Preoptic
+- [['Septal Nuclei]], Lateral
 - [[Ventral Pallidum]]
 - [['Substantia Innominata]]
 - [[Claustrum]]
@@ -20,7 +20,7 @@ Diencephalon
 - [['Hypothalamus]]
 	- [['Lateral Zone]] - Major Source
 	- Tuerbomammillary Nucleus
-	- [[Dorsomedial]]
+	- [[Dorsomedial Hypothalamus]]
 - [['Habenula]]
 
 Brainstem
@@ -43,7 +43,7 @@ Cortical
 - Lateral Agranular Frontal Cortex
 - [[Orbitofrontal Cortex]], Medial
 - [[Medial Prefrontal Cortex]] (Medial Agranular, Prelimbic, Infralimbic)
-- [['Cingulate Cortex]]
+- [[Cingulate Cortex]]
 - [[Hippocampus Proper]]
 
 Subcortical
@@ -51,12 +51,12 @@ Subcortical
 - [[A10 - Ventral Tegmental Area]]
 - [[A9 - Substantia Nigra pars compacta]]
 - [['Hypothalamus]]
-	- Supra[[Mammillary Bodies]]
+	- Supra[['Mammillary Bodies]]
 	- [['Lateral Zone]]
 - [['Thalamus]]
-	- [['Anterodorsal Region]] - Limbic, Hippocampal
-	- [[Mediodorsal Nucleus]] - Limbic
-	- [['Midline Nuclei]] - Limbic, Hippocampal
+	- [['Anterodorsal Thalamus]] - Limbic, Hippocampal
+	- [[Mediodorsal Thalamus]] - Limbic
+	- [['Midline Nuclei, Thalamus]] - Limbic, Hippocampal
 	- [['Intralaminar Formation]] - Limbic, Motor
 	- [[Lateral Geniculate Nucleus]] - Visual
 - [['Amygdala]]
@@ -69,7 +69,7 @@ Subcortical
 - [[Caudate Nucleus]]
 - [[Putamen]]
 - [[Stria Terminalis]]
-- [[Septal Nuclei]]
+- [['Septal Nuclei]]
 - Lateral and Magnocellular Preoptic
 - [['Substantia Innominata]]
 - [[Ventral Pallidum]]

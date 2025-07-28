@@ -9,9 +9,9 @@
 - [['Lateral Spinothalamic Tract]] - Per A.D. Craig
 ### Efferents
 Medial PB
-- [[Ventroposterior Nucleus]], [[Mediodorsal Nucleus]] of [['Thalamus]]
+- [[Ventroposterior Thalamus]], [[Mediodorsal Thalamus]] of [['Thalamus]]
 Lateral PB
-- [['Lateral Zone]], [['Medial Zone]], [[Dorsomedial]], [[Anterior]] of [['Hypothalamus]] <- Caudal [['Nucleus of the Solitary Tract]]
+- [['Lateral Zone]], [['Medial Zone]], [[Dorsomedial Hypothalamus]], [[Anterior Hypothalamus]] of [['Hypothalamus]] <- Caudal [['Nucleus of the Solitary Tract]]
 Subparabrachial <- Caudal [['Nucleus of the Solitary Tract]], regulates breathing
 - [['Medulla Oblongata]]
 - [['Spinal Cord]]

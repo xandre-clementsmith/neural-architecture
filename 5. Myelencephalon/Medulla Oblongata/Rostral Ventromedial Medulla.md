@@ -4,7 +4,7 @@
 - [[Medial Prefrontal Cortex]] - Prelimbic, Infralimbic, and Medial/Lateral Precentral
 - [['Insular Lobe]]
 - [[Perirhinal Cortex]]
-- [[Medial Preoptic]]
+- [[Medial Preoptic Hypothalamus]]
 - [[Lateral Habenula]]
 - [[Zona Incerta]]
 - Parafascicular Area

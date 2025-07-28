@@ -12,7 +12,7 @@
 - [['Thalamus]]
 - [[Inferior Colliculus]]
 ### Efferents
-- [[Pulvinar Nuclei]]
+- [[Pulvinar, Thalamus]]
 - Lateral intermediate areas of [['Thalamus]]
 - [['Pretectum]]
 - [[Lateral Geniculate Nucleus]]

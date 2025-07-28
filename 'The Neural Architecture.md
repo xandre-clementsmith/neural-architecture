@@ -8,7 +8,7 @@
 ### Model
 - [['Sensory Models]]
 ### Evaluator
-- [['Limbic System]]
+- [['Limbic System?]]
 ### Controller
 - [['Plant]]
 	- [['Autonomic Nervous System]] (Motor)
@@ -31,6 +31,8 @@
 
 ![[Pasted image 20240308182222.png]]
 ![[Pasted image 20240320225324.png]]
+![[Pasted image 20240211110813.png]]
+![[Pasted image 20240211105716.png]]
 http://larrywswanson.com/wp-content/uploads/2015/06/1993-TINS-poster-reflex.jpg 
 
 Separate System

@@ -1,7 +1,7 @@
 - Information: Pain, Temperature, C-Tactile Afferents
 - NS with sharp, pricking pain, COOL with innocuous cool, and HPC with burning pain. In addition, other distinct types of lamina I neurons convey sensory activity that specifically corresponds with the distinct feelings of warmth, itch, affective (sensual) touch, muscle ache and burn, and toothache, as well as (putatively) with bladder urgency, colonic pressure, cardiac pain, vasomotor flush, and so on
-- MDvc = [[Mediodorsal Nucleus]]
-- VMpo + VMb = [[Ventroanterior Nucleus]] 
+- MDvc = [[Mediodorsal Thalamus]]
+- VMpo + VMb = [[Ventroanterior Thalamus]] 
 - Sympathetic-related sensory-component of ANS
 - Doesn't appear to project directly to hypothalamus
 ### Efferents (Lamina I)
@@ -17,10 +17,10 @@ Contralateral Predominance
 - [[A7]]
 - [[Parabrachial Nucleus]] <- Most dense Lamina I projections
 - [[Periaqueductal Gray]]
-- [[Ventroposterior Nucleus]]
+- [[Ventroposterior Thalamus]]
 	- [['Insular Lobe]] (Interoceptive Cortex)
 	- Area 3a of Somatosensory
-- [[Mediodorsal Nucleus]]
+- [[Mediodorsal Thalamus]]
 	- [[Anterior Cingulate Cortex]]
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2796243/

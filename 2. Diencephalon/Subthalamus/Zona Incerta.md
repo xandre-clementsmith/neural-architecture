@@ -1,9 +1,9 @@
 - *Significant* projections to and from other regions. Each part of zona incerta has different connectivity from the rest of zona incerta
 ### Afferents
-- [['Cingulate Cortex]]
-- [['Primary Somatosensory Cortex (S1)]], [[Secondary-Somatosensory Cortex (S2)]], [[Somatosensory Association Cortex]]
+- [[Cingulate Cortex]]
+- [[Primary Somatosensory Cortex (S1)]], [[Secondary-Somatosensory Cortex (S2)]], [[Somatosensory Association Cortex]]
 - [['Amygdala]]
-- [[Ventromedial]]
+- [[Ventromedial Hypothalamus]]
 - Posterior Thalamic Nucleus (Rat)
 - [['Pretectum]]
 - Peripeduncular Area

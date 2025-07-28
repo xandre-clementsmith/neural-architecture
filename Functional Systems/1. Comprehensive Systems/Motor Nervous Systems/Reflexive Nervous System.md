@@ -1,2 +1,0 @@
-- [[Tectospinal Tract]]
-- [[Vestibulospinal Tract]]

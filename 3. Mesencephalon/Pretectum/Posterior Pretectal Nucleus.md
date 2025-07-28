@@ -1,6 +1,6 @@
 ### Afferents
 - [[CN II]] - Minimal Retinotectal
 ### Efferents
-- [[Pulvinar Nuclei]]
-- [[Ventroposterior Nucleus]]
+- [[Pulvinar, Thalamus]]
+- [[Ventroposterior Thalamus]]
 - Precerebellar Nuclei

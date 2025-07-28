@@ -12,6 +12,6 @@
 - Lateral Zone (Anterior and Posterior)
 	- Alt Name: Cerebrocerebellum
 	- Receives input from [[Corticopontine Fibers]], particular Parietal Lobe
-	- Outputs via [[Ventrolateral Nucleus]] of the [['Thalamus]] and [['Red Nucleus]]
+	- Outputs via [[Ventrolateral Thalamus]] of the [['Thalamus]] and [['Red Nucleus]]
 
 ![[Pasted image 20240508225820.png]]

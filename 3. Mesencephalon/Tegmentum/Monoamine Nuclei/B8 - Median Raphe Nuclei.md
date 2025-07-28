@@ -8,9 +8,9 @@ Forebrain
 - [[Anterior Cingulate Cortex]]
 - [[Bed Nucleus of the Stria Terminalis]]
 - [[Diagonal Band of Broca]]
-- [[Septal Nuclei]]
+- [['Septal Nuclei]]
 - [[Ventral Pallidum]]
-- [[Medial Preoptic]], Lateral Preoptic
+- [[Medial Preoptic Hypothalamus]], Lateral Preoptic
 
 Brainstem
 - [[A10 - Ventral Tegmental Area]]
@@ -31,15 +31,15 @@ Cortical
 Subcortical
 - [[Interpeduncular Nucleus]]
 - [[A10 - Ventral Tegmental Area]]
-- [[Mammillary Bodies]], Medial, Supramammillary
+- [['Mammillary Bodies]], Medial, Supramammillary
 - [['Hypothalamus]], Posterior
 - [[Zona Incerta]] A13 [[Dopamine (DA)]]
-- [['Midline Nuclei]]
+- [['Midline Nuclei, Thalamus]]
 - [['Intralaminar Formation]]
 - [['Hypothalamus]], [['Lateral Zone]]
-- [[Suprachiasmatic]]
+- [[Suprachiasmatic Hypothalamus]]
 - [[Diagonal Band of Broca]], Vertical and Horizontal Limbs
-- [[Septal Nuclei]], Medial
+- [['Septal Nuclei]], Medial
 - [[Hippocampus Proper]]
 
 Brainstem

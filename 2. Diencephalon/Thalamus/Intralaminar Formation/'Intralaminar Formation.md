@@ -9,12 +9,12 @@ Central Medial Nucleus
 
 - [[Thalamic Reticular Nucleus]]
 
-- [['Hypothalamus]], [['Lateral Region]]
+- [['Hypothalamus]], [['Lateral Thalamus]]
 - [['Midbrain]] - Diffusely
 
 Central Lateral Nucleus
 - Medial Agranular Cortex - Rats
-- [['Primary Somatosensory Cortex (S1)]]
+- [[Primary Somatosensory Cortex (S1)]]
 - [[Motor Cortex (M1)]]
 
 - Reticular Nucleus, [['Thalamus]]

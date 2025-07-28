@@ -1,2 +1,3 @@
 - Grasping/feeling Objects
+- Posterior Parietal Association Area
 - https://www.helpthereisabraininmyhead.com/haip

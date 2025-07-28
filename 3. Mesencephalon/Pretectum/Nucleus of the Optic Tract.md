@@ -2,7 +2,7 @@
 - [[CN II]] - Dense Retinotectal
 - [[Lateral Geniculate Nucleus]]
 - Intergeniculate Leaflets
-- [[Suprachiasmatic]]
+- [[Suprachiasmatic Hypothalamus]]
 - Terminal Nuclei of the Midbrain
 - [['Perihypoglossal Nuclei]]
 ### Efferents

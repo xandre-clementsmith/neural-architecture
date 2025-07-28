@@ -1,4 +1,4 @@
 - Regulates dopamine and serotonin
 ### Organization
-- Medial Habenula (MHb)
-- Lateral Habenula (LHb)
+- Medial Habenula (MHb) - [[Medial Habenula]]
+- Lateral Habenula (LHb) - [[Lateral Habenula]]

@@ -2,9 +2,9 @@
 ### Afferents
 - Frontal Cortex
 - [[Diagonal Band of Broca]]
-- [[Medial Preoptic]]
+- [[Medial Preoptic Hypothalamus]]
 - [['Hypothalamus]], [['Lateral Zone]]
-- [[Mammillary Bodies]], Lateral
+- [['Mammillary Bodies]], Lateral
 - [[Lateral Habenula]]
 - [[Interpeduncular Nucleus]]
 - [[A10 - Ventral Tegmental Area]]
@@ -19,7 +19,7 @@
 - [[Medial Prefrontal Cortex]], Infralimbic
 - [[Anterior Cingulate Cortex]]
 - [[Hippocampus Proper]]
-- [[Septal Nuclei]]
+- [['Septal Nuclei]]
 - Septofrimbrial and Triangular Nuclei
 - [['Thalamus]], Horizontal Limb
 - [[Thalamic Reticular Nucleus]]

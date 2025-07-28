@@ -36,10 +36,21 @@
 - [[B1 - Pallidus Raphe Nuclei]]
 - [[B2 - Obscurus Raphe Nuclei]]
 
+# Reticular Nuclei
+- [['(Pontine) Reticular Formation]]
+
+- [[Parvicellular Reticular Nucleus]] (Smallest Sized Cells)
+- [[Gigantocelullar Reticular Nucleus]] (Medium Sized Cells)
+- [[Magnocellular Reticular Nucleus]] (Largest Sized Cells)
+- [[Nucleus Paragigantocellularis]]
+
+- [[Medullary Reticular Formation]] (Dorsal & Ventral)
+
 
 ![[Pasted image 20240329200024.png]]
 ![[Pasted image 20240329222730.png]]
 ![[Pasted image 20240601111715.png]]
+![[Pasted image 20250724183656.png]]
 
 https://meds371s.uchc.edu/Oliver%20reticular%20formation%20slides.pdf
 http://ahuman.org/svn/ahengine/research/articles/Biological/2011-Reticular-Formation-Shaaravy.pdf

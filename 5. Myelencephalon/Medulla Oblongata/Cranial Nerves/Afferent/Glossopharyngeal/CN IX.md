@@ -10,7 +10,7 @@
 - [[Trigeminal Sensory Nuclei]] - Somatic Sensory
 - Gustatory [['Nucleus of the Solitary Tract]] - Special Sensory
 	- Neighbor projections from [['CN VII]] and [['CN X]] for taste
-	- Connects to [[Ventroposterior Nucleus]] via [[Central Tegmental Tract]]
+	- Connects to [[Ventroposterior Thalamus]] via [[Central Tegmental Tract]]
 
 ![[Pasted image 20240507182012.png]]
 ![[Pasted image 20240507182023.png]]

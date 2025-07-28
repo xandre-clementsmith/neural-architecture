@@ -3,7 +3,7 @@
 ### Afferents
 - [['Spinal Cord]]
 ### Efferents
-- [[Ventrolateral Nucleus]]
+- [[Ventrolateral Thalamus]]
 
 Ref:
 - https://pubmed.ncbi.nlm.nih.gov/8509830/

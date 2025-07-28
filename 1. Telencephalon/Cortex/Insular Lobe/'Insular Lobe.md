@@ -16,7 +16,7 @@
 - [[Orbitofrontal Cortex]]
 - [[Medial Prefrontal Cortex]]
 - [[Bed Nucleus of the Stria Terminalis]]
-- [[Mediodorsal Nucleus]]
+- [[Mediodorsal Thalamus]]
 - [['Lateral Zone]] of [['Hypothalamus]]
 - [[Parahippocampal Cortex]] including [[Perirhinal Cortex]] and [['Entorhinal Cortex]]
 - Input from [[Acetylcholine (ACh)]], [[Dopamine (DA)]], [[Serotonin (5-HT)]], and [[Norepinephrine]] systems
@@ -27,7 +27,7 @@
 - [[Orbitofrontal Cortex]]
 - [[Medial Prefrontal Cortex]]
 - [[Bed Nucleus of the Stria Terminalis]]
-- [[Mediodorsal Nucleus]]
+- [[Mediodorsal Thalamus]]
 - [['Lateral Zone]] of [['Hypothalamus]]
 - [[Parahippocampal Cortex]] including [[Perirhinal Cortex]] and [['Entorhinal Cortex]]
 - [[Nucleus Accumbens]]

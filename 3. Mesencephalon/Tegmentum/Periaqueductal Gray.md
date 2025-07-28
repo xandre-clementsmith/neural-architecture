@@ -10,18 +10,18 @@ Dorsomedial
 Dorsolateral
 - [[Medial Prefrontal Cortex]]
 - [['Hypothalamus]]
-	- [[Medial Preoptic]]
-	- [[Anterior]]
-	- [['Periventricular Region]]
-	- [[Ventromedial]]
+	- [[Medial Preoptic Hypothalamus]]
+	- [[Anterior Hypothalamus]]
+	- [['Periventricular Zone]]
+	- [[Ventromedial Hypothalamus]]
 	- Posterior?
 	- Supramammillary?
 	- [['Lateral Zone]]
 Lateral
 - [[Anterior Cingulate Cortex]]
 - [['Amygdala]]
-	- [[Central Nucleus]]
-	- [[Basal Nucleus]] (Ventrolateral)
+	- [[Central Amygdala]]
+	- [[Basal Amygdala]] (Ventrolateral)
 - [[Trigeminal Sensory Nuclei]]
 - [[RL I]]: Aδ-type
 - Pelvic Afferent
@@ -44,12 +44,12 @@ Unsorted
 Dorsomedial
 Dorsolateral
 - [['Hypothalamus]]
-	- [[Anterior]]
-	- [[Dorsomedial]]
+	- [[Anterior Hypothalamus]]
+	- [[Dorsomedial Hypothalamus]]
 	- Posterior
 	- [['Lateral Zone]]
 Lateral
-- [['Intralaminar Formation]] and [['Midline Nuclei]] of the [['Thalamus]]
+- [['Intralaminar Formation]] and [['Midline Nuclei, Thalamus]] of the [['Thalamus]]
 	- [[Anterior Cingulate Cortex]]
 	- [[Anterior Insular]]
 	- [[Medial Prefrontal Cortex]]

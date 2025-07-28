@@ -23,9 +23,9 @@ Misc Visceral
 
 - [[Area Postrema]]?
 ### Efferents
-- [[Paraventricular]] (Hypothalamus)
-- [[Central Nucleus]] (Amygdala)
-- [[Parabrachial Nucleus]] to [[Ventroposterior Nucleus]]
+- [['Paraventricular Hypothalamus]] (Hypothalamus)
+- [[Central Amygdala]] (Amygdala)
+- [[Parabrachial Nucleus]] to [[Ventroposterior Thalamus]]
 - [[A6 - Locus Coeruleus]] (Noradrenaline)
 - [[B6 - Dorsal Raphe Nuclei]] (Serotonin)
 

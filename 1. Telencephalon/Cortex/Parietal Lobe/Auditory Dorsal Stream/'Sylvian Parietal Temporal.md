@@ -1,0 +1,3 @@
+- Speech Repetition
+- [[1. Telencephalon/Cortex/Temporal Lobe/Auditory System/Sylvian Parietal Temporal|Sylvian Parietal Temporal]]
+- https://www.helpthereisabraininmyhead.com/spt

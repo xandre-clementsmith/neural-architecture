@@ -14,7 +14,7 @@
 - [[CN IX]]
 - [[CN X]]
 ### Efferents
-- [[Ventroposterior Nucleus]] Thalamus
+- [[Ventroposterior Thalamus]] Thalamus
 - ?
 
 https://link.springer.com/referenceworkentry/10.1007/978-3-642-28753-4_4626

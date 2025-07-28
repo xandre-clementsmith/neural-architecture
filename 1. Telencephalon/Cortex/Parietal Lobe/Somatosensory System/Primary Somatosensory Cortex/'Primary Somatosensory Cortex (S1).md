@@ -1,2 +1,0 @@
-- Postcentral Gyrus
-- BA1, BA2, BA3

@@ -3,7 +3,7 @@
 ### Afferents
 [[Medial Forebrain Bundle]] - 50+ Nuclei to Lateral Hypothalamus
 - [['Olfactory System]]
-- [[Septal Nuclei]]
+- [['Septal Nuclei]]
 - [['Amygdala]]
 - [['Substantia Innominata]]
 - Frontal Cortex
@@ -25,16 +25,16 @@
 - [[Mesencephalic Reticular Formation]]
 
 Misc
-- [[Mediodorsal Nucleus]] - Periventricular Hypothalamus
+- [[Mediodorsal Thalamus]] - Periventricular Hypothalamus
 - [['Medial Zone]] - Periventricular Hypothalamus
-- [[Subthalamic Nuclei]] - Lateral Hypothalamus
+- [['Subthalamic Nuclei]] - Lateral Hypothalamus
 - [[Zona Incerta]] - Lateral Hypothalamus
 - [[Nucleus Accumbens]] - Lateral Hypothalamus
 - [['Substantia Innominata]] - Suprachiasmatic Nucleus
 - [[Optic Tract]] - Lateral Hypothalamus
 ### Efferents
 [[Medial Forebrain Bundle]] - Lateral Hypothalamus
-- [[Septal Nuclei]]
+- [['Septal Nuclei]]
 - [['Amygdala]]
 - [['Piriform Cortex]]
 - Neocortex
@@ -92,3 +92,4 @@ Hypothalamic Divisions
 
 https://www.pnas.org/doi/10.1073/pnas.1819448116
 https://www.ncbi.nlm.nih.gov/books/NBK279126/
+https://linkinghub.elsevier.com/retrieve/pii/S0165-0173(97)00007-6

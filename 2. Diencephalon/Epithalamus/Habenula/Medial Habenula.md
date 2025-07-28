@@ -1,6 +1,6 @@
 - Septal Nuclei and Neurotransmission centers to Interpeduncular Nucleus
 ### Afferents
-- [[Septal Nuclei]] (Triangular Septal Nucleus, Posterior Septum)
+- [['Septal Nuclei]] (Triangular Septal Nucleus, Posterior Septum)
 	- Terminate as cholinergic or substance P neurons
 - [[A10 - Ventral Tegmental Area]]
 - Raphe Nuclei (Mesencephalic)

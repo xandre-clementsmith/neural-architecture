@@ -1,3 +1,3 @@
 - [[Stria Terminalis]] : [['Amygdala]] ->
-	- [[Ventromedial]] Hypothalamus
+	- [[Ventromedial Hypothalamus]] Hypothalamus
 	- Includes [[Bed Nucleus of the Stria Terminalis]]

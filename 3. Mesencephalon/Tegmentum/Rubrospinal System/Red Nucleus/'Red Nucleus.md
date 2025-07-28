@@ -1,3 +1,4 @@
+[[Parvocellular Red Nucleus]] supports [[Cerebellar Nervous System]] climbing fibers and [[Magnocellular Red Nucleus]] supports [[Rubrospinal Tract]]
 ### Organization
 - Subdivisions
 	- Magnocellular Red Nucleus (mRN)
@@ -8,6 +9,7 @@
 
 - Abundant brainstem red nucleus afferents are not described for simplification
 - Includes rubrospinal area
+- Primates have distinctive tracts (shown below), with much larger pRN than mRN, which deviates from other animals
 
 
 https://www.nature.com/articles/s41598-019-48164-7 

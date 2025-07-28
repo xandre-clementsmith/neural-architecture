@@ -15,7 +15,7 @@
 - Retina
 - [[Associative Visual Cortex (V3)]]
 - [[Frontal Eye Field]]
-- [['Cingulate Cortex]]
+- [[Cingulate Cortex]]
 - [[Middle Temporal Cortex (V5)]]
 - [[Medial Superior Temporal Cortex]]
 - [[Lateral Geniculate Nucleus]]

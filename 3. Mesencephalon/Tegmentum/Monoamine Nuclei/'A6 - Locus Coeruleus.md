@@ -8,7 +8,7 @@
 - [[Medial Prefrontal Cortex]]
 - [['Insular Lobe]]
 - [[Bed Nucleus of the Stria Terminalis]]
-- [['Hypothalamus]], [['Lateral Zone]], [[Dorsomedial]]
+- [['Hypothalamus]], [['Lateral Zone]], [[Dorsomedial Hypothalamus]]
 - [['Amygdala]], Central
 - [[Periaqueductal Gray]]
 - [[B6 - Dorsal Raphe Nuclei]]

@@ -14,7 +14,7 @@
 - [['Amygdala]] - Basolateral
 - [[Hippocampus Proper]]
 - [['Piriform Cortex]]?
-- [[Septal Nuclei]]?
+- [['Septal Nuclei]]?
 
 - [[Orbitofrontal Cortex]]
 - [[Ventromedial Prefrontal Cortex]]

@@ -11,7 +11,7 @@ Somatosensory: https://www.nature.com/articles/s41593-019-0536-7
 - [[Motor Cortex (M1)]]
 - [['Premotor Cortex]]
 - [[Supplementary Motor Area]]
-- [['Primary Somatosensory Cortex (S1)]]
+- [[Primary Somatosensory Cortex (S1)]]
 
 ![[Pasted image 20240308192146.png]]
 ![[Pasted image 20240308192934.png]]

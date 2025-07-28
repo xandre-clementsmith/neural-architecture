@@ -6,7 +6,7 @@
 - [[Olfactory Tubercle]]?
 - [['Globus Pallidus]] - GABA
 - [[Substantia Nigra pars reticular]] - GABA
-- [[Subthalamic Nuclei]] - Glutamate
+- [['Subthalamic Nuclei]] - Glutamate
 - [[Pedunculopontine Nucleus]] - Glutamate
 - [[Bed Nucleus of the Stria Terminalis]]
 ### Efferents

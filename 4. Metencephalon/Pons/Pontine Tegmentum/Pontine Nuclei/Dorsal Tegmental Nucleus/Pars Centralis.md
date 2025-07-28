@@ -1,6 +1,6 @@
 ### Afferents
 Major
-- [[Mammillary Bodies]]
+- [['Mammillary Bodies]]
 - [[Interpeduncular Nucleus]]
 Supporting
 - [['Perihypoglossal Nuclei]]
@@ -11,5 +11,5 @@ Minimal
 - [['(Pontine) Reticular Formation]]
 ### Efferents
 Major
-- [[Mammillary Bodies]]
+- [['Mammillary Bodies]]
 - [[Interpeduncular Nucleus]]

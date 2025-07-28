@@ -1,9 +1,9 @@
-- Mesencephalic motor system potential location
+- [[Mesencephalic Locomotor Region?]] along with [[Cuneiform Nucleus]]
 - Primarily integrator of upstream inputs to provide to reticulospinal
 ### Afferents
 - [['Amygdala]] (Centralis)
 - [[Zona Incerta]]
-- [['Hypothalamus]]: [[Dorsomedial]], [[Ventromedial]], [['Lateral Zone]], [['Periventricular Region]]
+- [['Hypothalamus]]: [[Dorsomedial Hypothalamus]], [[Ventromedial Hypothalamus]], [['Lateral Zone]], [['Periventricular Zone]]
 - [[Substantia Nigra pars reticular]] (pars lateralis)
 - Peripeduncular
 - [[Periaqueductal Gray]]

@@ -1,2 +1,2 @@
-- [[Mammillothalamic Tract]] : [[Mammillary Bodies]]
+- [[Mammillothalamic Tract]] : [['Mammillary Bodies]]
 	- Anterior [['Thalamus]]

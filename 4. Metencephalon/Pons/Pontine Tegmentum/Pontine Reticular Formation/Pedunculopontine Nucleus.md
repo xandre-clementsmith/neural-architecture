@@ -30,7 +30,7 @@
 - [[Primary Auditory Cortex]]
 - [[Medial Prefrontal Cortex]]
 - Deep Cerebellar Nuclei
-- [[Subthalamic Nuclei]]
+- [['Subthalamic Nuclei]]
 - Entopeduncular Nucleus
 - [[Globus Pallidus Internal Segment]]
 - [[Substantia Nigra pars reticular]] or [[A9 - Substantia Nigra pars compacta]]
@@ -49,11 +49,11 @@
 	- [[A9 - Substantia Nigra pars compacta]]
 	- [[A10 - Ventral Tegmental Area]]
 	- [[Substantia Nigra pars reticular]]
-	- [[Subthalamic Nuclei]]
+	- [['Subthalamic Nuclei]]
 	- Lateral [['Hypothalamus]]
 	- [[Ventral Pallidum]]
 	- [['Amygdala]]
-	- [[Septal Nuclei]]
+	- [['Septal Nuclei]]
 - Ascending Dorsal Pathway
 	- [[Superior Colliculus]]
 	- [[Inferior Colliculus]]
