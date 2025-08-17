@@ -4,10 +4,10 @@
 ### Afferents
 - [['Spinothalamic Tract]] to [[Anterior Cingulate Cortex]]
 - [['Cerebellum]], Deep Cerebellar Nuclei
-- [['Midbrain]]
+- [['Mesencephalon]]
 - [['Pons]]
 - [['Medulla Oblongata]]
-- [['Basal Ganglia]]
+- [[DELETE - BASAL GANGLIA]]
 - [['Amygdala]]
 - Prefrontal Cortex
 - [[Piriform Cortex]]
@@ -19,7 +19,7 @@
 - [[Anterior Cingulate Cortex]]
 - Prefrontal Cortex
 - [['Amygdala]]
-- [['Basal Ganglia]]
+- [[DELETE - BASAL GANGLIA]]
 
 ![[Pasted image 20240519125921.png]]
 

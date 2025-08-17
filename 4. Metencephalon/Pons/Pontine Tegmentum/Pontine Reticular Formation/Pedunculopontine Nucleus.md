@@ -1,3 +1,4 @@
+- [[Acetylcholine (ACh)]] Center
 ### General
 - PPN is present in virtually all vertebrate species; it is identified by its population of cholinergic neurons
 - Composed of cholinergic (~3000 in rat PPN), GABAergic, and glutamatergic neurons
@@ -38,7 +39,6 @@
 - [['Striatum]]
 - [[Superior Colliculus]]
 - [[Laterodorsal Tegmental Nucleus]]
-- [[Pedunculopontine Nucleus]]
 - [['A6 - Locus Coeruleus]]
 - [['Habenula]]
 - [[Mesopontine Rostromedial Tegmental Nucleus]]
@@ -61,7 +61,7 @@
 	- Reticular [['Thalamus]]
 	- Anterior [['Thalamus]]
 	- Motor, Sensory, Associative, and Limbic [['Thalamus]]
-	- Striatum of the [['Basal Ganglia]]]
+	- Striatum of the [[DELETE - BASAL GANGLIA]]]
 - Descending Pathway
 	- Rostral and Caudal [['Pontine Nuclei]] (Cerebellum)
 	- Gigantocellular [['(Pontine) Reticular Formation]] ([[Reticulospinal Tracts]])
@@ -75,11 +75,10 @@
 
 ![[Pasted image 20240409231944.png]]
 
-
-
-https://www.frontiersin.org/articles/10.3389/fnana.2011.00022/full
-https://pubmed.ncbi.nlm.nih.gov/23509047/
-https://www.cell.com/neuron/pdf/S0896-6273(17)30135-6.pdf
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3074429/
-https://www.sciencedirect.com/science/article/pii/S0896627317301356
-https://www.frontiersin.org/articles/10.3389/fnana.2016.00109/full 
+References: 
+- https://www.frontiersin.org/articles/10.3389/fnana.2011.00022/full
+- https://pubmed.ncbi.nlm.nih.gov/23509047/
+- https://www.cell.com/neuron/pdf/S0896-6273(17)30135-6.pdf
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3074429/
+- https://www.sciencedirect.com/science/article/pii/S0896627317301356
+- https://www.frontiersin.org/articles/10.3389/fnana.2016.00109/full 

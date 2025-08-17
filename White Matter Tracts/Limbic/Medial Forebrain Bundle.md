@@ -1,2 +1,0 @@
-- ?? [[Medial Forebrain Bundle]] : Basal Olfactory Regions, Periamygdaloid Cortex, [['Septal Nuclei]], (NAcc?) <->
-	- VTA (Mesolimbic), Nigrostriatal

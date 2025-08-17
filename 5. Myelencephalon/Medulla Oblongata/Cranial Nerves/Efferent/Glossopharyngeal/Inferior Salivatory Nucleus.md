@@ -1,5 +1,5 @@
 - Innervates parotid gland 
 ### Afferents
-- [[Corticobulbar Tracts]]
+- [[Corticobulbar Tract]]
 ### Efferents
 - [['CN IX]]

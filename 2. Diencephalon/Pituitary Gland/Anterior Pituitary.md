@@ -1,6 +1,10 @@
-- Non-neural
+- Glandular
+- Adrenocorticotropic Hormone, Thyroid-Stimulating Hormone, Follicle-Stimulating Hormone, Luteinizing Hormone, Growth Hormone, Prolactin
 ### Afferents
-- [['Hypothalamus]] release of somatostatin and dopamine
+- [[Median Eminence]]
+	- [[2. Diencephalon/Hypothalamus/Neuroendocrine Motor Zone/Paraventricular Hypothalamus|Paraventricular Hypothalamus]]
+	- [[Arcuate Hypothalamus]]
+	- TBD
 
 ![[Pasted image 20240210203801.png]]
 

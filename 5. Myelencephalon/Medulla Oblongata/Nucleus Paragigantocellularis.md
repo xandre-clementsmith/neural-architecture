@@ -13,7 +13,7 @@
 
 - [[Periaqueductal Gray]]
 - [[Bed Nucleus of the Stria Terminalis]]
-- [['Paraventricular Hypothalamus]]
+- [[2. Diencephalon/Hypothalamus/Neuroendocrine Motor Zone/Paraventricular Hypothalamus]]
 - Posterior [['Hypothalamus]]
 - Precommissural Nucleus
 - Deep Mesencephalic Nucleus

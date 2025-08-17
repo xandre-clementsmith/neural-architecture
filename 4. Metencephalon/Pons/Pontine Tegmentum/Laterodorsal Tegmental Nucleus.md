@@ -2,7 +2,7 @@
 ### Afferents
 - Frontal Cortex
 - [[Diagonal Band of Broca]]
-- [[Medial Preoptic Hypothalamus]]
+- [[Median Preoptic Hypothalamus]]
 - [['Hypothalamus]], [['Lateral Zone]]
 - [['Mammillary Bodies]], Lateral
 - [[Lateral Habenula]]

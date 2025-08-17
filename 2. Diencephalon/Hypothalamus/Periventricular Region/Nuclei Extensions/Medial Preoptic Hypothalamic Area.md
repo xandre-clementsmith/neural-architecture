@@ -1,1 +1,0 @@
-- [[Medial Preoptic Hypothalamus]]

@@ -1,0 +1,1 @@
+Substantia Nigra to VM & VA of thalamus

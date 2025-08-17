@@ -1,1 +1,3 @@
 - Shown below sACC https://www.helpthereisabraininmyhead.com/sacc
+- Don't love this partition of the brain - has pretty nonstandard components
+- Typically: [[Nucleus Accumbens]], [[Nucleus Basalis]], [[Diagonal Band of Broca]], [['Substantia Innominata]], and [['Septal Nuclei]]

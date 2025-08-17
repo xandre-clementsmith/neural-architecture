@@ -1,0 +1,8 @@
+- Constitues the dorsal amygdalofugal pathway
+- See [[Ventral Amygdalofugal Pathway]]
+	- Converges at [['Hypothalamus]] and [['Septal Nuclei]]
+- Arises from [[Central Amygdala]] / [[Medial Amygdala]]
+- Components:
+	- Pre-Commissural towards [[Nucleus Accumbens]]
+	- Commissural towards contralateral hemisphere via [[Anterior Commissure]]
+	- Post-Commissural 

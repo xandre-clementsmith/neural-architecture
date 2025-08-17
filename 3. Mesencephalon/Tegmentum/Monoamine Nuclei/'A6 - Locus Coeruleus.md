@@ -6,7 +6,7 @@
 - Phasic: Alerting, P300 in [[Anterior Cingulate Cortex]]
 ### Afferents
 - [[Medial Prefrontal Cortex]]
-- [['Insular Lobe]]
+- [['Insular Cortex]]
 - [[Bed Nucleus of the Stria Terminalis]]
 - [['Hypothalamus]], [['Lateral Zone]], [[Dorsomedial Hypothalamus]]
 - [['Amygdala]], Central
@@ -24,7 +24,7 @@
 - [[Medial Prefrontal Cortex]]
 - [[Anterior Cingulate Cortex]]
 - [[Motor Cortex (M1)]]
-- [[Cerebellar System]]
+- [[Cerebellar Nervous System]]
 
 ![[Pasted image 20240526003959.png]]
 ![[Pasted image 20250703143559.png]]https://pmc.ncbi.nlm.nih.gov/articles/PMC9588743/

@@ -1,4 +1,4 @@
-- Output nuclei of [['Basal Ganglia]] similar to [[Globus Pallidus Internal Segment]]
+- Output nuclei of [[DELETE - BASAL GANGLIA]] similar to [[Globus Pallidus Internal Segment]]
 ### Afferents
 - [['Striatum]] (Direct)
 - [['Subthalamic Nuclei]] (Indirect)

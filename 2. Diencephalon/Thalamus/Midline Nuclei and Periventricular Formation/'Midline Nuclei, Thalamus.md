@@ -1,5 +1,4 @@
 - Hippocampal and limbic connectivity
-
 - Nucleus Reuniens directs cortical, hippocampal, hypothalamic, and brainstem outputs to limbic and hippocampal/temporal/default regions
 - Paraventricular Nucleus directs some cortical, hypothalamus, subthalamus, and brainstem to limbic regions, such as ventral striatum, amygdala, and bed nucleus
 ### Afferents
@@ -62,4 +61,6 @@ Paraventricular Nucleus
 ![[Pasted image 20240211225120.png]]
 ![[Pasted image 20240519120001.png]]
 
+References:
+https://pubmed.ncbi.nlm.nih.gov/25616182/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4976455/

@@ -19,11 +19,11 @@ Misc Visceral
 
 - [[Nucleus Paragigantocellularis]]
 
-- [['Lateral Spinothalamic Tract]] - Per A.D. Craig
+- [[Lateral Spinothalamic Tract]] - Per A.D. Craig
 
 - [[Area Postrema]]?
 ### Efferents
-- [['Paraventricular Hypothalamus]] (Hypothalamus)
+- [[2. Diencephalon/Hypothalamus/Neuroendocrine Motor Zone/Paraventricular Hypothalamus]] (Hypothalamus)
 - [[Central Amygdala]] (Amygdala)
 - [[Parabrachial Nucleus]] to [[Ventroposterior Thalamus]]
 - [[A6 - Locus Coeruleus]] (Noradrenaline)

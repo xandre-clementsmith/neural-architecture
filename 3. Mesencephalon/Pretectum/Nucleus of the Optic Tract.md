@@ -10,7 +10,7 @@
 - [['Pons]]
 - [['Medulla Oblongata]]
 - [['Intralaminar Formation]]
-- [['Midbrain]]
+- [['Mesencephalon]]
 - [['Thalamus]]
 - [[Accessory Optic System]]
 - [[Superior Colliculus]]

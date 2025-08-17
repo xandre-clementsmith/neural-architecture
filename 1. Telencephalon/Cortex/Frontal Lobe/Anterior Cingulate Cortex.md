@@ -1,5 +1,5 @@
 - Component of [[Salience Network]]
-	- Only ACC and [['Insular Lobe]] have Von Economo neurons
+	- Only ACC and [['Insular Cortex]] have Von Economo neurons
 - Connects cognitive frontal cortex to emotional limbic system
 
 # Function

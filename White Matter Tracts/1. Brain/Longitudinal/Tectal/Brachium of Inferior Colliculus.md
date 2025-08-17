@@ -1,0 +1,1 @@
+Connects [[Inferior Colliculus]] to [[Medial Geniculate Nucleus]]

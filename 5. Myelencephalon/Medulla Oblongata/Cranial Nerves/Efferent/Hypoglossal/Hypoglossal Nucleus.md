@@ -1,5 +1,5 @@
 ### Afferents
-- [[Corticobulbar Tracts]]
+- [[Corticobulbar Tract]]
 - [[Medullary Reticular Formation]]
 - Spinal V Complex
 - [['Nucleus of the Solitary Tract]]

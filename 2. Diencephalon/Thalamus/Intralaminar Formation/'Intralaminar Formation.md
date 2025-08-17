@@ -10,7 +10,7 @@ Central Medial Nucleus
 - [[Thalamic Reticular Nucleus]]
 
 - [['Hypothalamus]], [['Lateral Thalamus]]
-- [['Midbrain]] - Diffusely
+- [['Mesencephalon]] - Diffusely
 
 Central Lateral Nucleus
 - Medial Agranular Cortex - Rats
@@ -21,13 +21,13 @@ Central Lateral Nucleus
 
 - [[Periaqueductal Gray]]
 - [['(Pontine) Reticular Formation]]
-- [['Midbrain]] - Diffusely
+- [['Mesencephalon]] - Diffusely
 ### Efferents
 Central Medial Nucleus
 - Medial Agranular Cortex - Rats
 - [[Anterior Cingulate Cortex]]
 - Dorsolateral and Ventrolateral [[Orbitofrontal Cortex]]
-- Dorsal and Granular [['Insular Lobe]]
+- Dorsal and Granular [['Insular Cortex]]
 
 - Dorsal [['Striatum]] - [[Caudate Nucleus]] and [[Putamen]]
 - [[Nucleus Accumbens]], Core

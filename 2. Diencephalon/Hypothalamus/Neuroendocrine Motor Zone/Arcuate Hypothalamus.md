@@ -1,11 +1,12 @@
+### Hypothalamic Afferents
+### Hypothalamic Efferents
+- [[Median Eminence]] -> [[Anterior Pituitary]]
+- CNS
+	- TBD
+### Afferents
 ### Efferents
-- [[Median Eminence]] - [[Dopamine (DA)]]
 
-![[Pasted image 20240210144420.png]]
-
-Location: Portion in periventricular zone but extends laterally into medial zone. Sits in floor of tuberal region
-
-Function: Control of anterior pituitary, feeding
-
-(ARH)
 ![[Pasted image 20240221201231.png]]
+
+References:
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC10789173/

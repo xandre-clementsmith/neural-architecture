@@ -1,1 +1,0 @@
-- Second-order neurons from fasciculi to the thalamus

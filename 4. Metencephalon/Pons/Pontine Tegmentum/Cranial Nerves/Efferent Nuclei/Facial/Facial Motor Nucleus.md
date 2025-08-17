@@ -1,6 +1,6 @@
 - Facial Motor
 ### Afferents
-- [[Motor Cortex (M1)]] via the [[Corticobulbar Tracts]]
+- [[Motor Cortex (M1)]] via the [[Corticobulbar Tract]]
 ### Efferents
 - [['CN VII]]
 

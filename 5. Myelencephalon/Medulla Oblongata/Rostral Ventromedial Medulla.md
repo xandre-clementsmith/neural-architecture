@@ -2,9 +2,9 @@
 - May be part of reticular formation?
 ### Afferents
 - [[Medial Prefrontal Cortex]] - Prelimbic, Infralimbic, and Medial/Lateral Precentral
-- [['Insular Lobe]]
+- [['Insular Cortex]]
 - [[Perirhinal Cortex]]
-- [[Medial Preoptic Hypothalamus]]
+- [[Median Preoptic Hypothalamus]]
 - [[Lateral Habenula]]
 - [[Zona Incerta]]
 - Parafascicular Area

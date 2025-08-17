@@ -1,6 +1,6 @@
 - Eye Motor Nuclei
 ### Afferents
-- [[Corticobulbar Tracts]]
+- [[Corticobulbar Tract]]
 - [[Vestibular Nuclei]] - Balance
 - [[Accessory Oculomotor Nucleus]] - Eye Motor
 - Paramedian [['(Pontine) Reticular Formation]]

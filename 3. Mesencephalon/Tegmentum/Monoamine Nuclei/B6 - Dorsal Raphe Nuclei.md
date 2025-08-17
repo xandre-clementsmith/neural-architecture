@@ -5,11 +5,11 @@ Cortical
 - [[Orbitofrontal Cortex]]
 - [[Medial Prefrontal Cortex]] (Infralimbic, Prelimbic, Medial Agranular)
 - [[Anterior Cingulate Cortex]]
-- [['Insular Lobe]]
+- [['Insular Cortex]]
 
 Subcortical
 - [[Bed Nucleus of the Stria Terminalis]]
-- [[Medial Preoptic Hypothalamus]], Lateral Preoptic
+- [[Median Preoptic Hypothalamus]], Lateral Preoptic
 - [['Septal Nuclei]], Lateral
 - [[Ventral Pallidum]]
 - [['Substantia Innominata]]
@@ -39,7 +39,7 @@ Brainstem
 Cortical
 - [['Entorhinal Cortex]]
 - [['Piriform Cortex]]
-- [['Insular Lobe]] (Agranular)
+- [['Insular Cortex]] (Agranular)
 - Lateral Agranular Frontal Cortex
 - [[Orbitofrontal Cortex]], Medial
 - [[Medial Prefrontal Cortex]] (Medial Agranular, Prelimbic, Infralimbic)

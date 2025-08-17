@@ -1,0 +1,2 @@
+- [[A11]] per https://pmc.ncbi.nlm.nih.gov/articles/PMC5111623
+https://www.numberanalytics.com/blog/subparafascicular-nucleus-role-in-health

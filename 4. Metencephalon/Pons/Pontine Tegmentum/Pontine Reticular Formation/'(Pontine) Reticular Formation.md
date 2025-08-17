@@ -1,6 +1,7 @@
-- Master Page for continuous Pontine Reticular Formation, [[Medullary Reticular Formation]], and [[Mesencephalic Reticular Formation]]
+- Master Page for continuous Pontine Reticular Formation, [[Medullary Reticular Formation]], and [[Mesencephalic Reticular Formation]] (Including [['A6 - Locus Coeruleus]], [[Pedunculopontine Nucleus]], [[Cuneiform Nucleus]], and [[Subcuneiform Nucleus]])
 ### General Information
 - Ascending Functions: Sleep-waking cycle, level of arousal and attention, drive for novelty seeking behaviors, and mood, gating sensory inputs, pain modulation, and gaze control
+- Includes components of [[Ascending Reticular Activating System]] and is source of [[Reticulospinal Tracts]] - Nuclei form complex networks within the formation that do not ascend to ARAS or descend as reticulospinal
 - Descending Functions: Posture modulation, extrapyramidal movements, and autonomic functions (breathing, blood pressure), gating sensory inputs, and pain modulation via the [[Reticulospinal Tracts]]
 - Most RF neurons cover roughly half the brainstem via isodendritic neurons that constitute a continuum of overlapping dendritic fields extending from the spinal cord to the diencephalon; non-isodendritic neurons include specialized allodendritic (intermediate dendritic complexity) and idiodendritic (low dendritic complexity) 
 

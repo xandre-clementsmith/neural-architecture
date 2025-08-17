@@ -1,0 +1,5 @@
+- [[Stria Terminalis]] constitues dorsal amygdalofugal pathway
+	- Converges at [['Hypothalamus]] and [['Septal Nuclei]]
+- Arises from [[Basolateral Amygdala]]
+- Consists of:
+	- Ventrally: Lentiform, [[Anterior Commissure]], [[Internal Capsule]], [['Septal Nuclei]]

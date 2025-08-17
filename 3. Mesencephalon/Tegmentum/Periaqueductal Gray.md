@@ -10,7 +10,7 @@ Dorsomedial
 Dorsolateral
 - [[Medial Prefrontal Cortex]]
 - [['Hypothalamus]]
-	- [[Medial Preoptic Hypothalamus]]
+	- [[Median Preoptic Hypothalamus]]
 	- [[Anterior Hypothalamus]]
 	- [['Periventricular Zone]]
 	- [[Ventromedial Hypothalamus]]
@@ -21,7 +21,7 @@ Lateral
 - [[Anterior Cingulate Cortex]]
 - [['Amygdala]]
 	- [[Central Amygdala]]
-	- [[Basal Amygdala]] (Ventrolateral)
+	- [[Basolateral Amygdala]] (Ventrolateral)
 - [[Trigeminal Sensory Nuclei]]
 - [[RL I]]: Aδ-type
 - Pelvic Afferent
@@ -77,6 +77,7 @@ Unsorted
 
 https://www.neurology.org/doi/10.1212/WNL.0b013e31823fcdee
 ![[Pasted image 20250704103707.png]]
+- Left: Afferents; Right: Efferents (Limbic & Hypothalamic, Spinal)
 
 
 

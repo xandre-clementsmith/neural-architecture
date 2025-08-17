@@ -1,4 +1,4 @@
-- Part of the [['Basal Ganglia]] system
+- Part of the [[DELETE - BASAL GANGLIA]] system
 ### Afferents
 - [[Globus Pallidus External Segment]] - Motor
 - [[Motor Cortex (M1)]] - Motor 

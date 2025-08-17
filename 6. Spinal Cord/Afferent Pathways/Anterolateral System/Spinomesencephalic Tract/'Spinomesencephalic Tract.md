@@ -1,1 +1,0 @@
-- Composed of spinotectal tract and fibers that project to the [[Periaqueductal Gray]]

@@ -1,3 +1,0 @@
-- [[Fornix]] : [[Hippocampus Proper]] -> 
-	- Posterior: [['Hypothalamus]], [['Mammillary Bodies]], Anterior [['Thalamus]]
-	- Anterior: [['Septal Nuclei]], [[Nucleus Accumbens]]

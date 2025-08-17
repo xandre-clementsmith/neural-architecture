@@ -18,7 +18,7 @@ Synapses with 1-10 Purkinje cells
 - [[Superior Colliculus]] - Visual
 - [[Hypoglossal Nucleus]] - Motor
 - [[Central Tegmental Tract]] - Motor/Cortical
-- [['Cuneate Nucleus]] and [[Gracile Nucleus]] ([['Dorsal Column-Medial Lemniscus System]]) - Motor
+- [['Cuneate Nucleus]] and [[White Matter Tracts/Old Division/Spinal Cord/Afferent Pathways/Dorsal Column-Medial Lemniscus System/Gracile Fasciculus/Gracile Nucleus]] ([['Dorsal Column-Medial Lemniscus System]]) - Motor
 Corticorubral
 - [[Motor Cortex (M1)]] - Motor
 - [[Supplementary Eye Field]] - Motor

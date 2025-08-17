@@ -10,7 +10,7 @@ Forebrain
 - [[Diagonal Band of Broca]]
 - [['Septal Nuclei]]
 - [[Ventral Pallidum]]
-- [[Medial Preoptic Hypothalamus]], Lateral Preoptic
+- [[Median Preoptic Hypothalamus]], Lateral Preoptic
 
 Brainstem
 - [[A10 - Ventral Tegmental Area]]

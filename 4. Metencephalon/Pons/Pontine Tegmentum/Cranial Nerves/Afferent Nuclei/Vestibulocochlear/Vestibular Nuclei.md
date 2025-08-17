@@ -5,7 +5,7 @@
 - Vestibular Labyrinth
 - [[Nucleus of the Optic Tract]] of [['Pretectum]]
 ### Efferents
-- [['Cerebellum]] via [[Inferior Cerebellar Peduncle]]
+- [['Cerebellum]] via [['Inferior Cerebellar Peduncle]]
 - [[Oculomotor Nucleus]]
 - [[Vestibulospinal Tract]]
 - [['Pons]]

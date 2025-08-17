@@ -1,2 +1,0 @@
-- Superior Layer of the [['Substantia Innominata]]
-- Project from [['Globus Pallidus]] to [['Thalamus]]

@@ -1,0 +1,2 @@
+- Not released by neurons by sensed by Leptin-sensitive neuropeptidergic neurons in the [[Lateral Hypothalamus]]
+- Approximately 60% of the LHA LepRb population co-expresses Nts; conversely, about 30% of LHA Nts neurons co-express LepRb (Leinninger et al, 2011). Interestingly, 95% of this Nts/LepRb population co-localizes with Gal, whereas the proportion of LHA LepRb neurons expressing Gal is only around 20-44% (Laque et al, 2013) (Fig. 1).

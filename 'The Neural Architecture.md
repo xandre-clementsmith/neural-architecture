@@ -1,39 +1,28 @@
-# Functional Systems
-### Sensation
-- [['Sensation]] (Direct Sensation Pathways)
-	- General Exteroception (Extrinsic Sensation)
-	- General Interoception (Intrinsic Sensation)
-	- Special Exteroception (Olfactory, Gustatory)
-	- Special Interoception (Visual, Hearing, Vestibular)
-### Model
-- [['Sensory Models]]
-### Evaluator
-- [['Limbic System?]]
-### Controller
-- [['Plant]]
-	- [['Autonomic Nervous System]] (Motor)
-	- [[Endocrine System]]
-	- Somatic Systems
-		- Cranial
-		- Extra-pyramidal
-		- Pyramidal
-### Plant
-- Efferent Cranial Nerves
-- Efferent [[Peripheral Nervous System]]
-
+See [['Agentic Systems]] for the basic agentic architecture.
+# Functional Nervous Systems
+### Sensation & Model Systems
+Non-Sensory Model Systems
+- [[Memory Nervous System]]
+Sensation-Based Model Systems
+- [['General Exteroceptive System]]
+- [['General Interoceptive System]]
+- Special Exteroception
+	- [[Visual Nervous System]]
+	- [[Auditory Nervous System]]
+	- [[Reflexive Nervous System]] - Vestibular
+- Special Interoception
+	- [[Olfactory Nervous Sytem]]
+	- [[Gustatory Nervous System]]
+### Evaluative Nervous System
+- [['Limbic Nervous System]]
+### Controller & Plant Systems
+- [['Autonomic Nervous System]]
 - [[Endocrine System]]
-- Muscular System
-	- Cardiac
-	- Skeletal
-	- Smooth
+- [[Enteric Nervous System]]
+- [['Somatic Nervous System]]
 
-
-
-![[Pasted image 20240308182222.png]]
-![[Pasted image 20240320225324.png]]
-![[Pasted image 20240211110813.png]]
+![[Pasted image 20250810101716.png]]
+![[Pasted image 20250810101703.png]]
 ![[Pasted image 20240211105716.png]]
-http://larrywswanson.com/wp-content/uploads/2015/06/1993-TINS-poster-reflex.jpg 
-
-Separate System
- - [[Enteric Nervous System]]
+![[Pasted image 20250810101619.png]]
+![[Pasted image 20240211110813.png]]

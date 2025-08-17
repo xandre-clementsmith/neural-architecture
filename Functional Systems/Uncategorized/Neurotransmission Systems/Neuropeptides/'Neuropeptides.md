@@ -1,0 +1,5 @@
+- Dynorphin - Typically coreleased with [[Orexin]]
+- Nociceptin/orphanin FQ
+- Galanin
+- Neurotensin
+-  Islet amyloid polypeptid

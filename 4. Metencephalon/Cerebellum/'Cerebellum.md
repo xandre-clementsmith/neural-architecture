@@ -2,7 +2,7 @@
 ### Afferents
 - [[Superior Cerebellar Peduncle]] (Spinocerebellum)
 	(Sensation?)
-	- Ventral [['Spinocerebellar Tracts]]
+	- Ventral [['Spinocerebellar Tract]]
 	- [['CN V]] Trigeminal via Trigeminothalamic Fibers - Facial
 	(Brainstem Special Exteroceptive Sensation)
 	- [[Superior Colliculus]] via Tectocerebellar Tract
@@ -11,7 +11,7 @@
 	- [['A6 - Locus Coeruleus]] - Noradrenaline
 - [[Middle Cerebellar Peduncle]] (Cerebrocerebellum)
 	- [['Pontine Nuclei]] -> [['Cerebellar Lobes]] (Optional) -> [[Dentate Nucleus]] -> [[Ventrolateral Thalamus]]
-- [[Inferior Cerebellar Peduncle]] 
+- [['Inferior Cerebellar Peduncle]] 
 	(Cerebellar Errors)
 	- [[Inferior Olive]]
 	(General Exteroceptive Sensation - Spinocerebellum)

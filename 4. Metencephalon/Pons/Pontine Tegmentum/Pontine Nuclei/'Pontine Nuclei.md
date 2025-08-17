@@ -1,6 +1,6 @@
 - Ventral/Tectal [['Pons]]
 ### Afferents
-- [[Corticopontine Fibers]] - Cortex and Subcortical Nuclei
+- [[Corticopontine Tract]] - Cortex and Subcortical Nuclei
 - [['(Pontine) Reticular Formation]]
 ### Efferents
 - [[Middle Cerebellar Peduncle]]
