@@ -11,3 +11,6 @@
 	- Emotions: [['Amygdala]]
 	- Autonomic: [['Lateral Zone]] [['Hypothalamus]]
 	- Reward: [[Orbitofrontal Cortex]], [[Nucleus Accumbens]]
+
+Ref:
+- https://psychiatryonline.org/doi/full/10.1176/jnp.23.2.jnp121

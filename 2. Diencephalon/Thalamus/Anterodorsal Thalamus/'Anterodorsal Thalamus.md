@@ -1,4 +1,4 @@
- Alt Name: Anterior Nuclear Group
+ Alt Name: Anterior Nuclear Group, Anterior Thalamus
 - Extended hippocampal formation feedback loop with mammillary inputs and cortical outputs (cingulate, motor, visual)
 - Major component of Papez' circuit
 ### Afferents
@@ -64,8 +64,9 @@ Anterodorsal Nucleus
 - Dorsal Superficial Nucleus
 
 ![[Pasted image 20240211225421.png]]
-
-https://www.frontiersin.org/articles/10.3389/fnsys.2013.00045/full
-https://www.frontiersin.org/articles/10.3389/fnsys.2013.00045/full
-
 ![[Pasted image 20240519123523.png]]
+![[Pasted image 20250830234537.png]]
+
+References:
+- https://www.frontiersin.org/articles/10.3389/fnsys.2013.00045/full
+- https://www.neurology.org/doi/abs/10.1212/01.wnl.0000436078.95856.56

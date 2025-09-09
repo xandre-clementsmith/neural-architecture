@@ -1,0 +1,3 @@
+- Between [[Claustrum]] and [['Insular Cortex]]
+- Dorsal frontal cortex and posterior temporal cortex
+- External Capsule is on other side of Claustrum <- Corticocortico Association Fibers

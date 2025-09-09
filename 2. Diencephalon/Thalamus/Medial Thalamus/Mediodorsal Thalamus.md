@@ -1,4 +1,5 @@
 - Limbic and cortical feedback loop with cerebellar and brainstem inputs
+- Spinothalamic tract AND limbic basal ganglia
 - Components: Medial Mediodorsal Nucleus, Central Mediodorsal Nucleus, Lateral Mediodorsal Nucleus
 - Requires more connectivity fidelity 
 ### Afferents

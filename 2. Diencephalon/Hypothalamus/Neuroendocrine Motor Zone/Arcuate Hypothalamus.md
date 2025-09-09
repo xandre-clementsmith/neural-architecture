@@ -1,12 +1,12 @@
 ### Hypothalamic Afferents
+
 ### Hypothalamic Efferents
-- [[Median Eminence]] -> [[Anterior Pituitary]]
-- CNS
-	- TBD
 ### Afferents
 ### Efferents
+- [[Median Eminence]] -> [[Anterior Pituitary]]
 
-![[Pasted image 20240221201231.png]]
+![[Pasted image 20250819231425.png]]
 
 References:
 - https://pmc.ncbi.nlm.nih.gov/articles/PMC10789173/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC6729527/

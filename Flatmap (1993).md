@@ -1,24 +1,24 @@
 ### [['Spinal Cord]]
 
-| Acronym | Name                           | Reference                                          | Function                                        |
-| ------- | ------------------------------ | -------------------------------------------------- | ----------------------------------------------- |
-| N/A     | Dorsal Horn                    | [[RL I]]-[[RL VI]]                                 | General Sensation                               |
-| N/A     | Marginal Zone                  | [[RL I]]                                           | [['General Interoceptive System]]               |
-| N/A     | Substantia Gelatinosa          | [[RL II]]                                          | [['General Interoceptive System]]               |
-| N/A     | Nucleus Propius                | [[RL III]], [[RL IV]]                              | [['General Exteroceptive System]]               |
-| N/A     | Basal Nucleus                  | [[RL V]], [[RL VI]]                                | [['General Exteroceptive System]]               |
-| LCN     | Lateral Cervical Nucleus       | [[RL VII]]                                         | [['General Exteroceptive System]]               |
-| N/A     | Central Gray                   | [[RL X]]                                           | ?                                               |
-| N/A     | Intermediate Gray              | [[RL VII]]                                         | [[Sympathetic Nervous System]] (Plant)          |
-| N/A     | Caudal Dorsal Nucleus          | [[RL VII]]                                         | [[Cerebellar Nervous System]]                   |
-| N/A     | Dorsal Nucleus                 | [[RL VII]]                                         | [[Cerebellar Nervous System]]                   |
-| CEC     | Central Cervical Nucleus       | [[RL VII]]                                         | [[Cerebellar Nervous System]]                   |
-| N/A     | Intermediomedial Column        | [[RL VII]]                                         | [[Sympathetic Nervous System]] (Plant)          |
-| N/A     | Ventral Horn                   | [[RL VIII]], [[RL IX]]                             | (Plant)                                         |
-| N/A     | Sympathetic Column             | [[Sympathetic Nervous System]]                     | [[Sympathetic Nervous System]] (Plant)          |
-| N/A     | Parasympathetic Column         | [[Parasympathetic Nervous System]]                 | [[Parasympathetic Nervous System]] (Plant)      |
-| N/A     | Somatomotor Column             | [[Corticospinal Tract]] to [[RL VIII]], [[RL IX]] | [['Somatic Nervous System]] (Plant)              |
-| XI      | Nucleus Accessory Spinal Nerve | [[Spinal Accessory Nucleus]]                       | Sternocleidomastoid & Trapezius Muscles (Plant) |
+| Acronym | Name                           | Reference                                         | Function                                        |
+| ------- | ------------------------------ | ------------------------------------------------- | ----------------------------------------------- |
+| N/A     | Dorsal Horn                    | [[RL I]]-[[RL VI]]                                | General Sensation                               |
+| N/A     | Marginal Zone                  | [[RL I]]                                          | [['General Interoceptive System]]               |
+| N/A     | Substantia Gelatinosa          | [[RL II]]                                         | [['General Interoceptive System]]               |
+| N/A     | Nucleus Propius                | [[RL III]], [[RL IV]]                             | [['General Exteroceptive System]]               |
+| N/A     | Basal Nucleus                  | [[RL V]], [[RL VI]]                               | [['General Exteroceptive System]]               |
+| LCN     | Lateral Cervical Nucleus       | [[RL VII]]                                        | [['General Exteroceptive System]]               |
+| N/A     | Central Gray                   | [[RL X]]                                          | ?                                               |
+| N/A     | Intermediate Gray              | [[RL VII]]                                        | [[Sympathetic Nervous System]] (Plant)          |
+| N/A     | Caudal Dorsal Nucleus          | [[RL VII]]                                        | [[Cerebellar Nervous System]]                   |
+| N/A     | Dorsal Nucleus                 | [[RL VII]]                                        | [[Cerebellar Nervous System]]                   |
+| CEC     | Central Cervical Nucleus       | [[RL VII]]                                        | [[Cerebellar Nervous System]]                   |
+| N/A     | Intermediomedial Column        | [[RL VII]]                                        | [[Sympathetic Nervous System]] (Plant)          |
+| N/A     | Ventral Horn                   | [[RL VIII]], [[RL IX]]                            | (Plant)                                         |
+| N/A     | Sympathetic Column             | [[Sympathetic Nervous System]]                    | [[Sympathetic Nervous System]] (Plant)          |
+| N/A     | Parasympathetic Column         | [[Parasympathetic Nervous System]]                | [[Parasympathetic Nervous System]] (Plant)      |
+| N/A     | Somatomotor Column             | [[Corticospinal Tract]] to [[RL VIII]], [[RL IX]] | [['Somatic Nervous System]] (Plant)             |
+| XI      | Nucleus Accessory Spinal Nerve | [[Spinal Accessory Nucleus]]                      | Sternocleidomastoid & Trapezius Muscles (Plant) |
 ### [['Medulla Oblongata]]
 
 | Acronym    | Name                             | Reference                          | Function                                                             |
@@ -159,7 +159,7 @@ Very tentative functions - Need to return after mapping is matured
 | N/A     | Midline                                       | [['Midline Nuclei, Thalamus]]                                                                  | [['Limbic Nervous System]]        |
 | RE      | Nucleus Reuniens                              | [['Midline Nuclei, Thalamus]] & [['Periventricular Formation, Thalamus]] (Reuniens Nucleus)    | [['Limbic Nervous System]]        |
 | SMT     | Submedial Nucleus Thalamus                    | [['Midline Nuclei, Thalamus]]                                                                  | [['Limbic Nervous System]]        |
-| SPF     | Subparafascicular Nucleus                     | [[Subparafascicular Nucleus]]                                                                  | [[Dopamine (DA)]]                 |
+| SPF     | Subparafascicular Nucleus                     | [[2. Diencephalon/Thalamus/Intralaminar Formation/A11]]                                                                  | [[Dopamine (DA)]]                 |
 | STN     | Subthalamic Nucleus                           | [['Subthalamic Nuclei]]                                                                        | [[DELETE - BASAL GANGLIA]]                |
 | N/A     | Zona Incerta                                  | [[Zona Incerta]]                                                                               | [['Limbic Nervous System]]        |
 | SCO     | Subcommissural Organ                          | [[Subcommissural Organ]]                                                                       | ?                                 |

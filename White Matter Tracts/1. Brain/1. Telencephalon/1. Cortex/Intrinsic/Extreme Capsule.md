@@ -1,2 +1,0 @@
-- Between [[Claustrum]] and [['Insular Cortex]]
-- External Capsule is on other side of Claustrum <- Corticocortico Association Fibers

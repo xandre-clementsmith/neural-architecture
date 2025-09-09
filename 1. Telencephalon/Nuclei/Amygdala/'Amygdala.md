@@ -43,7 +43,7 @@ Centromedial
 All Nuclei
 - [[Medial Forebrain Bundle]]
 	- [[Mediodorsal Thalamus]]
-	- Parafascicular Thalamus
+	- [['Intralaminar Formation]], Parafascicular Thalamus
 	- [[Medial Geniculate Nucleus]]
 	- [[A10 - Ventral Tegmental Area]]
 	- [[Periaqueductal Gray]]
@@ -149,7 +149,7 @@ Central
 	- [['Lateral Zone]]
 	- [['Septal Nuclei]]
 - [[Medial Forebrain Bundle]]
-	- Parafascicular
+	- [['Intralaminar Formation]], Parafascicular
 	- [[A10 - Ventral Tegmental Area]]
 	- [[A9 - Substantia Nigra pars compacta]]
 	- Peri-peduncular Nucleus

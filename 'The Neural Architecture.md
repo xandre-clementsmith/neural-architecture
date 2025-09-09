@@ -2,7 +2,7 @@ See [['Agentic Systems]] for the basic agentic architecture.
 # Functional Nervous Systems
 ### Sensation & Model Systems
 Non-Sensory Model Systems
-- [[Memory Nervous System]]
+- [[Declarative Memory Nervous System]]
 Sensation-Based Model Systems
 - [['General Exteroceptive System]]
 - [['General Interoceptive System]]
@@ -21,8 +21,11 @@ Sensation-Based Model Systems
 - [[Enteric Nervous System]]
 - [['Somatic Nervous System]]
 
+
 ![[Pasted image 20250810101716.png]]
 ![[Pasted image 20250810101703.png]]
 ![[Pasted image 20240211105716.png]]
 ![[Pasted image 20250810101619.png]]
 ![[Pasted image 20240211110813.png]]
+![[Pasted image 20250906141553.png]]
+Claus Lunau

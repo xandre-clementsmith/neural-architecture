@@ -1,4 +1,3 @@
 - Subependymal nuclei (periventricular nucleus)
 - For paraventricular see [[Dorsal Component of Midline Nuclei]]
 - For info, see [['Midline Nuclei, Thalamus]] for now
-- 

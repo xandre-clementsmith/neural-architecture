@@ -1,1 +1,10 @@
 Components: Centromedian Nucleus (CM), Parafascicular Nucleus (PF), Subparafascicular Nucleus (SPf)
+
+CM: [[Middle Cerebellar Peduncle]], [[Superior Cerebellar Peduncle]], Brainstem, [['Cerebellar Lobes]], TMPTP, PPTP, OTP, PRMTP, pre-[[Corticospinal Tract]], [['Amygdala]] (superficial), crusll, and Prefrontal Thalamic Projections
+![[Pasted image 20250831000516.png]]
+
+Subparafascicular: PTPs prefrontal thalamic projection site in oxford thalamus atlas, SCP superior cerebellar peduncle, ICP inferior cerebellar peduncle, IOFF inferior occipito frontal fasciculus, aIOFFf anterior inferior occipito frontal fasciculus fragment, pIOFFf posterior inferior occipitofrontal fasciculus fragment, MCP medial cerebellar peduncle, CPCF cortico ponto cerebellar fibers, CSF corticospinal fibers, ILF inferior longitudinal fasciculus, HEC hippocampus entorhinal cortex, BS brainstem, UF uncinate fasciculus, SPL‑5M superior parietal lobule 5M, CB callosal body, SS sagittal stratum (includes ILF & IFOF), MGB medial geniculate body, HS hippocampus subiculum, Ag amygdala laterobasal group, OR optic radiation, FC fusiform cortex.
+![[Pasted image 20250831000934.png]]
+
+Subparafascicular: The sPf white matter fiber shows a slight crossover with the STPs and PPTPs within the thalamus. The subcortical projections include caudate, putamen, and pallidum. sPF connections include the projections from the brainstem and CST. The cortical projections via CST and SLF enter the SSC, PSC, PMC, IC, PrG, PoG, superior parietal lobule 7PR, and inferior parietal lobule. Intrahemispheric pathway projected to the body of corpus callosum. STPs sensory thalamic projection site from oxford thalamus atlas, PPTPs posterior parietal thalamic projection site from oxford thalamus atlas, CST cortico spinal tract, SLF superior longitudinal fasciculus, SSC secondary somatosensory cortex, PSC primary somatosensory cortex, PMC primary motor cortex, IC insular cortex, PrG precentral gyrus, PoG postcentral gyrus. 
+![[Pasted image 20250831001026.png]]

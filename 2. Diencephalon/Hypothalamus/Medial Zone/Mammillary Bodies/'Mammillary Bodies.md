@@ -40,6 +40,8 @@ LMN
 Diffuse
 - [['Midline Nuclei, Thalamus]]
 - [[Periaqueductal Gray]]
+
+![[Pasted image 20250820224803.png]]
 # Function
 ### Neurotransmission
 
@@ -47,3 +49,4 @@ References:
 - https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.903210208
 - https://www.sciencedirect.com/science/article/abs/pii/S0079612315000400
 - https://www.sciencedirect.com/science/article/abs/pii/0361923083900552
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC10335970/

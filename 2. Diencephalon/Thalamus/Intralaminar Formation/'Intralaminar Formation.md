@@ -1,9 +1,7 @@
-- Limbic and motor pathways
-
-- Central Medial Nucleus directs limbic cortex, hypothalamus, and brainstem, to limbic cortex, striatum, and amygdala
-- Central Lateral Nucleus directs cortex and midbrain to motor cortex and striatum
+- Likely component/nuclei specific, rather than centralized function
+- Significant connectivity between brainstem and cortex
 ### Afferents
-Central Medial Nucleus
+Central Medial Nucleus, Anterior
 - Medial Agranular Cortex - Rats
 - Medial [[Orbitofrontal Cortex]]
 
@@ -12,7 +10,7 @@ Central Medial Nucleus
 - [['Hypothalamus]], [['Lateral Thalamus]]
 - [['Mesencephalon]] - Diffusely
 
-Central Lateral Nucleus
+Central Lateral Nucleus, Anterior
 - Medial Agranular Cortex - Rats
 - [[Primary Somatosensory Cortex (S1)]]
 - [[Motor Cortex (M1)]]
@@ -23,7 +21,7 @@ Central Lateral Nucleus
 - [['(Pontine) Reticular Formation]]
 - [['Mesencephalon]] - Diffusely
 ### Efferents
-Central Medial Nucleus
+Central Medial Nucleus, Anterior
 - Medial Agranular Cortex - Rats
 - [[Anterior Cingulate Cortex]]
 - Dorsolateral and Ventrolateral [[Orbitofrontal Cortex]]
@@ -33,14 +31,12 @@ Central Medial Nucleus
 - [[Nucleus Accumbens]], Core
 - [['Amygdala]], Basolateral
 
-Central Lateral Nucleus
+Central Lateral Nucleus, Anterior
 - Medial Agranular Cortex - Rats
 - [[Motor Cortex (M1)]]
 
 - Dorsal [['Striatum]] - [[Caudate Nucleus]] and [[Putamen]]
 - [[Anterior Cingulate Cortex]], Core
-
-
 
 - Only displaying dense connectivity, not moderate or low
 - Currently limited to Central Medial (CeM) and Central Lateral (CeL) of Anterior Group
@@ -50,6 +46,8 @@ Central Lateral Nucleus
 - Central Components: Components: Centromedian Nucleus (CM), Parafascicular Nucleus (PF), Subparafascicular Nucleus (SPf)
 - Posterior Components: Components: Limitans Nucleus (Lim), Suprageniculate Nucleus (SGe)
 
-https://www.frontiersin.org/articles/10.3389/fnbeh.2022.964644/full - Focused on Anterior Group
-
 ![[Pasted image 20240519121957.png]]
+
+Ref:
+- https://www.nature.com/articles/s41598-023-38967-0
+- https://www.frontiersin.org/articles/10.3389/fnbeh.2022.964644/full
