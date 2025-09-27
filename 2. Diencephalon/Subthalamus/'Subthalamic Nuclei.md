@@ -19,7 +19,7 @@
 - [[Substantia Nigra pars reticular]]
 	- To Oculomotor
 
-- [[Ventral Pallidum]]
+- [[1. Telencephalon/Nuclei/Basal Ganglia/Pallidal Structures/Ventral Pallidum]]
 
 - [[Pedunculopontine Nucleus]] - ACh
 - [[A9 - Substantia Nigra pars compacta]] - DA

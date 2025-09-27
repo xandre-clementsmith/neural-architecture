@@ -1,4 +1,6 @@
-- Highly connected component of Ascending Reticular Activating System
+- Final nucleus of continuum from [[Substantia Nigra pars reticular]] through [[Pedunculopontine Nucleus]]
+- Limbic component to [[Pedunculopontine Nucleus]] motor
+- Part of extended [[Basal Ganglia Nervous System]]
 ### Afferents
 - Frontal Cortex
 - [[Diagonal Band of Broca]]

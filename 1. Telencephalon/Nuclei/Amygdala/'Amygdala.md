@@ -1,10 +1,4 @@
-# Overview
-- Swanson and Petrovich propose the following functional separation:
-	- Cortical - Frontotemporal
-	- Striatal - Autonomic
-	- Pallidal - Olfactory / A. Olfactory
 # Structure
-- Heavily integrated with olfactory areas - not included here (BA, NLOT, TR). However, piriform amygdalar area is included.
 ### Cortical
 Basolateral - Extension of [[Claustrum]]
 - [[Lateral Amygdala]]
@@ -30,7 +24,7 @@ Centromedial
 - [[Ventral Amygdalofugal Pathway]]
 	- [['Hypothalamus]] & [['Septal Nuclei]] & [[DELETE - BASAL GANGLIA]]
 - [[Lateral Olfactory Tract]]
-	- [['Insular Cortex]], [[Olfactory Bulb]], [['Substantia Innominata]]
+	- [['Insular Cortex]], [[Olfactory Bulb]], [[DELETE - VENTRAL PALLIDUM]]
 - [[Cingulum Bundle]]
 	- Ambiens gyrus, [[Parahippocampal Cortex]], [[Basal Forebrain]]
 - Amygdalo-Hippocampal Bundle
@@ -75,7 +69,7 @@ Cortical
 	- [[Bed Nucleus of the Stria Terminalis]] (Interstitial)
 	- [[Ventromedial Hypothalamus]]
 	- [['Lateral Zone]]
-	- [['Substantia Innominata]]
+	- [[DELETE - VENTRAL PALLIDUM]]
 	- [[Nucleus of the Diagonal Band]] - [['Septal Nuclei]]
 - [[Lateral Olfactory Tract]]
 	- [[Olfactory Bulb]]
@@ -89,7 +83,7 @@ Central
 	- [[Bed Nucleus of the Stria Terminalis]] (Interstitial)
 	- [[Ventromedial Hypothalamus]]
 	- [['Lateral Zone]]
-	- [['Substantia Innominata]]
+	- [[Ventral Pallidum]]
 	- [[Nucleus of the Diagonal Band]] - [['Septal Nuclei]]
 Medial
 - [[Subiculum]]
@@ -97,7 +91,7 @@ Medial
 	- [[Bed Nucleus of the Stria Terminalis]] (Interstitial)
 	- [[Ventromedial Hypothalamus]]
 	- [['Lateral Zone]]
-	- [['Substantia Innominata]]
+	- [[Ventral Pallidum]]
 	- [[Nucleus of the Diagonal Band]] - [['Septal Nuclei]]
 - [[Lateral Olfactory Tract]]
 	- [[Olfactory Bulb]]
@@ -142,7 +136,7 @@ Cortical
 
 Central
 - [[Lateral Olfactory Tract]]
-	- [['Substantia Innominata]]
+	- [[Ventral Pallidum]]
 - [[Nucleus of the Diagonal Band]], Horizontal & Vertical
 - [[Stria Terminalis]] / [[Ventral Amygdalofugal Pathway]]
 	- [[Bed Nucleus of the Stria Terminalis]] (Interstitial)

@@ -2,7 +2,7 @@
 - Nucleus Reuniens directs cortical, hippocampal, hypothalamic, and brainstem outputs to limbic and hippocampal/temporal/default regions
 - Paraventricular Nucleus directs some cortical, hypothalamus, subthalamus, and brainstem to limbic regions, such as ventral striatum, amygdala, and bed nucleus
 ### Afferents
-Nucleus Reuniens
+Nucleus Reuniens (Ventral Midline)
 - [[Medial Prefrontal Cortex]]
 - [[Orbitofrontal Cortex]], Medial
 
@@ -17,7 +17,7 @@ Nucleus Reuniens
 - [[Periaqueductal Gray]]
 - [['(Pontine) Reticular Formation]]
 
-Paraventricular Nucleus
+Paraventricular Nucleus (Dorsal Midline)
 - [[Medial Prefrontal Cortex]]
 
 - [[Subiculum]]
@@ -54,9 +54,9 @@ Paraventricular Nucleus
 - [[Bed Nucleus of the Stria Terminalis]]
 - [[Subiculum]]
 ### Organization
-- Components: Paratenial nucleus, Paraventricular Nucleus
-- Components: Periventricular Nucleus
-- Components: Reuniens Nucleus, Submedius Nucleus
+- Periventricular: Periventricular Nucleus
+- Dorsal Midline: Paratenial nucleus, Paraventricular Nucleus
+- Ventral Midline: Reuniens Nucleus, Submedius Nucleus
 
 ![[Pasted image 20240211225120.png]]
 ![[Pasted image 20240519120001.png]]

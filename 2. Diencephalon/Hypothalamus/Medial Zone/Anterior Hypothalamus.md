@@ -34,7 +34,7 @@ https://sci-hub.st/https://doi.org/10.1159/000006642 - Hamster
 - [[Central Amygdala]]
 - [[Cortical Amygdalar Area]]
 
-- [[Ventral Pallidum]]
+- [[1. Telencephalon/Nuclei/Basal Ganglia/Pallidal Structures/Ventral Pallidum]]
 
 - Amygdalohippocampal Area
 - [[Subiculum]]

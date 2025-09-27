@@ -1,6 +1,7 @@
 - Landmark and directional navigation
 - Function and connectivity incomplete; not finished
-
+- Connectivity with Papez Circuit
+- [[Large-Scale Brain Networks]]
 ### Afferents
 - [['Habenula]]
 - [[Interpeduncular Nucleus]]

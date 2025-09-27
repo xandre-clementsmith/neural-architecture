@@ -19,8 +19,8 @@ Split into medial and lateral components
 ### Afferents
 - [[Mesencephalic Reticular Formation]] - Minor Projections
 	- [[Periaqueductal Gray]] 
-	- [[Cuneiform Nucleus]] ([[Mesencephalic Locomotor Region?]])
-	- [[Pedunculopontine Nucleus]] ([[Mesencephalic Locomotor Region?]])
+	- [[Cuneiform Nucleus]] ([[Mesencephalic Locomotor Region]])
+	- [[Pedunculopontine Nucleus]] ([[Mesencephalic Locomotor Region]])
 - [['(Pontine) Reticular Formation]] - Oralis and Caudalis
 	- Barrington's Nucleus
 	- Subcoeruleus Nucleus

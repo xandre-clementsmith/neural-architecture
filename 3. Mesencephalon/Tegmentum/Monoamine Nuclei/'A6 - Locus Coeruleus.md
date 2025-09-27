@@ -1,4 +1,5 @@
 - [[Norepinephrine]] center
+- [[Sympathetic Nervous System]] Controller, through descending tracts to [['Spinal Cord]] and ascending tracts as part of [[Ascending Reticular Activating System]]
 - Exerts powerful modulation of astrocytes, pericytes, and microglia
 - [[A6 - Locus Coeruleus]]
 - Extensive descending projections to spinal cord

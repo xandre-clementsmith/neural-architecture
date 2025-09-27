@@ -3,25 +3,42 @@
 - Minimal overlap with Dorsal Raphe Nuclei
 - Primarily targets A13 of ZI with only some VTA
 ### Afferents
-Forebrain
-- [[Medial Prefrontal Cortex]]
-- [[Anterior Cingulate Cortex]]
-- [[Bed Nucleus of the Stria Terminalis]]
-- [[Diagonal Band of Broca]]
-- [['Septal Nuclei]]
-- [[Ventral Pallidum]]
-- [[Median Preoptic Hypothalamus]], Lateral Preoptic
-
-Brainstem
-- [[A10 - Ventral Tegmental Area]]
+Cortex
+- [[Somatosensory Association Cortex]]
+- [[Motor Cortex (M1)]] <
+- [[Retrosplenial Cortex]]
+- [['Amygdala]] <<
+Striatum
+- [[Caudate Nucleus]]
+- [[Putamen]]
+- [[Nucleus Accumbens]] <<
+Pallidum
+- [[Ventral Pallidum]] <<
+- [['Globus Pallidus]] <
+Thalamus
+- [[Medial Geniculate Nucleus]] / [[Lateral Geniculate Nucleus]]
+- [[Mediodorsal Thalamus]]
+- [[Lateral Habenula]]
+Hypothalamus
+- [[Periventricular Nucleus, Hypothalamus]]
+- [['Hypothalamus]], Medial <
+- [[Lateral Hypothalamus]]
+- [[Zona Incerta]] <
+Mesencephalon
+- [[Superior Colliculus]] <
+- [[Inferior Colliculus]] <<
+- [[Mesencephalic Reticular Formation]] <
+- [[Periaqueductal Gray]] <
 - [[A9 - Substantia Nigra pars compacta]]
-- [[B6 - Dorsal Raphe Nuclei]]
-- Supralemniscal Nucleus (B9)
-- Raphe Nuclei, Caudal
-- [[Periaqueductal Gray]]
-- [[Laterodorsal Tegmental Nucleus]]
-- [['A6 - Locus Coeruleus]]
-- Cranial Nerve Nuclei
+- [[Pedunculopontine Nucleus]] <
+- [[Interpeduncular Nucleus]] <
+- [[B6 - Dorsal Raphe Nuclei]] <
+Hindbrain
+- [['Pons]], Sensory
+- [['Pons]], Motor <<
+- [['Pons]], Behavioral <
+- [['Medulla Oblongata]], Sensory & Behavioral <<
+
 ### Efferents
 Cortical
 - [[Perirhinal Cortex]]
@@ -53,3 +70,4 @@ Brainstem
 
 ![[Pasted image 20240525101439.png]]
 https://link.springer.com/chapter/10.1007/978-3-7643-8561-3_3
+https://www.cell.com/neuron/fulltext/S0896-6273(14)00583-2

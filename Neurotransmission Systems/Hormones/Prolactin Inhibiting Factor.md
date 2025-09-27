@@ -1,3 +1,0 @@
-- Controls [[Prolactin]]
-- Likely triggered by [[A12]]
-- Dopamine is distributed in the medial regions of the [[Median Eminence]] rather than the lateral regions

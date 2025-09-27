@@ -1,4 +1,4 @@
-- Tract of the [['Limbic Nervous System]]
+- Tract of the [[Affective Nervous System]]
 ### Regions
 These are extremely tentative
 [[Lateral Hypothalamus]]
@@ -17,7 +17,7 @@ Limbic
 - [['Septal Nuclei]]
 - [['Amygdala]] / [[Bed Nucleus of the Stria Terminalis]]
   Cholinergic: [[Diagonal Band of Broca]]
-- [['Substantia Innominata]]
+- [[DELETE - VENTRAL PALLIDUM]]
 Brainstem
 - [[A10 - Ventral Tegmental Area]]
 - [[A9 - Substantia Nigra pars compacta]]

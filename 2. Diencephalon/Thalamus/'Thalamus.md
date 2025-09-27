@@ -8,8 +8,8 @@
 	- Sensory Thalamus
 		- [[Ventroposterior Thalamus]]: [['General Exteroceptive System]]
 		- [['Metathalamus]]: [[Auditory Nervous System]] (Lateral Geniculate), [[Visual Nervous System]] (Medial Geniculate)
-- [[Mediodorsal Thalamus]]: [['Limbic Nervous System]], [['General Interoceptive System]]
-- [['Midline Nuclei, Thalamus]] & [['Periventricular Formation, Thalamus]]: [[Declarative Memory Nervous System]], [['Limbic Nervous System]]
+- [[Mediodorsal Thalamus]]: [[Affective Nervous System]], [['General Interoceptive System]]
+- [['Midline Nuclei, Thalamus]] & [['Periventricular Formation, Thalamus]]: [[Declarative Memory Nervous System]], [[Affective Nervous System]]
 - [[Pulvinar, Thalamus]]: [[Visual Nervous System]] - Includes visual integration with other regions
 
 Principle of Reciprocity (for Core Cells): Every cortical area returns fibers to the thalamic nucleus that provides its dominant thalamic input

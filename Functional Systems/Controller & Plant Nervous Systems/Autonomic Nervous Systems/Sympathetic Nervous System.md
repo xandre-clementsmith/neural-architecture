@@ -8,11 +8,12 @@
 3. [[Lateral Spinothalamic Tract]]
 	- Projects to [[Parasympathetic Nervous System]] via [[Dorsal Motor Nucleus of the Vagus Nerve]] (need to confirm) and [['Nucleus of the Solitary Tract]]
 # Model
-1. [[Parabrachial Nucleus]] <- Integration with [[Parasympathetic Nervous System]]
+1. [['Nucleus of the Solitary Tract]]
+2. [[Parabrachial Nucleus]] <- Integration with [[Parasympathetic Nervous System]]
 # Evaluator
 - Either [[Parabrachial Nucleus]] or [[Periaqueductal Gray]] <- Conflicting information on localizing pleasure and pain across these two regions
 - ? [[A1]] and [[A2]] direct to Hypothalamus (Not certain if neurotransmission is evaluator or controller)
-- ? [['Limbic Nervous System]] - [['Amygdala]], [[Hippocampus Proper]], [['Septal Nuclei]], [[Cingulate Cortex]], [[Orbitofrontal Cortex]], [['Insular Cortex]], [[Perirhinal Cortex]]/[['Entorhinal Cortex]]
+- ? [[Affective Nervous System]] - [['Amygdala]], [[Hippocampus Proper]], [['Septal Nuclei]], [[Cingulate Cortex]], [[Orbitofrontal Cortex]], [['Insular Cortex]], [[Perirhinal Cortex]]/[['Entorhinal Cortex]]
 - ? May include components of hypothalamus as well?
 # Controller
 Ordered in rough order, but not necessarily sequential (each can receive direct from RL I and project directly back to RL I)

@@ -1,5 +1,6 @@
 - Integration site of homeostatic information - multimodal integration role unknown
-- Visceral relay from [['Nucleus of the Solitary Tract]]
+- Visceral/parasympathetic relay from [['Nucleus of the Solitary Tract]]
+- Sympathetic from [[Lateral Spinothalamic Tract]]
 - Surrounds [[Superior Cerebellar Peduncle]]
 - Extends to [[Periaqueductal Gray]]
 - Taste, cardiovascular function, respiration, osmoregulation, thermoregulation, immune activation (inflammation), glucose balance, salt balance, salivation, gastrointestinal activity

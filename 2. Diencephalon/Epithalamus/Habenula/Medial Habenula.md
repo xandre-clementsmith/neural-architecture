@@ -2,11 +2,11 @@
 ### Afferents
 - [['Septal Nuclei]] (Triangular Septal Nucleus, Posterior Septum)
 	- Terminate as cholinergic or substance P neurons
+- [[Nucleus of the Diagonal Band]]
 - [[A10 - Ventral Tegmental Area]]
 - Raphe Nuclei (Mesencephalic)
 - [['A6 - Locus Coeruleus]]
 - Superior Cervical Ganglia
-- Nucleus of Diagonal band
 ### Efferents
 - [[Interpeduncular Nucleus]] - Ach, Substance P, and Glutamate
 - Pineal Gland?

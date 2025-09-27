@@ -1,6 +1,6 @@
 - Alt Names: Solitary Nucleus, NTS, Nucleus Tractus Solitarius
 - Gustatory, Vascular, and Visceral Sensory Integration Nuclei
-- Afferents from regions innervated by parasympathetic ANS
+- Consolidated parasympathetic nuclei
 - Caudal: Cardio-Respiratory
 - Rostral: Taste (Gustatory Nucleus)
 ### Afferents

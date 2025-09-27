@@ -32,7 +32,7 @@ Lateral
 Descending [[Medial Forebrain Bundle]]
 - Infralimbic Area
 - [[Bed Nucleus of the Stria Terminalis]]
-- [['Substantia Innominata]]
+- [[DELETE - VENTRAL PALLIDUM]]
 - [[Subfornical Organ]]
 Ascending [[Medial Forebrain Bundle]]
 - [['Nucleus of the Solitary Tract]]

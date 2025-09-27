@@ -1,0 +1,4 @@
+- Results in the release of cortisol and androgens by the zona fasciculata and zona reticularis respectively
+- Corticotropin-Releasing Hormone -> Adrenocorticotropic Hromone -> Stimulates adrenal gland
+- Localized to [[Paraventricular Hypothalamus]], Parvicellular
+- Sometimes found in same vesicles as [[Vasopressin]]

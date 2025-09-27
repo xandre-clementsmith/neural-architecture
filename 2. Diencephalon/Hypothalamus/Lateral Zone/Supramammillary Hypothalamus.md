@@ -33,7 +33,7 @@
 - [['Entorhinal Cortex]]
 - [[Hippocampus Proper]]
 - [['Amygdala]]
-- [['Substantia Innominata]]
+- [[DELETE - VENTRAL PALLIDUM]]
 - [[Mediodorsal Thalamus]]
 - [['Anterodorsal Thalamus]]
 - Centromedial Thalamus

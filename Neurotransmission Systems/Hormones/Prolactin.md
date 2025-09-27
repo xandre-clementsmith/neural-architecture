@@ -1,3 +1,0 @@
-- Inhibited by [[Prolactin Inhibiting Factor]], as central control mecanism
-- Milk production, decreased sex hormones, as well as effect in eating, ovulation, and immune function
-- Prolactin Inhibiting Factor is hard to separate out from luteinizing hormone

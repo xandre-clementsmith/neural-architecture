@@ -1,0 +1,4 @@
+- [[Paraventricular Hypothalamus]] and [[Supraoptic Nucleus, Hypothalamus]]
+- Water balance via kidney control
+- Direct vasoconstriction to maintain blood pressure
+- Contraction of smooth muscles in the gastrointestinal tract

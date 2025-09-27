@@ -20,7 +20,7 @@ Below are unconfirmed from NTS
 2. [[Parabrachial Nucleus]] - Integrates [[Sympathetic Nervous System]] from [[RL I]]
 # Evaluator
 - Either [[Parabrachial Nucleus]] or [[Periaqueductal Gray]] <- Conflicting information on localizing pleasure and pain across these two regions
-- [['Limbic Nervous System]] - [['Amygdala]], [[Hippocampus Proper]], [['Septal Nuclei]], [[Cingulate Cortex]], [[Orbitofrontal Cortex]], [['Insular Cortex]], [[Perirhinal Cortex]]/[['Entorhinal Cortex]]
+- [[Affective Nervous System]]
 - May include components of hypothalamus as well?
 # Controller
 1. Control Hubs

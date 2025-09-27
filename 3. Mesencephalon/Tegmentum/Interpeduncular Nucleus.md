@@ -1,5 +1,5 @@
 - Lies in between the cerebral peduncles
-- Relays habenula to dorsal tegmental nucleus, PAG, and raphe
+- Relays medial habenula to dorsal tegmental nucleus, PAG, and raphe
 - Broad brain-wide inhibitory affects
 ### Afferents
 - [[Medial Habenula]] - Primary Input

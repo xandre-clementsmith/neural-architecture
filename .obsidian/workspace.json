@@ -8,49 +8,62 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1d42d7638c5633cf",
+            "id": "a4599b471438eef8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Diencephalon/Pituitary Gland/Anterior Pituitary.md",
+                "file": "Functional Systems/Evaluator Nervous System/Affective Nervous System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anterior Pituitary"
+              "title": "Affective Nervous System"
             }
           },
           {
-            "id": "4412e947d5f47120",
+            "id": "9d69179662dc2bcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flatmap (1993).md",
+                "file": "2. Diencephalon/Epithalamus/Habenula/Lateral Habenula.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flatmap (1993)"
+              "title": "Lateral Habenula"
             }
           },
           {
-            "id": "021e83638b6af66d",
+            "id": "7a8e15aec5b187ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neurotransmission Systems/Hormones/Thyroid-Stimulating Hormone.md",
+                "file": "2. Diencephalon/Hypothalamus/Lateral Zone/Lateral Hypothalamus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thyroid-Stimulating Hormone"
+              "title": "Lateral Hypothalamus"
+            }
+          },
+          {
+            "id": "521bb6c98ea25133",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Mesencephalon/Tegmentum/Periaqueductal Gray.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Periaqueductal Gray"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "arcuate",
+                "query": "periaq",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +116,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -190,53 +204,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4412e947d5f47120",
+  "active": "a4599b471438eef8",
   "lastOpenFiles": [
-    "'The Neural Architecture.md",
-    "'Agentic Systems.md",
-    "README.md",
-    "Neurotransmission Systems/Hormones/Prolactin Inhibiting Factor.md",
-    "Neurotransmission Systems/Hormones/Prolactin.md",
-    "2. Diencephalon/Hypothalamus/Neuroendocrine Motor Zone/A12.md",
-    "2. Diencephalon/Pituitary Gland/Anterior Pituitary.md",
-    "Neurotransmission Systems/Hormones/Thyroid-Stimulating Hormone.md",
-    "Neurotransmission Systems/Monoamines/Dopamine (DA).md",
-    "2. Diencephalon/Hypothalamus/'Hypothalamus.md",
-    "Neurotransmission Systems/Hormones/Luteinizing Hormone.md",
-    "z_png/Pasted image 20250906224859.png",
-    "Functional Systems/Evaluator Nervous System/'Limbic Nervous System.md",
-    "Flatmap (1993).md",
-    "Functional Systems/Multi-Role Nervous Systems/Basal Ganglia Nervous System.md",
-    "Tools.md",
+    "3. Mesencephalon/Tegmentum/Periaqueductal Gray.md",
+    "3. Mesencephalon/Tegmentum/Monoamine Nuclei/'A6 - Locus Coeruleus.md",
+    "2. Diencephalon/Hypothalamus/Lateral Zone/Lateral Hypothalamus.md",
+    "1. Telencephalon/Nuclei/Amygdala/'Amygdala.md",
+    "Functional Systems/Evaluator Nervous System/Affective Nervous System.md",
+    "1. Telencephalon/Nuclei/Basal Ganglia/Striatum/Ventral Striatum/Nucleus Accumbens.md",
+    "2. Diencephalon/Epithalamus/Habenula/Lateral Habenula.md",
+    "z_png/Pasted image 20250924232934.png",
+    "Neurotransmission/Monoamines/Serotonin (5-HT).md",
+    "3. Mesencephalon/Tegmentum/Monoamine Nuclei/B6 - Dorsal Raphe Nuclei.md",
+    "5. Myelencephalon/Medulla Oblongata/Nucleus of the Solitary Tract/'Nucleus of the Solitary Tract.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Pedunculopontine Nucleus.md",
+    "z_png/Pasted image 20250926155507.png",
+    "3. Mesencephalon/Tegmentum/Monoamine Nuclei/A10 - Ventral Tegmental Area.md",
+    "z_png/Pasted image 20250926154339.png",
+    "z_png/Pasted image 20250926154330.png",
+    "z_png/Pasted image 20250924232950.png",
     "Misc.md",
-    "1. Telencephalon/Cortex/Temporal Lobe/Medial Temporal Lobe/Parahippocampal Gyrus/'Piriform Cortex.md",
-    "z_png/Pasted image 20250906141553.png",
-    "z_png/Pasted image 20250906083604.png",
-    "Neurotransmission Systems/Hormones/Follicle-Stimuating Hormone.md",
-    "Neurotransmission Systems/Hormones/Corticotropin-Releasing Hormone.md",
-    "2. Diencephalon/Hypothalamus/Neuroendocrine Motor Zone/Arcuate Hypothalamus.md",
-    "Neurotransmission Systems/Hormones/Testosterone.md",
-    "z_png/Pasted image 20250906090301.png",
-    "z_png/Pasted image 20250906083607.png",
-    "z_png/Pasted image 20250904214141.png",
-    "2. Diencephalon/Hypothalamus/Periventricular Region/Tuberomammillary Hypothalamus.md",
-    "2. Diencephalon/Hypothalamus/Visceromotor Network/Dorsomedial Hypothalamus.md",
-    "z_png/Pasted image 20250904224728.png",
-    "2. Diencephalon/Hypothalamus/Periventricular Region/Suprachiasmatic Hypothalamus.md",
-    "z_png/Pasted image 20250904224723.png",
-    "z_png/Pasted image 20250904221455.png",
-    "5. Myelencephalon/Medulla Oblongata/Nucleus Paragigantocellularis.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Parabrachial Nucleus.md",
-    "z_png/Pasted image 20250904214222.png",
+    "Flatmap (1993).md",
+    "'The Neural Architecture.md",
+    "Functional Systems/Controller & Plant Nervous Systems/Somatomotor Nervous Systems/Somatomotor Nervous System.md",
+    "'Agentic Systems.md",
+    "z_png/Pasted image 20250918223215.png",
+    "Functional Systems/Large-Scale Brain Networks.md",
+    "Functional Systems/Uncategorized/Large-Scale Brain Networks/Salience Network.md",
+    "Functional Systems/Controller & Plant Nervous Systems/Enteric Nervous System.md",
+    "Functional Systems/Controller & Plant Nervous Systems/Cognitive Control Nervous System.md",
+    "Functional Systems/Controller & Plant Nervous Systems/Endocrine System.md",
+    "Functional Systems/Controller & Plant Nervous Systems/Basal Ganglia Nervous System.md",
+    "Functional Systems/Sensation & Model Nervous Systems/Declarative Memory Nervous System.md",
+    "Functional Systems/Uncategorized/Mesencephalic Locomotor Region.md",
+    "Functional Systems/Controller & Plant Nervous Systems/Cerebellar Nervous System.md",
+    "z_png/Pasted image 20250918222736.png",
+    "z_png/Pasted image 20250914093245.png",
+    "z_png/Pasted image 20250916170242.png",
+    "z_png/Pasted image 20250915224748.png",
+    "Functional Systems/Controller & Plant Nervous Systems/Neurotransmission Systems/Hormones/Anterior Pituitary/Growth Hormone Releasing Hormone ",
+    "Neurotransmission/Hormones/Posterior Pituitary",
+    "Neurotransmission/Hormones/Anterior Pituitary",
     "Functional Systems/Multi-Role Nervous Systems",
     "White Matter Tracts/1. Brain/1. Telencephalon/Limbic",
     "White Matter Tracts/1. Brain/1. Telencephalon/1. Cortex/Longitudinal",
     "Functional Systems/Evaluator Nervous System",
     "Functional Systems/Separate Biological Systems",
     "Functional Systems/Controller & Plant Nervous Systems",
-    "White Matter Tracts/1. Brain/Longitudinal/Tectal",
-    "White Matter Tracts/1. Brain/Longitudinal/Sensory",
-    "White Matter Tracts/1. Brain/Longitudinal/Cerebellar",
-    "White Matter Tracts/Central Root/Afferent"
+    "White Matter Tracts/1. Brain/Longitudinal/Tectal"
   ]
 }

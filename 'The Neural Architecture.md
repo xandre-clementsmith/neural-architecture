@@ -1,8 +1,6 @@
 See [['Agentic Systems]] for the basic agentic architecture.
 # Functional Nervous Systems
 ### Sensation & Model Systems
-Non-Sensory Model Systems
-- [[Declarative Memory Nervous System]]
 Sensation-Based Model Systems
 - [['General Exteroceptive System]]
 - [['General Interoceptive System]]
@@ -13,13 +11,20 @@ Sensation-Based Model Systems
 - Special Interoception
 	- [[Olfactory Nervous Sytem]]
 	- [[Gustatory Nervous System]]
+Non-Sensory Model Systems
+- [[Declarative Memory Nervous System]]
 ### Evaluative Nervous System
-- [['Limbic Nervous System]]
+- [[Affective Nervous System]]
 ### Controller & Plant Systems
+Hypothalamic
 - [['Autonomic Nervous System]]
 - [[Endocrine System]]
 - [[Enteric Nervous System]]
-- [['Somatic Nervous System]]
+Cortical
+- [[Basal Ganglia Nervous System]] - [[Cortico-Striatal Connections]]
+- [[Cerebellar Nervous System]] - [[Corticopontine Tract]]
+- [[Cognitive Control Nervous System]] - [[Prefrontal Cortex]]
+- [[Somatomotor Nervous System]] - [[Motor Cortex (M1)]]
 
 
 ![[Pasted image 20250810101716.png]]
@@ -27,5 +32,3 @@ Sensation-Based Model Systems
 ![[Pasted image 20240211105716.png]]
 ![[Pasted image 20250810101619.png]]
 ![[Pasted image 20240211110813.png]]
-![[Pasted image 20250906141553.png]]
-Claus Lunau

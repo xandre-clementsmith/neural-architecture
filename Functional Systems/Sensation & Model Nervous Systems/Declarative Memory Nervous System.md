@@ -19,3 +19,7 @@ References
 References:
 - https://pmc.ncbi.nlm.nih.gov/articles/PMC6132648/
 - https://jnnp.bmj.com/content/jnnp/91/5/547.full.pdf
+
+Dorsal vs Ventral:
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC2822727/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC524959/

@@ -17,7 +17,7 @@
 | N/A     | Ventral Horn                   | [[RL VIII]], [[RL IX]]                            | (Plant)                                         |
 | N/A     | Sympathetic Column             | [[Sympathetic Nervous System]]                    | [[Sympathetic Nervous System]] (Plant)          |
 | N/A     | Parasympathetic Column         | [[Parasympathetic Nervous System]]                | [[Parasympathetic Nervous System]] (Plant)      |
-| N/A     | Somatomotor Column             | [[Corticospinal Tract]] to [[RL VIII]], [[RL IX]] | [['Somatic Nervous System]] (Plant)             |
+| N/A     | Somatomotor Column             | [[Corticospinal Tract]] to [[RL VIII]], [[RL IX]] | [[Somatomotor Nervous System]] (Plant)             |
 | XI      | Nucleus Accessory Spinal Nerve | [[Spinal Accessory Nucleus]]                      | Sternocleidomastoid & Trapezius Muscles (Plant) |
 ### [['Medulla Oblongata]]
 
@@ -61,7 +61,7 @@
 | N/A     | Gigantocellular Reticular Nucleus     | [[Gigantocelullar Reticular Nucleus]]                      | ?                                                                                                                          |
 | N/A     | Magnocellular Reticular Nucleus       | [[Magnocellular Reticular Nucleus]]                        | ?                                                                                                                          |
 | SUT     | Supratrigeminal Nucleus               | [[Supratrigeminal Nucleus]]                                | ?                                                                                                                          |
-| N/A     | Pedunculopontine Nucleus              | [[Pedunculopontine Nucleus]]                               | [[Mesencephalic Locomotor Region?]], [[Acetylcholine (ACh)]]                                                               |
+| N/A     | Pedunculopontine Nucleus              | [[Pedunculopontine Nucleus]]                               | [[Mesencephalic Locomotor Region]], [[Acetylcholine (ACh)]]                                                               |
 | DMX     | Dorsal Motor Nucleus Vagus            | [[Dorsal Motor Nucleus of the Vagus Nerve]]                | [[Parasympathetic Nervous System]] (Controller) ([[CN X]])                                                                 |
 | AMBv    | Nucleus Ambiguus, Ventral             | [[Nucleus Ambiguus]]                                       | [[Gustatory Nervous System]] (Controller) ([[CN IX]], [[CN X]])                                                            |
 | AMBd    | Nucleus Ambiguus, Dorsal              | [[Nucleus Ambiguus]]                                       | [[Gustatory Nervous System]] (Controller) ([[CN IX]], [[CN X]])                                                            |
@@ -69,12 +69,12 @@
 | ISN     | Inferior Salivatory Nucleus           | [[Inferior Salivatory Nucleus]]                            | [[Parasympathetic Nervous System]] Salivation / [[Gustatory Nervous System]] ([[CN IX]])                                   |
 | SSN     | Super Salivatory Nucleus              | [[Superior Salivatory Nuclei]]                             | [[Parasympathetic Nervous System]] Salivation / [[Gustatory Nervous System]] ([[CN IX]])                                   |
 | PGRN    | Paragigantocellular Reticular Nucleus | [[Nucleus Paragigantocellularis]]                          | ?                                                                                                                          |
-| N/A     | Facial                                | [[Facial Sensory Nucleus]], [[Facial Motor Nucleus]]       | [['General Interoceptive System]], [['General Exteroceptive System]], [['Somatic Nervous System]] (Controller) ([[CN VII]]) |
+| N/A     | Facial                                | [[Facial Sensory Nucleus]], [[Facial Motor Nucleus]]       | [['General Interoceptive System]], [['General Exteroceptive System]], [[Somatomotor Nervous System]] (Controller) ([[CN VII]]) |
 | EV      | Efferent Vestibular Nucleus           | [[Vestibular Nuclei]], Motor                               | [[Reflexive Nervous System]] (Controller)                                                                                  |
 | ECO     | Efferent Cochlear Group               | [[Cochlear Nuclei]], Motor                                 | [[Auditory Nervous System]] (Controller)                                                                                   |
 | N/A     | Pontine Reticular Nucleus             | [['(Pontine) Reticular Formation]]                         | ?                                                                                                                          |
 | VI      | Abducens Nucleus                      | [[Abducens Nucleus]]                                       | [[Visual Nervous System]] (Controller) ([[CN VI]])                                                                         |
-| N/A     | Trigeminal Motor                      | [[Trigeminal Sensory Nuclei]], [[Trigeminal Motor Nuclei]] | [['Somatic Nervous System]] (Controller) ([[CN V]])                                                                         |
+| N/A     | Trigeminal Motor                      | [[Trigeminal Sensory Nuclei]], [[Trigeminal Motor Nuclei]] | [[Somatomotor Nervous System]] (Controller) ([[CN V]])                                                                         |
 ### [['Cerebellum]]
 
 | Acronym | Name             | Reference                | Function                                                                 |
@@ -103,7 +103,7 @@
 | N/A     | Inferior Colliculus                   | [[Inferior Colliculus]]                  | [[Auditory Nervous System]] (Model)                                  |
 | N/A     | Superior Colliculus                   | [[Superior Colliculus]]                  | [[Visual Nervous System]] (Model)                                    |
 | N/A     | Pretectum                             | [['Pretectum]]                           | [[Visual Nervous System]] (Model)                                    |
-| N/A     | Cuneiform Nucleus                     | [[Cuneiform Nucleus]]                    | [[Mesencephalic Locomotor Region?]]                                  |
+| N/A     | Cuneiform Nucleus                     | [[Cuneiform Nucleus]]                    | [[Mesencephalic Locomotor Region]]                                  |
 | SAG     | Nucleus Sagulum                       | [[Lateral Lemniscus]] Nuclei             | [[Auditory Nervous System]]                                          |
 | PBG     | Parabigeminal Nucleus                 | [[Parabigeminal Nucleus]]                | [[Visual Nervous System]]?                                           |
 | NB      | Nucleus Brachium Inferior Colliculus  | [[Nucleus Brachium Inferior Colliculus]] | [[Auditory Nervous System]]                                          |
@@ -134,15 +134,15 @@ Very tentative functions - Need to return after mapping is matured
 
 | Acronym | Name                                          | Reference                                                                                      | Function                          |
 | ------- | --------------------------------------------- | ---------------------------------------------------------------------------------------------- | --------------------------------- |
-| N/A     | Habenula                                      | [['Habenula]]                                                                                  | [['Limbic Nervous System]]        |
+| N/A     | Habenula                                      | [['Habenula]]                                                                                  | [[Affective Nervous System]]        |
 | N/A     | Reticular                                     | [[Thalamic Reticular Nucleus]]                                                                 | Thalamic Inhibition               |
-| N/A     | Mediodorsal Nucleus                           | [[Mediodorsal Thalamus]]                                                                       | [['Limbic Nervous System]]        |
+| N/A     | Mediodorsal Nucleus                           | [[Mediodorsal Thalamus]]                                                                       | [[Affective Nervous System]]        |
 | N/A     | Intralaminar                                  | [['Intralaminar Formation]]                                                                    | ?                                 |
 | N/A     | Lateral                                       | [['Lateral Thalamus]]                                                                          | N/A                               |
 | LP      | Lateral Posterior Nucleus                     | [[Pulvinar, Thalamus]]                                                                         | [[Visual Nervous System]], DAN    |
 | PO      | Posterior Nucleus                             | [[Pulvinar, Thalamus]]                                                                         | [[Visual Nervous System]], DAN    |
-| N/A     | Anterior                                      | [['Anterodorsal Thalamus]]                                                                     | [['Limbic Nervous System]]        |
-| LD      | Lateral Dorsal Nucleus Thalamus               | [['Anterodorsal Thalamus]]                                                                     | [['Limbic Nervous System]]        |
+| N/A     | Anterior                                      | [['Anterodorsal Thalamus]]                                                                     | [[Affective Nervous System]]        |
+| LD      | Lateral Dorsal Nucleus Thalamus               | [['Anterodorsal Thalamus]]                                                                     | [[Affective Nervous System]]        |
 | N/A     | Geniculate                                    | [['Metathalamus]] / [[Medial Geniculate Nucleus]]                                              | [[Auditory Nervous System]]       |
 | LGd     | Dorsal Lateral Geniculate Nucleus             | [[Lateral Geniculate Nucleus]]                                                                 | [[Visual Nervous System]]         |
 | LGv     | Ventral Lateral Geniculate Nucleus            | [[Lateral Geniculate Nucleus]]                                                                 | [[Visual Nervous System]]         |
@@ -150,18 +150,18 @@ Very tentative functions - Need to return after mapping is matured
 | N/A     | Ventral                                       | [['Lateral Thalamus]]                                                                          | N/A                               |
 | VPM     | Ventral Posteromedial Nucleus                 | [[Ventroposterior Thalamus]]                                                                   | [['General Exteroceptive System]] |
 | VPL     | Ventral Posterolateral Nucleus                | [[Ventroposterior Thalamus]]                                                                   | [['General Exteroceptive System]] |
-| VAL     | Ventral Anterior-Lateral Complex              | [[Ventroanterior Thalamus]] / [[Ventrolateral Thalamus]]                                       | [['Somatic Nervous System]]       |
+| VAL     | Ventral Anterior-Lateral Complex              | [[Ventroanterior Thalamus]] / [[Ventrolateral Thalamus]]                                       | [[Somatomotor Nervous System]]       |
 | VM      | Ventral Medial Nucleus                        | [[Ventroanterior Thalamus]]?                                                                   | [[Basal Ganglia Nervous System]]  |
 | VPMpc   | Ventral Posteromedial Nucleus, Parvicellular  | [[Ventroposterior Thalamus]]                                                                   | [['General Exteroceptive System]] |
 | VPLpc   | Ventral Posterolateral Nucleus, Parvicellular | [[Ventroposterior Thalamus]]                                                                   | [['General Exteroceptive System]] |
-| PVT     | Paraventricular Nucleus Thalamus              | [['Periventricular Formation, Thalamus]]                                                       | [['Limbic Nervous System]]        |
-| PT      | Parataenial Nucleus                           | [['Midline Nuclei, Thalamus]] & [['Periventricular Formation, Thalamus]] (Parataenial Nucleus) | [['Limbic Nervous System]]        |
-| N/A     | Midline                                       | [['Midline Nuclei, Thalamus]]                                                                  | [['Limbic Nervous System]]        |
-| RE      | Nucleus Reuniens                              | [['Midline Nuclei, Thalamus]] & [['Periventricular Formation, Thalamus]] (Reuniens Nucleus)    | [['Limbic Nervous System]]        |
-| SMT     | Submedial Nucleus Thalamus                    | [['Midline Nuclei, Thalamus]]                                                                  | [['Limbic Nervous System]]        |
+| PVT     | Paraventricular Nucleus Thalamus              | [['Periventricular Formation, Thalamus]]                                                       | [[Affective Nervous System]]        |
+| PT      | Parataenial Nucleus                           | [['Midline Nuclei, Thalamus]] & [['Periventricular Formation, Thalamus]] (Parataenial Nucleus) | [[Affective Nervous System]]        |
+| N/A     | Midline                                       | [['Midline Nuclei, Thalamus]]                                                                  | [[Affective Nervous System]]        |
+| RE      | Nucleus Reuniens                              | [['Midline Nuclei, Thalamus]] & [['Periventricular Formation, Thalamus]] (Reuniens Nucleus)    | [[Affective Nervous System]]        |
+| SMT     | Submedial Nucleus Thalamus                    | [['Midline Nuclei, Thalamus]]                                                                  | [[Affective Nervous System]]        |
 | SPF     | Subparafascicular Nucleus                     | [[2. Diencephalon/Thalamus/Intralaminar Formation/A11]]                                                                  | [[Dopamine (DA)]]                 |
 | STN     | Subthalamic Nucleus                           | [['Subthalamic Nuclei]]                                                                        | [[DELETE - BASAL GANGLIA]]                |
-| N/A     | Zona Incerta                                  | [[Zona Incerta]]                                                                               | [['Limbic Nervous System]]        |
+| N/A     | Zona Incerta                                  | [[Zona Incerta]]                                                                               | [[Affective Nervous System]]        |
 | SCO     | Subcommissural Organ                          | [[Subcommissural Organ]]                                                                       | ?                                 |
 
 ### [['Hypothalamus]]
@@ -200,7 +200,7 @@ Very tentative functions - Need to return after mapping is matured
 | MS      | Medial Septal Nuclei         | [[Medial Septal Nucleus]]                                                               |          |
 | NDB     | Nucleus of the Diagonal Band | [[Nucleus of the Diagonal Band]]                                                        |          |
 | N/A     | Bed Nuclei Stria Terminali   | [[Bed Nucleus of the Stria Terminalis]]                                                 |          |
-| N/A     | Substantia Innominata        | [['Substantia Innominata]]                                                              |          |
+| N/A     | Substantia Innominata        | [[DELETE - VENTRAL PALLIDUM]]                                                              |          |
 | N/A     | Globus Pallidus              | [['Globus Pallidus]]                                                                    |          |
 | N/A     | Central Nucleus, Amygdala    | [[Central Amygdala]]                                                                    |          |
 

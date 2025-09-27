@@ -1,4 +1,3 @@
-- [[Serotonin (5-HT)|Serotonin (5-HT)]]
 - Alt Name: Caudal Linear Nucleus Raphe
 - [[Dopamine (DA)]] and [[Serotonin (5-HT)]] to [['Cerebellum]] and [['(Pontine) Reticular Formation]]
 ### Afferents

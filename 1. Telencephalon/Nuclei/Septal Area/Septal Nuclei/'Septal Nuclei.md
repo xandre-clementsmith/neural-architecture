@@ -40,7 +40,7 @@ Pallidal
 	- [[Septofimbrial Nucleus]]
 	- [[Nucleus Accumbens]]
 	- [['Amygdala]]
-	- [['Substantia Innominata]]
+	- [[DELETE - VENTRAL PALLIDUM]]
 
 	- Stria medullaris; [[Fornix]], columns; [[Fimbria]]
 

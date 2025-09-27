@@ -1,5 +1,6 @@
-- [[Mesencephalic Locomotor Region?]] along with [[Cuneiform Nucleus]]
+- Mesencephalic Locomotor Region along with [[Pedunculopontine Nucleus]]
 - Primarily integrator of upstream inputs to provide to reticulospinal
+- Potentially extension of [[Periaqueductal Gray]]
 ### Afferents
 - [['Amygdala]] (Centralis)
 - [[Zona Incerta]]
@@ -13,3 +14,6 @@
 - [['Nucleus of the Solitary Tract]]
 - [[Parabrachial Nucleus]]
 - Limbic Forebrain
+
+Ref:
+- https://pubmed.ncbi.nlm.nih.gov/36606723/

@@ -33,9 +33,9 @@
 - Medullary Reticular Nucleus
 - [[Lateral Reticular Nucleus]]
 
-- [[B3 - Magnus Raphe Nuclei]]
 - [[B1 - Pallidus Raphe Nuclei]]
 - [[B2 - Obscurus Raphe Nuclei]]
+- [[B3 - Magnus Raphe Nuclei]]
 
 # Reticular Nuclei
 - [['(Pontine) Reticular Formation]]

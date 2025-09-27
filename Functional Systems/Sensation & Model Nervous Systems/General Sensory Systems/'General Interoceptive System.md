@@ -12,5 +12,6 @@ Temperature, Pain, Internal Sensation
 - [[Trigeminal Sensory Nuclei]] - Face? Needs more clarity
 # Model
 # Evaluator
-# Controller
-# Plant
+- [[Affective Nervous System]]
+# Controller & Plant
+See [['Autonomic Nervous System]] for controller and plant component of general interoceptive system
