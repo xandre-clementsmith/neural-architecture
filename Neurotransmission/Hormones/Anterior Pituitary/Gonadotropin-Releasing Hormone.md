@@ -1,4 +1,5 @@
 - Species-specific, and more distributed than most pituitary-terminating neurons
+- Hypothalamic Infundibular Nucleus?
 # Luteinizing Hormone
 - Produced in [[Anterior Hypothalamus]]
 - Controlled by Gonadotropic Cells, Reproductive Function

@@ -1,4 +1,5 @@
 # Overview
+- Includes perifornical area with significant [[Orexin]]
 ### Afferents - Hypothalamic Connectivity
 - [['Periventricular Zone]]
 	- [[Internuclear Hypothalamus]]

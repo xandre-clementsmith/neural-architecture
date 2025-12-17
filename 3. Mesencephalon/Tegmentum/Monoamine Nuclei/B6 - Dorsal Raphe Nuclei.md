@@ -12,7 +12,7 @@ Striatum
 - [[Nucleus Accumbens]] <<
 Putamen
 - [[Ventral Pallidum]] <<
-- [['Globus Pallidus]] <
+- [[Globus Pallidus]] <
 Thalamus
 - [[Mediodorsal Thalamus]]
 - [[Lateral Habenula]] <

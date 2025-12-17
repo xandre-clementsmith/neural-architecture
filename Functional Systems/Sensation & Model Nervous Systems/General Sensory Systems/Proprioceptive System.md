@@ -1,0 +1,2 @@
+- Lower limbs from Clarke's column / Dorsal nucleus
+- Upper limbs and upper trunk from accessory cuneate nucleus

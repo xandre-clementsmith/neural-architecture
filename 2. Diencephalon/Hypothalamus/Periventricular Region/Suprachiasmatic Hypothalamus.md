@@ -1,3 +1,4 @@
+- Control and entrainment of sleep-wake cycle involving [[Melatonin]] via photoreceptors and the retinohypothalamic tract ([[Visual Nervous System]])
 ### Afferents - Hypothalamic Connectivity
 - [[Vascular Organ of Lamina Terminalis]]
 - [[Dorsomedial Hypothalamus]]

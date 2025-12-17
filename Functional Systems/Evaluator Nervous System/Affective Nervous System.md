@@ -27,7 +27,7 @@
 - [[Opioids]], [[Orexin]]
 ### Components
 Major Components
-- BA25: [[Sub-Genual Anterior Cingulate Cortex]] / [[Ventromedial Prefrontal Cortex]] / Visceromotor
+- BA25: [[Subgenual Anterior Cingulate Cortex]] / [[Ventromedial Prefrontal Cortex]] / Visceromotor
 - [[Nucleus Accumbens]], Dorsomedial Tip
 - [[Ventral Pallidum]], Caudolateral
 - [[Lateral Hypothalamus]], Rostromedial Anterior
@@ -110,3 +110,6 @@ Current Readings:
 - https://www.thetransmitter.org/dopamine/reconstructing-dopamines-link-to-reward/ / https://www.nature.com/articles/s41586-019-1261-9
 - https://gershmanlab.com/pubs/Gershman24_dopamine.pdf
 - https://pmc.ncbi.nlm.nih.gov/articles/PMC10841673/pdf/nihms-1935407.pdf
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC7219919/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC4425246/
+- https://www.nature.com/articles/nn2061

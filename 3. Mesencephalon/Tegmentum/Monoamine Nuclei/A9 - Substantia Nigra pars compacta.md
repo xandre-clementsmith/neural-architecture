@@ -4,7 +4,7 @@
 - [[Putamen]] - GABA
 - [[Nucleus Accumbens]]
 - [[Olfactory Tubercle]]?
-- [['Globus Pallidus]] - GABA
+- [[Globus Pallidus]] - GABA
 - [[Substantia Nigra pars reticular]] - GABA
 - [['Subthalamic Nuclei]] - Glutamate
 - [[Pedunculopontine Nucleus]] - Glutamate

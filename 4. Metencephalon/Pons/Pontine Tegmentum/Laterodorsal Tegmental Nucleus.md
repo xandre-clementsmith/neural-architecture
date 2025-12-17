@@ -1,6 +1,7 @@
 - Final nucleus of continuum from [[Substantia Nigra pars reticular]] through [[Pedunculopontine Nucleus]]
 - Limbic component to [[Pedunculopontine Nucleus]] motor
 - Part of extended [[Basal Ganglia Nervous System]]
+- Maybe encodes surprise or attention
 ### Afferents
 - Frontal Cortex
 - [[Diagonal Band of Broca]]

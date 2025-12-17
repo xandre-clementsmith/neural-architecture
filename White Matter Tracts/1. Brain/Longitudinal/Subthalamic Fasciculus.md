@@ -1,1 +1,1 @@
-- Connects [['Subthalamic Nuclei]] with [['Globus Pallidus]]
+- Connects [['Subthalamic Nuclei]] with [[Globus Pallidus]]

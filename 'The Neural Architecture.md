@@ -21,7 +21,7 @@ Hypothalamic
 - [[Endocrine System]]
 - [[Enteric Nervous System]]
 Cortical
-- [[Basal Ganglia Nervous System]] - [[Cortico-Striatal Connections]]
+- [[Basal Ganglia Nervous System]] - [[Corticostriatal Pathway]]
 - [[Cerebellar Nervous System]] - [[Corticopontine Tract]]
 - [[Cognitive Control Nervous System]] - [[Prefrontal Cortex]]
 - [[Somatomotor Nervous System]] - [[Motor Cortex (M1)]]

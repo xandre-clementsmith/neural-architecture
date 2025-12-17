@@ -3,6 +3,8 @@ https://en.wikipedia.org/wiki/Spinal_cord#/media/File:Spinal_cord_tracts_-_Engli
 
 ![[Pasted image 20240227214751.png]]
 ![[Pasted image 20240328215654.png]]
+![[Pasted image 20251109223022.png]]
+![[Pasted image 20251109223125.png]]
 
 Pain Circuitry: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3277941/
 

@@ -12,7 +12,10 @@ Climbing Fibers Modulating Granule-Purkinje Connections
 - Corticorubral: [['Telencephalon]] -> [[Corticorubral Tract]] -> [[Parvocellular Red Nucleus]] -> [[Inferior Olive]] -> [['Cerebellar Lobes]] -> [[Dentate Nucleus]] (Lateral) -> [[Parvocellular Red Nucleus]] / [[Ventrolateral Thalamus]] 
 - Non-cortical Somatomotor -> [[Inferior Olive]] -> [['Cerebellar Lobes]]
 ### Sensation
-- [['General Exteroceptive System]]
+- [['General Exteroceptive System]] / [[Proprioceptive System]]
+- [['Spinocerebellar Tract]]
+- [['Pontine Nuclei]]
+- Central Cervical Nucleus
 ### Model
 - [['Cerebellum]]
 ### Controller

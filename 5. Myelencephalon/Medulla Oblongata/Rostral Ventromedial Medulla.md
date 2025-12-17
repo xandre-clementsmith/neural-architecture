@@ -1,4 +1,5 @@
 - Output of PAG-RVM system, receiving innervation from [[Periaqueductal Gray]]
+- Characterized by response to nociceptive input
 - May be part of reticular formation?
 ### Afferents
 - [[Medial Prefrontal Cortex]] - Prelimbic, Infralimbic, and Medial/Lateral Precentral

@@ -4,6 +4,7 @@ Temperature, Pain, Internal Sensation
 	- [['Spinothalamic Tract]] (STT): 
 		- [[Lateral Spinothalamic Tract]]: Nociception, Temperature, C-Tactile Afferent
 		- [[Anterior Spinothalamic Tract]]: Crude Touch, Pressure
+	- Lateral Cervical Nucleus relay
 	- [[Spinoreticular Tract]]: Alertness and Arousal
 	- [[Spinotectal Tract]]: Orients head and eyes towards stimulus. Terminates in [[Superior Colliculus]] and [[Inferior Colliculus]]
 - [[CN X]]
@@ -11,6 +12,8 @@ Temperature, Pain, Internal Sensation
 - Circumventricular Organs: Blood-brain sensory transduction via the subfornical organ, [[Subcommissural Organ]], [[Area Postrema]], [[Vascular Organ of Lamina Terminalis]], [[Median Eminence]], pituitary neural lobe, and pineal gland.
 - [[Trigeminal Sensory Nuclei]] - Face? Needs more clarity
 # Model
+- [['Nucleus of the Solitary Tract]] - Parasympathetic interoception
+- [[Parabrachial Nucleus]] - Combined sympathetic and parasympathetic interoception
 # Evaluator
 - [[Affective Nervous System]]
 # Controller & Plant

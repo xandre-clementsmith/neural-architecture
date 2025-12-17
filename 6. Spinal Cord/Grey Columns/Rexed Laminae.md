@@ -8,7 +8,7 @@ Exteroceptive Sensory Dorsal Horn (Includes part of RL II)
 - [[RL V]] - Aß, Faster Aδ and C for pain and reflexes?
 - [[RL VI]] - Proprioception? 
 ### Lateral Grey Column
-- [[RL VII]] - Motor. Integrative.
+- [[RL VII]] - Autonomic (Sympathetic and Parasympathetic). Interoception. Proprioception.
 - [[RL X]] - 
 ### Anterior Grey Column
 - [[RL VIII]] - γ motor modulation.

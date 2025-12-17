@@ -24,9 +24,10 @@ Below are unconfirmed from NTS
 - May include components of hypothalamus as well?
 # Controller
 1. Control Hubs
-- ? [[2. Diencephalon/Hypothalamus/Neuroendocrine Motor Zone/Paraventricular Hypothalamus]] <- Receives inputs from [[Anterior Hypothalamus]], [['Lateral Zone]], [['Mammillary Bodies]], Posterior [['Hypothalamus]]
+- ? [[Paraventricular Hypothalamus]] <- Receives inputs from [[Anterior Hypothalamus]], [['Lateral Zone]], [['Mammillary Bodies]], Posterior [['Hypothalamus]]
 - [[Periaqueductal Gray]] <- Parasympathetic response to inescapable pain/stress
-2. Cranial Nerve Nuclei
+- [[Nucleus Ambiguus]]
+1. Cranial Nerve Nuclei
 	- [[Dorsal Motor Nucleus of the Vagus Nerve]] (CN X)
 	- [[Accessory Oculomotor Nucleus]] (CN III)
 	- [[Facial Sensory Nucleus]] (CN VII)

@@ -14,7 +14,7 @@ Striatum
 - [[Nucleus Accumbens]] <<
 Pallidum
 - [[Ventral Pallidum]] <<
-- [['Globus Pallidus]] <
+- [[Globus Pallidus]] <
 Thalamus
 - [[Medial Geniculate Nucleus]] / [[Lateral Geniculate Nucleus]]
 - [[Mediodorsal Thalamus]]

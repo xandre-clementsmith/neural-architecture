@@ -15,7 +15,7 @@ Visual Tracts
 		- Cerebellar Inputs via Inferior (Error) Peduncles
 		- Reticular Formation
 		- Thalamus, Subthalamus
-	- -> [['Hypothalamus]] -> [[Pineal Gland]] (Melatonin)
+	- -> [[Suprachiasmatic Hypothalamus]] -> [[Pineal Gland]] (Melatonin)
 
 ![[Pasted image 20240212003149.png]]
 ![[Pasted image 20240528014120.png]]

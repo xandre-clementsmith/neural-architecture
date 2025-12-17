@@ -1,3 +1,4 @@
+- [[Affective Nervous System]]
 READ THIS: https://www.sciencedirect.com/science/article/pii/S0896627312002814 & https://www.nature.com/articles/nature12475
 ### General Information
 - Catecholamine / Monoamine Neurotransmitter synthesized from Tyrosine
@@ -17,7 +18,7 @@ Primary
 - [[A10 - Ventral Tegmental Area]] - A10 
 - [[A12]] of [[Arcuate Hypothalamus]] - A12
 Seconday
-- [[A8]] of [[Mesencephalic Reticular Formation]] (Retrorubral Field)
+- [[A8 - Retrorubral Field]] of [[Mesencephalic Reticular Formation]] (Retrorubral Field)
 - [[A10 - Central Linear Raphe Nuclei]] - A10
 - [[2. Diencephalon/Hypothalamus/Periventricular Region/A11]] and [[2. Diencephalon/Hypothalamus/Periventricular Region/A14]] of [['Periventricular Zone]]
 - [[A13]] of [[Zona Incerta]]
@@ -44,20 +45,26 @@ Incertohypothalamic (A13)
 - [[Zona Incerta]] to [['Hypothalamus]]
 Hypothalamus-Septum (A14)
 - [['Periventricular Zone]] to [['Septal Nuclei]]
+# Receptors
+### Metabotropic
+D1-like Family Receptors: Gs -> Excites Adenylate Cyclase -> ↑cAMP
+- Includes D1, D5
+D2-like Family Receptors: Gi -> Inhibits Adenylate Cyclase -> ↓cAMP
+- Includes D2, D3, D5
 ### Receptor Distribution
-###### D1/D5
+##### D1/D5
 Highest Density
 - [[Caudate Nucleus]]
 - [[Putamen]]
 - [[Nucleus Accumbens]]
 - [[Olfactory Bulb]]
 - [[Substantia Nigra pars reticular]]
-###### D2/D3/D4
+##### D2/D3/D4
 Highest Density
 - [[Caudate Nucleus]]
 - [[Putamen]]
 Lower Density
-- [['Globus Pallidus]]
+- [[Globus Pallidus]]
 - [[Nucleus Accumbens]]
 - [[Hippocampus Proper]]
 - [['Amygdala]]
@@ -77,3 +84,4 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6342021/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2967375/
 https://www.science.org/doi/10.1126/science.275.5306.1593
 https://www.cell.com/neuron/fulltext/S0896-6273(12)00281-4
+https://ebrary.net/132027/health/mesocortical_mesolimbic_nigrostriatal_dopaminergic_pathways

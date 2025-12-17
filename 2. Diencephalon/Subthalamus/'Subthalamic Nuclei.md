@@ -1,4 +1,7 @@
-- Part of the [[DELETE - BASAL GANGLIA]] system
+- Part of the [[Basal Ganglia Nervous System]] system
+- Receives minor but critical afferents from [[Corticosubthalamic Projections]], but most massive source is [[Globus Pallidus External Segment]] GABAergic innervation
+- Enriched with NMDA, AMPA, and mGluRs1/5
+- Glutamatergic multipolar neurons
 ### Afferents
 - [[Globus Pallidus External Segment]] - Motor
 - [[Motor Cortex (M1)]] - Motor 

@@ -38,7 +38,6 @@ Major Pathways
 - Mammillotegmental Tract
 	- Projects into mesecephalic and pontine reticular formation
 # Parasympathetic
-
 - Sensory Component: [['Nucleus of the Solitary Tract]] and [[Parabrachial Nucleus]] (for indirect NTS)
 - TBD: [[Dorsal Motor Nucleus of the Vagus Nerve]], [[Nucleus Ambiguus]], [[Trigeminal Motor Nuclei]]
 

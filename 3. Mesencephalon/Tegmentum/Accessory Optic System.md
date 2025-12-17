@@ -1,7 +1,8 @@
 ### Organization
-- Dorsoterminal Nucleus
+- Dorsoterminal Nucleus (Dorsal Terminal Nucleus of Accessory Optic Tract)
 - Lateroterminal Nucleus
 - Medioterminal Nucleus
+- 
 ### Afferents
 - Retina
 ### Efferents

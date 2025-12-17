@@ -1,0 +1,1 @@
+- Composed of [[Globus Pallidus Internal Segment]], [[Globus Pallidus External Segment]]

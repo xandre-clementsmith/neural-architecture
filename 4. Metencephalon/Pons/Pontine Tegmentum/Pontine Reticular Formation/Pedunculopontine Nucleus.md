@@ -4,6 +4,7 @@
 - Composed of cholinergic (~3000 in rat PPN), GABAergic, and glutamatergic neurons
 - Cholinergic neurons form a continuum from caudal end of substantia nigra (rostral part of PPN), and ending at caudal end of LDT [[Laterodorsal Tegmental Nucleus]] (Limbic Component)
 - Historically considered part of the mesencephalic locomotor region along with [[Cuneiform Nucleus]], but pedunculopontine is motor to LDT limbic function, and pedunculopontine has only minor descending projections
+- [[Acetylcholine (ACh)]]
 ### Cholinergic Neurons
 - Cholinergic neurons are fewest rostrally, and increase gradually caudally
 - Brainstem acetylcholine origin alongside LDT (Collectively known as the meso-pontine tegmental area)
@@ -79,7 +80,6 @@
 References: 
 - https://www.frontiersin.org/articles/10.3389/fnana.2011.00022/full
 - https://pubmed.ncbi.nlm.nih.gov/23509047/
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3074429/
 - https://www.sciencedirect.com/science/article/pii/S0896627317301356
 - https://www.frontiersin.org/articles/10.3389/fnana.2016.00109/full 
 - https://pubmed.ncbi.nlm.nih.gov/19369554/

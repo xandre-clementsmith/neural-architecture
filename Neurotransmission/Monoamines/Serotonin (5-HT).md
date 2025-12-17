@@ -68,12 +68,12 @@ Gs-Coupled / 5-HT7 Receptors
 Ligand-Gated Ion Channel
 - 5-HT 3 
 	- Hippocampus, entorhinal cortex, amygdala, nucleus accumbens, solitary tract nerve, trigeminal nerve, motor nucleus of the dorsal vagal nerve, area postrema, spinal cord
+	- A cys-loop ligand-gated ion channel member, alongside nicotinic [[Acetylcholine (ACh)]], [[Glycine]], [[GABA]] A, and Zinc-Activated Receptors
 
 ![[Pasted image 20240525174155.png]]
 ![[Pasted image 20240329204208.png]]
 ![[Pasted image 20240524193917.png]]
 ![[Pasted image 20250918222736.png]]
-![[Pasted image 20250918223215.png]]
 
 Ref:
 - https://www.ncbi.nlm.nih.gov/books/NBK28234/

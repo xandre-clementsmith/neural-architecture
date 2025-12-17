@@ -22,7 +22,7 @@ Somatosensory: https://www.nature.com/articles/s41593-019-0536-7
 - [['Pons]]
 - [[Periaqueductal Gray]]
 - [[Zona Incerta]]
-- [['Globus Pallidus]]
+- [[Globus Pallidus]]
 
 Percent of projections of corticospinal axon **collaterals**
 ![[Pasted image 20240227213123.png]]

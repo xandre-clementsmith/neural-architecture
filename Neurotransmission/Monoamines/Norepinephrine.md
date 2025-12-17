@@ -17,11 +17,19 @@ Locus Coeruleus (Extensive projections)
 - [[A6sc]] - Within Nucleus Subceruleus
 - [[Acg]] - Within [[Periaqueductal Gray]] (Lesser in macaque)
 ### Receptor Distribution
-- Alpha-1 - Activates phospholipase C increasing IP3 and calcium
-- Alpha-2 - Decreases cAMP by inhibiting adenylate cyclase
-- Beta-1 - Increases cAMP by activating adenylate cyclase
-- Beta-2 - Increases cAMP by activating adenylate cyclase
-- Beta-3 - Increases cAMP by activating adenylate cyclase
+- α1: α1A, α1B, α1D
+	- Gq coupled receptor
+	- Alpha-1 - Gq -> Activates Phospholipase C -> IP3 -> DAG -> Calcium -> PKC Up
+- α2: α2A, α2B, α2C
+	- Gi coupled receptor
+	- Alpha-2 - Gi -> Inhibits Adenylate Cyclase -> cAMP Down -> PKA Down
+- β: β1, β2, β3
+	- Gs coupled receptor
+	- β2 and β3 coupled to Gi as well
+	- Beta-1 - Gs -> Activates Adenylate Cyclase -> cAMP Up -> PKA Up
+	- Beta-2 - Gs -> Activates Adenylate Cyclase -> cAMP Up & Gi -> PKA Up or Down
+	- Beta-3 - Gs -> Activates Adenylate Cyclase -> cAMP Up & Gi -> PKA Up or Down
+
 
 ![[Pasted image 20250703142708.png]]
 AO, anterior olfactory nucleus; C, cingulate bundle; CC, corpus callosum; CT, central tegmental tract; CTX, cerebral cortex; DT, dorsal tegmental bundle; EC, external capsule; F, fornix; HF, hippocampal formation. OB, olfactory bulb; PT, pretectal nuclei; RF, reticular formation; S, septum; T, tectum; Th, thalamus.

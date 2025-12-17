@@ -13,12 +13,20 @@ References
 	- Indirect: -> [['Mammillary Bodies]] -> [['Anterodorsal Thalamus]] (Primary)
 	- Primarily glutamatergic
 
+AI-Generated, Needs Validation:
+Dorsal/Posterior: Spatial learning, memory, navigation -> Dorsal Subiculum -> Primarily postcommissural fornix
+Ventral/Anterior: Limbic, stress, anxiety -> Ventral Subiculum -> Primarily precommissural fornix - need to validate postcommissural fornix component
+
 ![[Pasted image 20250824205030.png]]
+![[Pasted image 20251213115542.png]]
+![[Pasted image 20251213115707.png]]
+![[Pasted image 20251213115620.png]]
 ![[Pasted image 20250824205015.png]]
 
 References:
 - https://pmc.ncbi.nlm.nih.gov/articles/PMC6132648/
 - https://jnnp.bmj.com/content/jnnp/91/5/547.full.pdf
+- https://www.intechopen.com/chapters/57312
 
 Dorsal vs Ventral:
 - https://pmc.ncbi.nlm.nih.gov/articles/PMC2822727/

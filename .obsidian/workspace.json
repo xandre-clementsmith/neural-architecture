@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a4599b471438eef8",
+            "id": "c4b50059b7abf205",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,48 +22,21 @@
             }
           },
           {
-            "id": "9d69179662dc2bcc",
+            "id": "13fa7d81dba892bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Diencephalon/Epithalamus/Habenula/Lateral Habenula.md",
+                "file": "1. Telencephalon/Nuclei/Basal Ganglia/Striatum/Ventral Striatum/Nucleus Accumbens.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lateral Habenula"
-            }
-          },
-          {
-            "id": "7a8e15aec5b187ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Diencephalon/Hypothalamus/Lateral Zone/Lateral Hypothalamus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lateral Hypothalamus"
-            }
-          },
-          {
-            "id": "521bb6c98ea25133",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Mesencephalon/Tegmentum/Periaqueductal Gray.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Periaqueductal Gray"
+              "title": "Nucleus Accumbens"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "periaq",
+                "query": "autonomic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,53 +176,124 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4599b471438eef8",
+  "floating": {
+    "id": "47f3c500f644d9d1",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b2e5cf1cf6102f15",
+        "type": "window",
+        "children": [
+          {
+            "id": "d94f6038bb353da3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dfb2fc3e8f7b31a2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Flatmap (1993).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Flatmap (1993)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 25,
+        "width": 724,
+        "height": 812,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "70649a4a648bd411",
+        "type": "window",
+        "children": [
+          {
+            "id": "6519b2cce04b0bb0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "205514678105a516",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Flatmap (1993).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Flatmap (1993)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 25,
+        "width": 729,
+        "height": 812,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "13fa7d81dba892bc",
   "lastOpenFiles": [
-    "3. Mesencephalon/Tegmentum/Periaqueductal Gray.md",
-    "3. Mesencephalon/Tegmentum/Monoamine Nuclei/'A6 - Locus Coeruleus.md",
-    "2. Diencephalon/Hypothalamus/Lateral Zone/Lateral Hypothalamus.md",
-    "1. Telencephalon/Nuclei/Amygdala/'Amygdala.md",
-    "Functional Systems/Evaluator Nervous System/Affective Nervous System.md",
+    "1. Telencephalon/'Telencephalon.md",
     "1. Telencephalon/Nuclei/Basal Ganglia/Striatum/Ventral Striatum/Nucleus Accumbens.md",
-    "2. Diencephalon/Epithalamus/Habenula/Lateral Habenula.md",
-    "z_png/Pasted image 20250924232934.png",
-    "Neurotransmission/Monoamines/Serotonin (5-HT).md",
-    "3. Mesencephalon/Tegmentum/Monoamine Nuclei/B6 - Dorsal Raphe Nuclei.md",
-    "5. Myelencephalon/Medulla Oblongata/Nucleus of the Solitary Tract/'Nucleus of the Solitary Tract.md",
-    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/Pedunculopontine Nucleus.md",
-    "z_png/Pasted image 20250926155507.png",
+    "Functional Systems/Evaluator Nervous System/Affective Nervous System.md",
+    "z_png/Pasted image 20251213134410.png",
+    "2. Diencephalon/Hypothalamus/Lateral Zone/Lateral Hypothalamic Area, Anterior.md",
     "3. Mesencephalon/Tegmentum/Monoamine Nuclei/A10 - Ventral Tegmental Area.md",
-    "z_png/Pasted image 20250926154339.png",
-    "z_png/Pasted image 20250926154330.png",
-    "z_png/Pasted image 20250924232950.png",
-    "Misc.md",
-    "Flatmap (1993).md",
+    "z_png/Pasted image 20251213132640.png",
+    "Flatmap (2018).md",
     "'The Neural Architecture.md",
-    "Functional Systems/Controller & Plant Nervous Systems/Somatomotor Nervous Systems/Somatomotor Nervous System.md",
     "'Agentic Systems.md",
-    "z_png/Pasted image 20250918223215.png",
-    "Functional Systems/Large-Scale Brain Networks.md",
-    "Functional Systems/Uncategorized/Large-Scale Brain Networks/Salience Network.md",
-    "Functional Systems/Controller & Plant Nervous Systems/Enteric Nervous System.md",
-    "Functional Systems/Controller & Plant Nervous Systems/Cognitive Control Nervous System.md",
-    "Functional Systems/Controller & Plant Nervous Systems/Endocrine System.md",
-    "Functional Systems/Controller & Plant Nervous Systems/Basal Ganglia Nervous System.md",
+    "z_png/Pasted image 20251213113044.png",
+    "Functional Systems/Controller & Plant Nervous Systems/Autonomic Nervous Systems/'Autonomic Nervous System.md",
+    "5. Myelencephalon/Medulla Oblongata/Cranial Nerves/Efferent/Vagus/Dorsal Motor Nucleus of the Vagus Nerve.md",
+    "5. Myelencephalon/Medulla Oblongata/Nucleus of the Solitary Tract/'Nucleus of the Solitary Tract.md",
+    "3. Mesencephalon/Tegmentum/Monoamine Nuclei/'A6 - Locus Coeruleus.md",
+    "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'(Pontine) Reticular Formation.md",
+    "2. Diencephalon/Thalamus/Midline Nuclei and Periventricular Formation/'Midline Nuclei, Thalamus.md",
+    "2. Diencephalon/Hypothalamus/Lateral Zone/Lateral Hypothalamus.md",
+    "3. Mesencephalon/Tegmentum/Interfascicular Nucleus.md",
+    "Neurotransmission/Monoamines/Dopamine (DA).md",
+    "A8 - Retrorubral Field.md",
+    "3. Mesencephalon/Tegmentum/Mesencephalic Reticular Formation.md",
+    "1. Telencephalon/Nuclei/Amygdala/Cortex/Basomedial Amygdala.md",
+    "White Matter Tracts/1. Brain/1. Telencephalon/Limbic/Fornix.md",
     "Functional Systems/Sensation & Model Nervous Systems/Declarative Memory Nervous System.md",
-    "Functional Systems/Uncategorized/Mesencephalic Locomotor Region.md",
-    "Functional Systems/Controller & Plant Nervous Systems/Cerebellar Nervous System.md",
-    "z_png/Pasted image 20250918222736.png",
-    "z_png/Pasted image 20250914093245.png",
-    "z_png/Pasted image 20250916170242.png",
-    "z_png/Pasted image 20250915224748.png",
+    "1. Telencephalon/Nuclei/Hippocampal Formation/Subiculum.md",
+    "z_png/Pasted image 20251213115707.png",
+    "z_png/Pasted image 20251213115620.png",
+    "z_png/Pasted image 20251213115542.png",
+    "1. Telencephalon/Nuclei/Basal Ganglia/Striatum/'Striatum.md",
+    "1. Telencephalon/Nuclei/Hippocampal Formation/'Hippocampal Formation.md",
+    "z_png/Pasted image 20251213114653.png",
+    "z_png/Pasted image 20251213114631.png",
+    "z_png/Pasted image 20251127101542.png",
+    "z_png/Pasted image 20251116151942.png",
+    "White Matter Tracts/1. Brain/1. Telencephalon/Striatal",
+    "Neurotransmission/G",
+    "Neurotransmission/Amino Acids",
     "Functional Systems/Controller & Plant Nervous Systems/Neurotransmission Systems/Hormones/Anterior Pituitary/Growth Hormone Releasing Hormone ",
     "Neurotransmission/Hormones/Posterior Pituitary",
     "Neurotransmission/Hormones/Anterior Pituitary",
     "Functional Systems/Multi-Role Nervous Systems",
     "White Matter Tracts/1. Brain/1. Telencephalon/Limbic",
     "White Matter Tracts/1. Brain/1. Telencephalon/1. Cortex/Longitudinal",
-    "Functional Systems/Evaluator Nervous System",
-    "Functional Systems/Separate Biological Systems",
-    "Functional Systems/Controller & Plant Nervous Systems",
-    "White Matter Tracts/1. Brain/Longitudinal/Tectal"
+    "Functional Systems/Evaluator Nervous System"
   ]
 }

@@ -20,7 +20,7 @@
 - [[Thyrotropin-Releasing Hormone]] (TSH): Controls metabolism through the thyroid, making up 5% of anterior pituitary cells
 	- -> Thyroid -> T3, T4
 	- -> Adrenals -> Corticosteroids
-- [[Growth Hormone-Releasing Hormone; Growth Hormone-Inhibiting Hormone]] -> Growth Hormone: Secreted from somatotrophs, which compromise about half of anterior pituitary cells
+- [[Growth Hormone-Releasing Hormone;]] -> Growth Hormone: Secreted from somatotrophs, which compromise about half of anterior pituitary cells
 	- -> Muscles -> IGF
 - [[Gonadotropin-Releasing Hormone]] -> Luteinizing Hormone and Follicle-Stimulating Hormone: Controls the reproductive system through the gonads, making up 10% of anterior pituitary cells
 	- -> Gonads -> Gonadal Hormones

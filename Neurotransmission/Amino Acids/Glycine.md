@@ -1,0 +1,3 @@
+- A cys-loop ligand-gated ion channel member, alongside nicotinic [[Acetylcholine (ACh)]], [[GABA]] A, [[Serotonin (5-HT)]] 5-HT3, and Zinc-Activated Receptors
+- Ionotropic receptor resulting in chloride current / ISPS / inhibition
+- Mainly spinal cord and brainstem
