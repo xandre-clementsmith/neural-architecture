@@ -1,5 +1,6 @@
 - [[Tectospinal Tract]]
 - [[Vestibulospinal Tract]]
+- [[Rubrospinal Tract]]
 ### Sensation
 - [[CN VIII]] - Vestibular
 ### Model

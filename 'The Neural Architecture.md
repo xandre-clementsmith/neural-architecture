@@ -13,18 +13,26 @@ Sensation-Based Model Systems
 	- [[Gustatory Nervous System]]
 Non-Sensory Model Systems
 - [[Declarative Memory Nervous System]]
+- [[Cerebellar Nervous System]]
 ### Evaluative Nervous System
 - [[Affective Nervous System]]
-### Controller & Plant Systems
-Hypothalamic
-- [['Autonomic Nervous System]]
-- [[Endocrine System]]
-- [[Enteric Nervous System]]
+### Controller Systems
 Cortical
-- [[Basal Ganglia Nervous System]] - [[Corticostriatal Pathway]]
-- [[Cerebellar Nervous System]] - [[Corticopontine Tract]]
-- [[Cognitive Control Nervous System]] - [[Prefrontal Cortex]]
-- [[Somatomotor Nervous System]] - [[Motor Cortex (M1)]]
+- [[Basal Ganglia Nervous System]]
+- [[Cognitive Control Nervous System]] - Large-Scale Brain Networks
+Hypothalamic
+- [['Autonomic Nervous System]] - Autonomic Ganglia, Cranial Nerves (Parasympathetic)
+- [[Endocrine System]]
+Brainstem
+- [[Reflexive Nervous System]] - [[Tectospinal Tract]], [[Vestibulospinal Tract]], [[Rubrospinal Tract]]
+- [[Reticular Nervous System]] - [[Reticulospinal Tracts]]
+External
+- [[Enteric Nervous System]]
+### Plant Systems
+- [[Endocrine System]]
+- [['Autonomic Nervous System]]
+- [[Somatomotor Nervous System]]
+
 
 
 ![[Pasted image 20250810101716.png]]

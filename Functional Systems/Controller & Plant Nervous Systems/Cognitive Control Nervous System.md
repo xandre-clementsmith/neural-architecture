@@ -1,1 +1,3 @@
-- Need to determine how to separate out premotor functions, including working memory, cognitive control, action plans, etc.
+- Inclusive of at least cingulo-opercular network and fronto-parietal network - maybe DAN, DMN, and others
+
+![[Pasted image 20251217234458.png]]
