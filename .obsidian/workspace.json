@@ -64,6 +64,20 @@
             }
           },
           {
+            "id": "aaf48b4690d576bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Misc"
+            }
+          },
+          {
             "id": "5b5f5dbd872d6e3c",
             "type": "leaf",
             "state": {
@@ -106,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -285,9 +299,17 @@
       }
     ]
   },
-  "active": "85ef634f3be1af99",
+  "active": "aaf48b4690d576bf",
   "lastOpenFiles": [
+    "README.md",
+    "Misc.md",
+    "Flatmap (2018).md",
+    "Fields of Research for Affective AI.md",
     "'The Neural Architecture.md",
+    "'Agentic Systems.md",
+    "Projects/Flatmap Visualization/Getting Started.md",
+    "Projects/Flatmap Visualization",
+    "Projects",
     "Functional Systems/Controller & Plant Nervous Systems/Cognitive Control Nervous System.md",
     "Functional Systems/Sensation & Model Nervous Systems/Declarative Memory Nervous System.md",
     "Functional Systems/Controller & Plant Nervous Systems/Somatomotor Nervous Systems/Reflexive Nervous System.md",
@@ -299,9 +321,6 @@
     "5. Myelencephalon/Medulla Oblongata/Cranial Nerves/Efferent/Vagus/'CN X.md",
     "5. Myelencephalon/Medulla Oblongata/Cranial Nerves/Afferent/Vagus/CN X.md",
     "Functional Systems/Controller & Plant Nervous Systems/Somatomotor Nervous Systems/Somatomotor Nervous System.md",
-    "Flatmap (2018).md",
-    "Fields of Research for Affective AI.md",
-    "'Agentic Systems.md",
     "4. Metencephalon/Pons/Pontine Tegmentum/Pontine Reticular Formation/'(Pontine) Reticular Formation.md",
     "4. Metencephalon/Pons/Pontine Tegmentum/Cranial Nerves/Afferent Nuclei/Vestibulocochlear/CN VIII.md",
     "White Matter Tracts/Longitudinal/Efferent/Vestibulospinal Tract.md",
@@ -311,10 +330,7 @@
     "Functional Systems/Sensation & Model Nervous Systems/General Sensory Systems/'General Exteroceptive System.md",
     "AI/Reinforcement Learning.md",
     "AI",
-    "README.md",
     "Tools.md",
-    "Misc.md",
-    "Flatmap (1993).md",
     "z_png/Pasted image 20251213134410.png",
     "z_png/Pasted image 20251213132640.png",
     "z_png/Pasted image 20251213113044.png",
@@ -330,8 +346,6 @@
     "Functional Systems/Controller & Plant Nervous Systems/Neurotransmission Systems/Hormones/Anterior Pituitary/Growth Hormone Releasing Hormone ",
     "Neurotransmission/Hormones/Posterior Pituitary",
     "Neurotransmission/Hormones/Anterior Pituitary",
-    "Functional Systems/Multi-Role Nervous Systems",
-    "White Matter Tracts/1. Brain/1. Telencephalon/Limbic",
-    "White Matter Tracts/1. Brain/1. Telencephalon/1. Cortex/Longitudinal"
+    "Functional Systems/Multi-Role Nervous Systems"
   ]
 }
